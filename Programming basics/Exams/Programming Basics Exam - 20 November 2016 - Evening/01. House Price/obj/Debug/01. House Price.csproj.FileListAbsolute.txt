@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\bin\Debug\_01.House_Price.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\bin\Debug\_01.House_Price.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\bin\Debug\_01.House_Price.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\obj\Debug\01. House Price.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\obj\Debug\_01.House_Price.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\obj\Debug\_01.House_Price.pdb

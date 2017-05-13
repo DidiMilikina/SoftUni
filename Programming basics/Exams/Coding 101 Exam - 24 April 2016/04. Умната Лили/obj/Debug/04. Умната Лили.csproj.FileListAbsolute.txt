@@ -1,0 +1,5 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\04. Умната Лили\bin\Debug\_04.Умната_Лили.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\04. Умната Лили\bin\Debug\_04.Умната_Лили.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\04. Умната Лили\bin\Debug\_04.Умната_Лили.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\04. Умната Лили\obj\Debug\_04.Умната_Лили.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\04. Умната Лили\obj\Debug\_04.Умната_Лили.pdb

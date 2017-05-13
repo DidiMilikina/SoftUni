@@ -1,0 +1,5 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.pdb

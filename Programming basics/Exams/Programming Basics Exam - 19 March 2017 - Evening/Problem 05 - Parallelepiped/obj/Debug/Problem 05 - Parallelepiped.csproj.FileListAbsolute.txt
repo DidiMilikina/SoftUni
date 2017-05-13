@@ -1,0 +1,5 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 05 - Parallelepiped\bin\Debug\Problem 05 - Parallelepiped.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 05 - Parallelepiped\bin\Debug\Problem 05 - Parallelepiped.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 05 - Parallelepiped\bin\Debug\Problem 05 - Parallelepiped.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 05 - Parallelepiped\obj\Debug\Problem 05 - Parallelepiped.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 05 - Parallelepiped\obj\Debug\Problem 05 - Parallelepiped.pdb

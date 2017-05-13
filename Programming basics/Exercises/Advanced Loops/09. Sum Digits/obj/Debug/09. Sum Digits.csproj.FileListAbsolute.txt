@@ -1,0 +1,1 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe.config

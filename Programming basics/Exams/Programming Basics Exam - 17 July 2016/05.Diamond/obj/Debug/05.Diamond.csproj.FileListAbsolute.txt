@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\05.Diamond\bin\Debug\05.Diamond.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\05.Diamond\obj\Debug\05.Diamond.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\05.Diamond\bin\Debug\05.Diamond.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\05.Diamond\bin\Debug\05.Diamond.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\05.Diamond\obj\Debug\05.Diamond.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\05.Diamond\obj\Debug\05.Diamond.pdb

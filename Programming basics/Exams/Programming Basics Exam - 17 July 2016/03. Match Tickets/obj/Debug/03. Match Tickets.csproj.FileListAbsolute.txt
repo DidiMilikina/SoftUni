@@ -1,0 +1,5 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\03. Match Tickets\bin\Debug\_03.Match_Tickets.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\03. Match Tickets\bin\Debug\_03.Match_Tickets.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\03. Match Tickets\bin\Debug\_03.Match_Tickets.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\03. Match Tickets\obj\Debug\_03.Match_Tickets.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\03. Match Tickets\obj\Debug\_03.Match_Tickets.pdb

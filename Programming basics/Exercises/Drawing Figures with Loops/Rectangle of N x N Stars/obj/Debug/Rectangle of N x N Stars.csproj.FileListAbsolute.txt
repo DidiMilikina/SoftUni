@@ -1,0 +1,1 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Drawing Figures with Loops\Rectangle of N x N Stars\bin\Debug\Rectangle of N x N Stars.exe.config

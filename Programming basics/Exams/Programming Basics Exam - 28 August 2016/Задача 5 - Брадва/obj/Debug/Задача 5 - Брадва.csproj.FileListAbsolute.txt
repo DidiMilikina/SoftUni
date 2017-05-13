@@ -1,0 +1,6 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\bin\Debug\Задача 5 - Брадва.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\bin\Debug\Задача 5 - Брадва.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\bin\Debug\Задача 5 - Брадва.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\obj\Debug\Задача 5 - Брадва.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\obj\Debug\Задача 5 - Брадва.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\obj\Debug\Задача 5 - Брадва.pdb

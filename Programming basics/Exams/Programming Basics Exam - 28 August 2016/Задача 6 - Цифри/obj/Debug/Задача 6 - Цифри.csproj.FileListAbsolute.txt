@@ -1,0 +1,6 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\bin\Debug\Задача 6 - Цифри.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\bin\Debug\Задача 6 - Цифри.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\bin\Debug\Задача 6 - Цифри.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\obj\Debug\Задача 6 - Цифри.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\obj\Debug\Задача 6 - Цифри.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\obj\Debug\Задача 6 - Цифри.pdb

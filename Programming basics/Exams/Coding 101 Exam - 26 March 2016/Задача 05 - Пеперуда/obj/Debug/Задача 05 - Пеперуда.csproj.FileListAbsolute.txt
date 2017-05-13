@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\bin\Debug\Задача 05 - Пеперуда.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\bin\Debug\Задача 05 - Пеперуда.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\bin\Debug\Задача 05 - Пеперуда.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\obj\Debug\Задача 05 - Пеперуда.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\obj\Debug\Задача 05 - Пеперуда.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\obj\Debug\Задача 05 - Пеперуда.csprojResolveAssemblyReference.cache

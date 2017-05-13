@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\08. Trade Comissions\bin\Debug\_08.Trade_Comissions.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\08. Trade Comissions\bin\Debug\_08.Trade_Comissions.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\08. Trade Comissions\bin\Debug\_08.Trade_Comissions.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\08. Trade Comissions\obj\Debug\08. Trade Comissions.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\08. Trade Comissions\obj\Debug\_08.Trade_Comissions.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\08. Trade Comissions\obj\Debug\_08.Trade_Comissions.pdb

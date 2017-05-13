@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\bin\Debug\_04.Logistics.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\bin\Debug\_04.Logistics.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\bin\Debug\_04.Logistics.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\obj\Debug\04. Logistics.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\obj\Debug\_04.Logistics.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\obj\Debug\_04.Logistics.pdb

@@ -1,0 +1,10 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Sumator\Sumator\bin\Debug\Sumator.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Sumator\Sumator\bin\Debug\Sumator.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Sumator\Sumator\bin\Debug\Sumator.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.Form1.resources
+c:\users\atanas\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+c:\users\atanas\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.csproj.GenerateResource.Cache
+c:\users\atanas\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.buttonCalculate.resources

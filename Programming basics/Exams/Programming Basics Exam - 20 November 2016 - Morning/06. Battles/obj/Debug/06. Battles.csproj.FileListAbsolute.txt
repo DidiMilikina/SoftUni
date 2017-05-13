@@ -1,0 +1,6 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\bin\Debug\_06.Battles.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\bin\Debug\_06.Battles.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\bin\Debug\_06.Battles.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\obj\Debug\06. Battles.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\obj\Debug\_06.Battles.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\obj\Debug\_06.Battles.pdb

@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\04. SoftUni Camp\obj\Debug\04. SoftUni Camp.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\04. SoftUni Camp\obj\Debug\_04.SoftUni_Camp.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\04. SoftUni Camp\obj\Debug\_04.SoftUni_Camp.pdb

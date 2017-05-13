@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 01 - Dog House\bin\Debug\Problem 01 - Dog House.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 01 - Dog House\bin\Debug\Problem 01 - Dog House.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 01 - Dog House\bin\Debug\Problem 01 - Dog House.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 01 - Dog House\obj\Debug\Problem 01 - Dog House.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 01 - Dog House\obj\Debug\Problem 01 - Dog House.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 01 - Dog House\obj\Debug\Problem 01 - Dog House.pdb

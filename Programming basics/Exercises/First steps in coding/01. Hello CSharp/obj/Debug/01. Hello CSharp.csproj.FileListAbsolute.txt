@@ -1,0 +1,1 @@
+c:\users\atanas\documents\visual studio 2015\Projects\First Steps in Coding\01. Hello CSharp\bin\Debug\_01.Hello_CSharp.exe.config

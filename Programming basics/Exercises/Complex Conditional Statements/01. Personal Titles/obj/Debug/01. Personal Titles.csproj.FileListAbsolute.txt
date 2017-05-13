@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\01. Personal Titles\bin\Debug\_01.Personal_Titles.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\01. Personal Titles\bin\Debug\_01.Personal_Titles.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\01. Personal Titles\bin\Debug\_01.Personal_Titles.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\01. Personal Titles\obj\Debug\01. Personal Titles.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\01. Personal Titles\obj\Debug\_01.Personal_Titles.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\01. Personal Titles\obj\Debug\_01.Personal_Titles.pdb

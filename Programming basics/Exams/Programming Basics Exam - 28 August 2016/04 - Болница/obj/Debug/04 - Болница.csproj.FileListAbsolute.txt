@@ -1,0 +1,6 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\04 - Болница\bin\Debug\04 - Болница.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\04 - Болница\bin\Debug\04 - Болница.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\04 - Болница\bin\Debug\04 - Болница.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\04 - Болница\obj\Debug\04 - Болница.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\04 - Болница\obj\Debug\04 - Болница.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\04 - Болница\obj\Debug\04 - Болница.pdb

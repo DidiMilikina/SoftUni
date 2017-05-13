@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\03. Vacation\bin\Debug\_03.Vacation.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\03. Vacation\bin\Debug\_03.Vacation.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\03. Vacation\bin\Debug\_03.Vacation.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\03. Vacation\obj\Debug\03. Vacation.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\03. Vacation\obj\Debug\_03.Vacation.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\03. Vacation\obj\Debug\_03.Vacation.pdb

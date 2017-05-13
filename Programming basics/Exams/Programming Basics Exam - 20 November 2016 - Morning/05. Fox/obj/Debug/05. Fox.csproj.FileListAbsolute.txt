@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\obj\Debug\05. Fox.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\obj\Debug\_05.Fox.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\obj\Debug\_05.Fox.pdb

@@ -1,0 +1,6 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\obj\Debug\_06.Max_Combination.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\obj\Debug\_06.Max_Combination.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\obj\Debug\06. Max Combination.csprojResolveAssemblyReference.cache

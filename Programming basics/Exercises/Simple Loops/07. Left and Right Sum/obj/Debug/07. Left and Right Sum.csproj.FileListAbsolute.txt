@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Simple Loops\07. Left and Right Sum\obj\Debug\07. Left and Right Sum.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.pdb

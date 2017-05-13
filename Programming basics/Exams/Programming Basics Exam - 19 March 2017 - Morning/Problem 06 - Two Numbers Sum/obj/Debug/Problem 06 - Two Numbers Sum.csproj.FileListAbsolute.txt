@@ -1,0 +1,6 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 06 - Two Numbers Sum\bin\Debug\Problem 06 - Two Numbers Sum.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 06 - Two Numbers Sum\bin\Debug\Problem 06 - Two Numbers Sum.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 06 - Two Numbers Sum\bin\Debug\Problem 06 - Two Numbers Sum.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 06 - Two Numbers Sum\obj\Debug\Problem 06 - Two Numbers Sum.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 06 - Two Numbers Sum\obj\Debug\Problem 06 - Two Numbers Sum.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 06 - Two Numbers Sum\obj\Debug\Problem 06 - Two Numbers Sum.csprojResolveAssemblyReference.cache

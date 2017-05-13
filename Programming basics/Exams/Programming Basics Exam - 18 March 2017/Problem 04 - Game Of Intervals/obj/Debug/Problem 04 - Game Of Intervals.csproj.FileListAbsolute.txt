@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 04 - Game Of Intervals\bin\Debug\Problem 04 - Game Of Intervals.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 04 - Game Of Intervals\bin\Debug\Problem 04 - Game Of Intervals.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 04 - Game Of Intervals\bin\Debug\Problem 04 - Game Of Intervals.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 04 - Game Of Intervals\obj\Debug\Problem 04 - Game Of Intervals.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 04 - Game Of Intervals\obj\Debug\Problem 04 - Game Of Intervals.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 04 - Game Of Intervals\obj\Debug\Problem 04 - Game Of Intervals.pdb

@@ -1,0 +1,2 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple Conditions\Bonus Score\bin\Debug\Bonus Score.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple Conditions\Bonus Score\obj\Debug\Bonus Score.csprojResolveAssemblyReference.cache

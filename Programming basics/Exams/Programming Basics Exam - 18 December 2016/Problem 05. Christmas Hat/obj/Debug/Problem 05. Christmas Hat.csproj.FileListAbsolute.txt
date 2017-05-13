@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 05. Christmas Hat\obj\Debug\Problem 05. Christmas Hat.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 05. Christmas Hat\obj\Debug\Problem_05.Christmas_Hat.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 05. Christmas Hat\obj\Debug\Problem_05.Christmas_Hat.pdb

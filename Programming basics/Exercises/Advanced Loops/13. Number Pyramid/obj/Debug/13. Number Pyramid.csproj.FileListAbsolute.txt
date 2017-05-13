@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\13. Number Pyramid\obj\Debug\13. Number Pyramid.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.pdb

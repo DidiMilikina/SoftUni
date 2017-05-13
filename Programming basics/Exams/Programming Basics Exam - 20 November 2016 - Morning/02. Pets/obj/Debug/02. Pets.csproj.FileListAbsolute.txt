@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\bin\Debug\_02.Pets.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\bin\Debug\_02.Pets.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\bin\Debug\_02.Pets.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\obj\Debug\02. Pets.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\obj\Debug\_02.Pets.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\obj\Debug\_02.Pets.pdb

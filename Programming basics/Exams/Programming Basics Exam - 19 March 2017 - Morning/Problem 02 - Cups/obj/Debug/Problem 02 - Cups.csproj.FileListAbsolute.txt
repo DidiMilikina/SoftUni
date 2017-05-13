@@ -1,0 +1,5 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 02 - Cups\bin\Debug\Problem 02 - Cups.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 02 - Cups\bin\Debug\Problem 02 - Cups.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 02 - Cups\bin\Debug\Problem 02 - Cups.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 02 - Cups\obj\Debug\Problem 02 - Cups.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 02 - Cups\obj\Debug\Problem 02 - Cups.pdb

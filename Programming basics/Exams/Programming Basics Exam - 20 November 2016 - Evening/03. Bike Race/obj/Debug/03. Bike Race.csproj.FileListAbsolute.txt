@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\03. Bike Race\bin\Debug\_03.Bike_Race.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\03. Bike Race\bin\Debug\_03.Bike_Race.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\03. Bike Race\bin\Debug\_03.Bike_Race.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\03. Bike Race\obj\Debug\03. Bike Race.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\03. Bike Race\obj\Debug\_03.Bike_Race.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\03. Bike Race\obj\Debug\_03.Bike_Race.pdb

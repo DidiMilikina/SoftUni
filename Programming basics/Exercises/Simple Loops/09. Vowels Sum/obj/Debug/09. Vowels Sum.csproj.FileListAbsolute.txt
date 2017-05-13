@@ -1,0 +1,1 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Simple Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 18 March 2017\Progblem 06 - Sum of Two Numbers\bin\Debug\Progblem 06 - Sum of Two Numbers.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Progblem 06 - Sum of Two Numbers\obj\Debug\Progblem 06 - Sum of Two Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Progblem 06 - Sum of Two Numbers\bin\Debug\Progblem 06 - Sum of Two Numbers.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Progblem 06 - Sum of Two Numbers\bin\Debug\Progblem 06 - Sum of Two Numbers.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Progblem 06 - Sum of Two Numbers\obj\Debug\Progblem 06 - Sum of Two Numbers.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Progblem 06 - Sum of Two Numbers\obj\Debug\Progblem 06 - Sum of Two Numbers.pdb

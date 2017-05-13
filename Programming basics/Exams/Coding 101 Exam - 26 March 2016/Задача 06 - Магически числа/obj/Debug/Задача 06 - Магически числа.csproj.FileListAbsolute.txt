@@ -1,0 +1,5 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 06 - Магически числа\bin\Debug\Задача 06 - Магически числа.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 06 - Магически числа\bin\Debug\Задача 06 - Магически числа.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 06 - Магически числа\bin\Debug\Задача 06 - Магически числа.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 06 - Магически числа\obj\Debug\Задача 06 - Магически числа.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 06 - Магически числа\obj\Debug\Задача 06 - Магически числа.pdb

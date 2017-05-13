@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 02 - Work hours\bin\Debug\Problem 02 - Work hours.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 02 - Work hours\bin\Debug\Problem 02 - Work hours.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 02 - Work hours\bin\Debug\Problem 02 - Work hours.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 02 - Work hours\obj\Debug\Problem 02 - Work hours.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 02 - Work hours\obj\Debug\Problem 02 - Work hours.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 March 2017\Problem 02 - Work hours\obj\Debug\Problem 02 - Work hours.pdb

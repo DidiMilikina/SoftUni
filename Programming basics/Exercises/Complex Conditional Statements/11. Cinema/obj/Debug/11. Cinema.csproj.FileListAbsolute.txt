@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\11. Cinema\bin\Debug\_11.Cinema.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\11. Cinema\bin\Debug\_11.Cinema.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\11. Cinema\bin\Debug\_11.Cinema.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\11. Cinema\obj\Debug\11. Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\11. Cinema\obj\Debug\_11.Cinema.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Complex Conditional Statements\11. Cinema\obj\Debug\_11.Cinema.pdb

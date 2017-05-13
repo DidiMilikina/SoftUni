@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\06. Специални числа\bin\Debug\_06.Специални_числа.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\06. Специални числа\bin\Debug\_06.Специални_числа.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\06. Специални числа\bin\Debug\_06.Специални_числа.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\06. Специални числа\obj\Debug\06. Специални числа.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\06. Специални числа\obj\Debug\_06.Специални_числа.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\06. Специални числа\obj\Debug\_06.Специални_числа.pdb

@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 03 - Truck Driver\bin\Debug\Problem 03 - Truck Driver.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 03 - Truck Driver\bin\Debug\Problem 03 - Truck Driver.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 03 - Truck Driver\bin\Debug\Problem 03 - Truck Driver.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 03 - Truck Driver\obj\Debug\Problem 03 - Truck Driver.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 03 - Truck Driver\obj\Debug\Problem 03 - Truck Driver.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 03 - Truck Driver\obj\Debug\Problem 03 - Truck Driver.pdb

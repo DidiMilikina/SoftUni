@@ -1,0 +1,6 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 06. Letters Combinations\bin\Debug\Problem_06.Letters_Combinations.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 06. Letters Combinations\bin\Debug\Problem_06.Letters_Combinations.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 06. Letters Combinations\bin\Debug\Problem_06.Letters_Combinations.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 06. Letters Combinations\obj\Debug\Problem 06. Letters Combinations.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 06. Letters Combinations\obj\Debug\Problem_06.Letters_Combinations.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 06. Letters Combinations\obj\Debug\Problem_06.Letters_Combinations.pdb

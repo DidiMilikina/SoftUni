@@ -1,0 +1,5 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Simple calculation\Simple calculation\bin\Debug\Simple calculation.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Simple calculation\Simple calculation\bin\Debug\Simple calculation.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Simple calculation\Simple calculation\bin\Debug\Simple calculation.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Simple calculation\Simple calculation\obj\Debug\Simple calculation.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Simple calculation\Simple calculation\obj\Debug\Simple calculation.pdb

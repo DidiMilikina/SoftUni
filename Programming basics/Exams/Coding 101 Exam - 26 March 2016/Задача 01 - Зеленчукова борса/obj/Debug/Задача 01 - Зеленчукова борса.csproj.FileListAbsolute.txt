@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 01 - Зеленчукова борса\bin\Debug\Задача 01 - Зеленчукова борса.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 01 - Зеленчукова борса\bin\Debug\Задача 01 - Зеленчукова борса.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 01 - Зеленчукова борса\bin\Debug\Задача 01 - Зеленчукова борса.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 01 - Зеленчукова борса\obj\Debug\Задача 01 - Зеленчукова борса.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 01 - Зеленчукова борса\obj\Debug\Задача 01 - Зеленчукова борса.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\Задача 01 - Зеленчукова борса\obj\Debug\Задача 01 - Зеленчукова борса.pdb

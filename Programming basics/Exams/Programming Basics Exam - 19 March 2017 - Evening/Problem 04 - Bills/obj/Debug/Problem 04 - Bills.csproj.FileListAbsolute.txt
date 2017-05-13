@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 04 - Bills\bin\Debug\Problem 04 - Bills.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 04 - Bills\bin\Debug\Problem 04 - Bills.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 04 - Bills\bin\Debug\Problem 04 - Bills.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 04 - Bills\obj\Debug\Problem 04 - Bills.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 04 - Bills\obj\Debug\Problem 04 - Bills.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 04 - Bills\obj\Debug\Problem 04 - Bills.pdb

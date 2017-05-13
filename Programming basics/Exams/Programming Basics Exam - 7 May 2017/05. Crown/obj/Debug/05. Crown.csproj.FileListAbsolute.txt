@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\05. Crown\bin\Debug\_05.Crown.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\05. Crown\bin\Debug\_05.Crown.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\05. Crown\bin\Debug\_05.Crown.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\05. Crown\obj\Debug\_05.Crown.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\05. Crown\obj\Debug\_05.Crown.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\05. Crown\obj\Debug\05. Crown.csprojResolveAssemblyReference.cache

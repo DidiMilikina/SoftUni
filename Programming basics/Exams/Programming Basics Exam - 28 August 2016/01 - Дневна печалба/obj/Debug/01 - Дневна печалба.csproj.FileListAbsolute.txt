@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\01 - Дневна печалба\bin\Debug\01 - Дневна печалба.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\01 - Дневна печалба\bin\Debug\01 - Дневна печалба.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\01 - Дневна печалба\bin\Debug\01 - Дневна печалба.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\01 - Дневна печалба\obj\Debug\01 - Дневна печалба.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\01 - Дневна печалба\obj\Debug\01 - Дневна печалба.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\01 - Дневна печалба\obj\Debug\01 - Дневна печалба.pdb

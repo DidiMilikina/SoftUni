@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 01. Distance\bin\Debug\Problem_01.Distance.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 01. Distance\bin\Debug\Problem_01.Distance.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 01. Distance\bin\Debug\Problem_01.Distance.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 01. Distance\obj\Debug\Problem 01. Distance.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 01. Distance\obj\Debug\Problem_01.Distance.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 01. Distance\obj\Debug\Problem_01.Distance.pdb

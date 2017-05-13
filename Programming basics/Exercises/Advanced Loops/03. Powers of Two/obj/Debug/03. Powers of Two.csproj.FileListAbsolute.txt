@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\03. Powers of Two\obj\Debug\03. Powers of Two.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\03. Powers of Two\obj\Debug\_03.Powers_of_Two.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Advanced Loops\03. Powers of Two\obj\Debug\_03.Powers_of_Two.pdb

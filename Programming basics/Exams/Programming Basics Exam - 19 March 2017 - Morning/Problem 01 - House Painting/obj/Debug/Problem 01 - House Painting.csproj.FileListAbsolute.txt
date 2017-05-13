@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 01 - House Painting\bin\Debug\Problem 01 - House Painting.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 01 - House Painting\bin\Debug\Problem 01 - House Painting.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 01 - House Painting\bin\Debug\Problem 01 - House Painting.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 01 - House Painting\obj\Debug\Problem 01 - House Painting.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 01 - House Painting\obj\Debug\Problem 01 - House Painting.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Morning\Problem 01 - House Painting\obj\Debug\Problem 01 - House Painting.pdb

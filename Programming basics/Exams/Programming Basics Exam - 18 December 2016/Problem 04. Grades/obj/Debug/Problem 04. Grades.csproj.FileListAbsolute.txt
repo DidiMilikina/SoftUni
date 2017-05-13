@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 04. Grades\obj\Debug\Problem 04. Grades.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 04. Grades\obj\Debug\Problem_04.Grades.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 04. Grades\obj\Debug\Problem_04.Grades.pdb

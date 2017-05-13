@@ -1,0 +1,1 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple Conditions\Time +15 Minutes\bin\Debug\Time +15 Minutes.exe.config

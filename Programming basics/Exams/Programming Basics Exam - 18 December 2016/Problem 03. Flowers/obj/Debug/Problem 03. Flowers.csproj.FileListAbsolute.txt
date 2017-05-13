@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 03. Flowers\bin\Debug\Problem_03.Flowers.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 03. Flowers\bin\Debug\Problem_03.Flowers.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 03. Flowers\bin\Debug\Problem_03.Flowers.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 03. Flowers\obj\Debug\Problem 03. Flowers.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 03. Flowers\obj\Debug\Problem_03.Flowers.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 18 December 2016\Problem 03. Flowers\obj\Debug\Problem_03.Flowers.pdb

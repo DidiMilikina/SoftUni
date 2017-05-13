@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 02 - Styrofoam\bin\Debug\Problem 02 - Styrofoam.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 02 - Styrofoam\bin\Debug\Problem 02 - Styrofoam.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 02 - Styrofoam\bin\Debug\Problem 02 - Styrofoam.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 02 - Styrofoam\obj\Debug\Problem 02 - Styrofoam.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 02 - Styrofoam\obj\Debug\Problem 02 - Styrofoam.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 02 - Styrofoam\obj\Debug\Problem 02 - Styrofoam.pdb

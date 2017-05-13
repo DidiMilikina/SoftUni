@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\bin\Debug\_02.Flower_Shop.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\bin\Debug\_02.Flower_Shop.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\bin\Debug\_02.Flower_Shop.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\obj\Debug\02. Flower Shop.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\obj\Debug\_02.Flower_Shop.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\obj\Debug\_02.Flower_Shop.pdb

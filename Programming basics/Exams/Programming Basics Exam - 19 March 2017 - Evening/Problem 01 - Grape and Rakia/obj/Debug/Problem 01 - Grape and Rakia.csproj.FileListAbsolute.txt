@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 01 - Grape and Rakia\bin\Debug\Problem 01 - Grape and Rakia.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 01 - Grape and Rakia\bin\Debug\Problem 01 - Grape and Rakia.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 01 - Grape and Rakia\bin\Debug\Problem 01 - Grape and Rakia.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 01 - Grape and Rakia\obj\Debug\Problem 01 - Grape and Rakia.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 01 - Grape and Rakia\obj\Debug\Problem 01 - Grape and Rakia.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 19 March 2017 - Evening\Problem 01 - Grape and Rakia\obj\Debug\Problem 01 - Grape and Rakia.pdb

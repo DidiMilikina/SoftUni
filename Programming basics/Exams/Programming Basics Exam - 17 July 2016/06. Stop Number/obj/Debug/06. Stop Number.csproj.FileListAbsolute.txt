@@ -1,0 +1,6 @@
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\06. Stop Number\bin\Debug\_06.Stop_Number.exe.config
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\06. Stop Number\obj\Debug\06. Stop Number.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\06. Stop Number\bin\Debug\_06.Stop_Number.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\06. Stop Number\bin\Debug\_06.Stop_Number.pdb
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\06. Stop Number\obj\Debug\_06.Stop_Number.exe
+C:\Users\Atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\06. Stop Number\obj\Debug\_06.Stop_Number.pdb

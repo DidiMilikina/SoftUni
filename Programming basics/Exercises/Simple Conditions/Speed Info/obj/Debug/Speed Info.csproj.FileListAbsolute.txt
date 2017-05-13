@@ -1,0 +1,6 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple Conditions\Speed Info\bin\Debug\Speed Info.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple Conditions\Speed Info\bin\Debug\Speed Info.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple Conditions\Speed Info\bin\Debug\Speed Info.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple Conditions\Speed Info\obj\Debug\Speed Info.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple Conditions\Speed Info\obj\Debug\Speed Info.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple Conditions\Speed Info\obj\Debug\Speed Info.pdb

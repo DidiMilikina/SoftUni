@@ -1,0 +1,6 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\03 - Хотелска стая\bin\Debug\03 - Хотелска стая.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\03 - Хотелска стая\bin\Debug\03 - Хотелска стая.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\03 - Хотелска стая\bin\Debug\03 - Хотелска стая.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\03 - Хотелска стая\obj\Debug\03 - Хотелска стая.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\03 - Хотелска стая\obj\Debug\03 - Хотелска стая.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\03 - Хотелска стая\obj\Debug\03 - Хотелска стая.pdb

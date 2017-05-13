@@ -1,0 +1,5 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\06. Circle Area and Perimeter\obj\Debug\_06.Circle_Area_and_Perimeter.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\06. Circle Area and Perimeter\obj\Debug\_06.Circle_Area_and_Perimeter.pdb
