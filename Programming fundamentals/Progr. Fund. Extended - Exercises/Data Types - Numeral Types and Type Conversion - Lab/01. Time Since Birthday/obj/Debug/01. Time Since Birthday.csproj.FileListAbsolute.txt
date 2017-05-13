@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\01. Time Since Birthday\bin\Debug\_01.Time_Since_Birthday.exe.config
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\01. Time Since Birthday\bin\Debug\_01.Time_Since_Birthday.exe
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\01. Time Since Birthday\bin\Debug\_01.Time_Since_Birthday.pdb
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\01. Time Since Birthday\obj\Debug\01. Time Since Birthday.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\01. Time Since Birthday\obj\Debug\_01.Time_Since_Birthday.exe
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\01. Time Since Birthday\obj\Debug\_01.Time_Since_Birthday.pdb

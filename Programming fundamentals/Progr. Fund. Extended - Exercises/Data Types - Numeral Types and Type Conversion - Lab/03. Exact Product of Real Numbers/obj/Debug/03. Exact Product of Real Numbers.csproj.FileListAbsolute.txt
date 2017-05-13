@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\03. Exact Product of Real Numbers\bin\Debug\_03.Exact_Product_of_Real_Numbers.exe.config
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\03. Exact Product of Real Numbers\bin\Debug\_03.Exact_Product_of_Real_Numbers.exe
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\03. Exact Product of Real Numbers\bin\Debug\_03.Exact_Product_of_Real_Numbers.pdb
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\03. Exact Product of Real Numbers\obj\Debug\03. Exact Product of Real Numbers.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\03. Exact Product of Real Numbers\obj\Debug\_03.Exact_Product_of_Real_Numbers.exe
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\03. Exact Product of Real Numbers\obj\Debug\_03.Exact_Product_of_Real_Numbers.pdb

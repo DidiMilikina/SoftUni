@@ -1,0 +1,5 @@
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\02. Circle Perimeter (12 Digits)\bin\Debug\_02.Circle_Perimeter__12_Digits_.exe.config
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\02. Circle Perimeter (12 Digits)\bin\Debug\_02.Circle_Perimeter__12_Digits_.exe
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\02. Circle Perimeter (12 Digits)\bin\Debug\_02.Circle_Perimeter__12_Digits_.pdb
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\02. Circle Perimeter (12 Digits)\obj\Debug\_02.Circle_Perimeter__12_Digits_.exe
+c:\users\atanas\documents\visual studio 2017\Projects\Data Types - Numeral Types and Type Conversion - Lab\02. Circle Perimeter (12 Digits)\obj\Debug\_02.Circle_Perimeter__12_Digits_.pdb
