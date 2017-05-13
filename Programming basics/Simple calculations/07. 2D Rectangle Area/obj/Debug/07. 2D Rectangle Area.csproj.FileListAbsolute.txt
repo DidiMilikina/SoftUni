@@ -1,0 +1,5 @@
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.exe.config
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.pdb
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\07. 2D Rectangle Area\obj\Debug\07. 2D Rectangle Area.exe
+C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\07. 2D Rectangle Area\obj\Debug\07. 2D Rectangle Area.pdb
