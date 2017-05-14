@@ -1,6 +1,0 @@
-c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\01\bin\Debug\01.exe.config
-c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\01\obj\Debug\01.exe
-c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\01\obj\Debug\01.pdb
-c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\01\bin\Debug\01.exe
-c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\01\bin\Debug\01.pdb
-c:\users\atanas\documents\visual studio 2015\Projects\Programming Basics Exam - 7 May 2017\01\obj\Debug\01.csprojResolveAssemblyReference.cache
