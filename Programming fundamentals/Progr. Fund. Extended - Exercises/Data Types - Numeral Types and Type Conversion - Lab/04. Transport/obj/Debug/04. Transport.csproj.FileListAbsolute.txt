@@ -1,0 +1,6 @@
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Numeral Types and Type Conversion - Lab\04. Transport\bin\Debug\_04.Transport.exe.config
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Numeral Types and Type Conversion - Lab\04. Transport\bin\Debug\_04.Transport.exe
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Numeral Types and Type Conversion - Lab\04. Transport\bin\Debug\_04.Transport.pdb
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Numeral Types and Type Conversion - Lab\04. Transport\obj\Debug\04. Transport.csprojResolveAssemblyReference.cache
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Numeral Types and Type Conversion - Lab\04. Transport\obj\Debug\_04.Transport.exe
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Numeral Types and Type Conversion - Lab\04. Transport\obj\Debug\_04.Transport.pdb

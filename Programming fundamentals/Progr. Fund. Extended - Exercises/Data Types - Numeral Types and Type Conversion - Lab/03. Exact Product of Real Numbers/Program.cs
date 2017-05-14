@@ -11,14 +11,12 @@ namespace _03.Exact_Product_of_Real_Numbers
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            decimal extractProduct = 0;
+            decimal extractProduct = 1;
             for (int i = 0; i < n; i++)
             {
                 extractProduct *= decimal.Parse(Console.ReadLine());
-
-                Console.WriteLine(extractProduct);
             }
-           
+          Console.WriteLine(extractProduct);     
         }
     }
 }
