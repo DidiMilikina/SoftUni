@@ -1,6 +1,0 @@
-E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\04. Refactor Volume\bin\Debug\_04.Refactor_Volume.exe.config
-E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\04. Refactor Volume\bin\Debug\_04.Refactor_Volume.exe
-E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\04. Refactor Volume\bin\Debug\_04.Refactor_Volume.pdb
-E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\04. Refactor Volume\obj\Debug\04. Refactor Volume.csprojResolveAssemblyReference.cache
-E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\04. Refactor Volume\obj\Debug\_04.Refactor_Volume.exe
-E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\04. Refactor Volume\obj\Debug\_04.Refactor_Volume.pdb
