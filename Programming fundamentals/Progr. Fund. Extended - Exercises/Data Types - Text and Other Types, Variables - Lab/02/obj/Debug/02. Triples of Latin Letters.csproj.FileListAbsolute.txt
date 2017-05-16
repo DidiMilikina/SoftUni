@@ -1,0 +1,6 @@
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\02\bin\Debug\02.exe.config
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\02\bin\Debug\02.exe
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\02\bin\Debug\02.pdb
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\02\obj\Debug\02. Triples of Latin Letters.csprojResolveAssemblyReference.cache
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\02\obj\Debug\02.exe
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\02\obj\Debug\02.pdb

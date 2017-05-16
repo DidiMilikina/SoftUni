@@ -1,0 +1,5 @@
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\03. Greeting\bin\Debug\_03.Greeting.exe.config
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\03. Greeting\bin\Debug\_03.Greeting.exe
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\03. Greeting\bin\Debug\_03.Greeting.pdb
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\03. Greeting\obj\Debug\_03.Greeting.exe
+E:\Softuni\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types - Text and Other Types, Variables - Lab\03. Greeting\obj\Debug\_03.Greeting.pdb
