@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types and Variables - Exercises\Solution\03\bin\Debug\03.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types and Variables - Exercises\Solution\03\bin\Debug\03.exe
+C:\GitHub\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types and Variables - Exercises\Solution\03\bin\Debug\03.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types and Variables - Exercises\Solution\03\obj\Debug\03.exe
+C:\GitHub\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types and Variables - Exercises\Solution\03\obj\Debug\03.pdb
