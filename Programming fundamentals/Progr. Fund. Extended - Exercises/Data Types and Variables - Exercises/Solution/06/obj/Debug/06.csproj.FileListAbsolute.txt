@@ -1,6 +1,0 @@
-C:\GitHub\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types and Variables - Exercises\Solution\06\bin\Debug\06.exe.config
-C:\GitHub\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types and Variables - Exercises\Solution\06\bin\Debug\06.exe
-C:\GitHub\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types and Variables - Exercises\Solution\06\bin\Debug\06.pdb
-C:\GitHub\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types and Variables - Exercises\Solution\06\obj\Debug\06.csprojResolveAssemblyReference.cache
-C:\GitHub\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types and Variables - Exercises\Solution\06\obj\Debug\06.exe
-C:\GitHub\SoftUni\Programming fundamentals\Progr. Fund. Extended - Exercises\Data Types and Variables - Exercises\Solution\06\obj\Debug\06.pdb
