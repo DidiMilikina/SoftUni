@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\VariableInHexadecimalFormat\obj\Debug\12.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

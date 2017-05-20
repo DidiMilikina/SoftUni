@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\DigitsWithWords\bin\Debug\DigitsWithWords.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\DigitsWithWords\bin\Debug\DigitsWithWords.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\DigitsWithWords\bin\Debug\DigitsWithWords.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\DigitsWithWords\obj\Debug\13.DigitsWithWords.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\DigitsWithWords\obj\Debug\DigitsWithWords.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\DigitsWithWords\obj\Debug\DigitsWithWords.pdb

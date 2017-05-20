@@ -10,6 +10,9 @@ namespace VariableInHexadecimalFormat
     {
         static void Main(string[] args)
         {
+            string hex = Console.ReadLine();
+            int decimalRepresentation = Convert.ToInt32(hex, 16);
+            Console.WriteLine(decimalRepresentation);
         }
     }
 }
