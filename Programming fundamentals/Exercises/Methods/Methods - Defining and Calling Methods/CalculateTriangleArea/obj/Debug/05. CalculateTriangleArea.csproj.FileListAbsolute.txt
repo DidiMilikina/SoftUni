@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\CalculateTriangleArea\obj\Debug\05. CalculateTriangleArea.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.pdb

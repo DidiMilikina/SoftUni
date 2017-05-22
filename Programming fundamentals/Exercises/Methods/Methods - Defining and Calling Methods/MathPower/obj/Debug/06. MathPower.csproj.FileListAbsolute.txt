@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\MathPower\bin\Debug\MathPower.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\MathPower\bin\Debug\MathPower.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\MathPower\bin\Debug\MathPower.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\MathPower\obj\Debug\06. MathPower.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\MathPower\obj\Debug\MathPower.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\MathPower\obj\Debug\MathPower.pdb

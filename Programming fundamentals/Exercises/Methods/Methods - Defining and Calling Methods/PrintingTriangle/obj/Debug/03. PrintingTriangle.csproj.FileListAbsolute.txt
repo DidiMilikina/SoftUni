@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\PrintingTriangle\bin\Debug\PrintingTriangle.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\PrintingTriangle\bin\Debug\PrintingTriangle.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\PrintingTriangle\bin\Debug\PrintingTriangle.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\PrintingTriangle\obj\Debug\PrintingTriangle.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\PrintingTriangle\obj\Debug\PrintingTriangle.pdb

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\BlankReceipt\bin\Debug\BlankReceipt.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\BlankReceipt\bin\Debug\BlankReceipt.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\BlankReceipt\bin\Debug\BlankReceipt.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\BlankReceipt\obj\Debug\BlankReceipt.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\BlankReceipt\obj\Debug\BlankReceipt.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\BlankReceipt\obj\Debug\BlankReceipt.pdb

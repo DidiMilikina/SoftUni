@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\SignОfIntegerNumber\bin\Debug\SignОfIntegerNumber.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\SignОfIntegerNumber\bin\Debug\SignОfIntegerNumber.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\SignОfIntegerNumber\bin\Debug\SignОfIntegerNumber.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\SignОfIntegerNumber\obj\Debug\SignОfIntegerNumber.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\SignОfIntegerNumber\obj\Debug\SignОfIntegerNumber.pdb

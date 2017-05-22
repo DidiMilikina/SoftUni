@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\Methods - Defining and Calling Methods\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.pdb
