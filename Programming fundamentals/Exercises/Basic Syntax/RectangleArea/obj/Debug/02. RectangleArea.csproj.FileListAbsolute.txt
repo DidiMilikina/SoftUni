@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\RectangleArea\bin\Debug\RectangleArea.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\RectangleArea\bin\Debug\RectangleArea.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\RectangleArea\bin\Debug\RectangleArea.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\RectangleArea\obj\Debug\RectangleArea.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\RectangleArea\obj\Debug\RectangleArea.pdb

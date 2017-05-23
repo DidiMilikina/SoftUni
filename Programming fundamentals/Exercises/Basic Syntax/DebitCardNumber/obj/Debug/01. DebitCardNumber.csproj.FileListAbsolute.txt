@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\DebitCardNumber\bin\Debug\DebitCardNumber.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\DebitCardNumber\obj\Debug\01. DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\DebitCardNumber\obj\Debug\DebitCardNumber.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\DebitCardNumber\obj\Debug\DebitCardNumber.pdb

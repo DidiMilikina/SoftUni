@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\MilesToKilometers\bin\Debug\MilesToKilometers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\MilesToKilometers\bin\Debug\MilesToKilometers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\MilesToKilometers\bin\Debug\MilesToKilometers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\MilesToKilometers\obj\Debug\MilesToKilometers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\MilesToKilometers\obj\Debug\MilesToKilometers.pdb

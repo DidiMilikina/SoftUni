@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\BeverageLabels\bin\Debug\BeverageLabels.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\BeverageLabels\bin\Debug\BeverageLabels.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\BeverageLabels\bin\Debug\BeverageLabels.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\BeverageLabels\obj\Debug\BeverageLabels.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\BeverageLabels\obj\Debug\BeverageLabels.pdb
