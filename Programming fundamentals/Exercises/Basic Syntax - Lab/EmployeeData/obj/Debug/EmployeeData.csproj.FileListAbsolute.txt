@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\EmployeeData\bin\Debug\EmployeeData.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\EmployeeData\obj\Debug\EmployeeData.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\EmployeeData\obj\Debug\EmployeeData.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb

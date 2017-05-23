@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\Greeting\bin\Debug\Greeting.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\Greeting\bin\Debug\Greeting.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\Greeting\bin\Debug\Greeting.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\Greeting\obj\Debug\Greeting.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax - Lab\Greeting\obj\Debug\Greeting.pdb
