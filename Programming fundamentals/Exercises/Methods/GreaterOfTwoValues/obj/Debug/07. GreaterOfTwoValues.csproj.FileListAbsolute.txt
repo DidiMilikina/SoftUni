@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\GreaterOfTwoValues\obj\Debug\07. GreaterOfTwoValues.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Methods\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.pdb
