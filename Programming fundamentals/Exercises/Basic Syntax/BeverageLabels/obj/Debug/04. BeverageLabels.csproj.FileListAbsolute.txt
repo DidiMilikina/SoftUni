@@ -3,3 +3,4 @@ C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\BeverageLabels
 C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\BeverageLabels\bin\Debug\BeverageLabels.pdb
 C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\BeverageLabels\obj\Debug\BeverageLabels.exe
 C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\BeverageLabels\obj\Debug\BeverageLabels.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\BeverageLabels\obj\Debug\04. BeverageLabels.csprojResolveAssemblyReference.cache
