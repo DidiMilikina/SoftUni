@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\DivisibleBy3\bin\Debug\DivisibleBy3.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\DivisibleBy3\bin\Debug\DivisibleBy3.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\DivisibleBy3\bin\Debug\DivisibleBy3.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\DivisibleBy3\obj\Debug\DivisibleBy3.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\DivisibleBy3\obj\Debug\DivisibleBy3.pdb

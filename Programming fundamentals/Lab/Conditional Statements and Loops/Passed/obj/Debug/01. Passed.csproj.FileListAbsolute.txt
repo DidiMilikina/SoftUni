@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\Passed\bin\Debug\Passed.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\Passed\bin\Debug\Passed.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\Passed\bin\Debug\Passed.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\Passed\obj\Debug\01. Passed.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\Passed\obj\Debug\Passed.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\Passed\obj\Debug\Passed.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\MonthPrinter\bin\Debug\MonthPrinter.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\MonthPrinter\bin\Debug\MonthPrinter.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\MonthPrinter\bin\Debug\MonthPrinter.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\MonthPrinter\obj\Debug\MonthPrinter.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\MonthPrinter\obj\Debug\MonthPrinter.pdb

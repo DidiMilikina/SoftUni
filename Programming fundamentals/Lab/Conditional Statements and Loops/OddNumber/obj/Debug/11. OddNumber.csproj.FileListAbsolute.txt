@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\OddNumber\bin\Debug\OddNumber.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\OddNumber\bin\Debug\OddNumber.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\OddNumber\bin\Debug\OddNumber.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\OddNumber\obj\Debug\11. OddNumber.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\OddNumber\obj\Debug\OddNumber.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\OddNumber\obj\Debug\OddNumber.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\ForeignLanguages\bin\Debug\ForeignLanguages.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\ForeignLanguages\bin\Debug\ForeignLanguages.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\ForeignLanguages\bin\Debug\ForeignLanguages.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\ForeignLanguages\obj\Debug\ForeignLanguages.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\ForeignLanguages\obj\Debug\ForeignLanguages.pdb

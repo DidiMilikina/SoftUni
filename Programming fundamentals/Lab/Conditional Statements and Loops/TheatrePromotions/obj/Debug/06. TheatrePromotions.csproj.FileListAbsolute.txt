@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\TheatrePromotions\bin\Debug\TheatrePromotions.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\TheatrePromotions\bin\Debug\TheatrePromotions.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\TheatrePromotions\bin\Debug\TheatrePromotions.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\TheatrePromotions\obj\Debug\06. TheatrePromotions.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\TheatrePromotions\obj\Debug\TheatrePromotions.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\TheatrePromotions\obj\Debug\TheatrePromotions.pdb

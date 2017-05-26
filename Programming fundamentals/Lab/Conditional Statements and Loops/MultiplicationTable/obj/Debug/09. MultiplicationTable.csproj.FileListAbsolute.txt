@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\MultiplicationTable\obj\Debug\09. MultiplicationTable.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\PassedOrFailed\bin\Debug\PassedOrFailed.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\PassedOrFailed\bin\Debug\PassedOrFailed.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\PassedOrFailed\bin\Debug\PassedOrFailed.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\PassedOrFailed\obj\Debug\PassedOrFailed.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\PassedOrFailed\obj\Debug\PassedOrFailed.pdb
