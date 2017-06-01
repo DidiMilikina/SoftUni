@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\PhotoGallery\obj\Debug\04. PhotoGallery.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\PhotoGallery\obj\Debug\PhotoGallery.pdb

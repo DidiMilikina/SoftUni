@@ -10,20 +10,19 @@ namespace OddNumber
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            for (int i = n; i < ; i++)
+           
+            int oddNum = 0;
+            while (true)
             {
-                
-                if(i % 2 == 0)
+                if (oddNum % 2 == 1)
                 {
-                    Console.WriteLine("The number is: {}");
-                }
-                else
-                {
-                    Console.WriteLine("Please write an odd number.");
+                    oddNum = Math.Abs(int.Parse(Console.ReadLine()));
+                    Console.WriteLine($"The number is: {oddNum}");
+                    break; 
+
                 }
             }
-
+         Console.WriteLine("Please write an odd number.");
         }
     }
 }

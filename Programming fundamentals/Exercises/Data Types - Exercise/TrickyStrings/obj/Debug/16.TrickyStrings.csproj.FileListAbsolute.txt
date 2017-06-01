@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\TrickyStrings\bin\Debug\TrickyStrings.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\TrickyStrings\bin\Debug\TrickyStrings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\TrickyStrings\bin\Debug\TrickyStrings.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\TrickyStrings\obj\Debug\16.TrickyStrings.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\TrickyStrings\obj\Debug\TrickyStrings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\TrickyStrings\obj\Debug\TrickyStrings.pdb

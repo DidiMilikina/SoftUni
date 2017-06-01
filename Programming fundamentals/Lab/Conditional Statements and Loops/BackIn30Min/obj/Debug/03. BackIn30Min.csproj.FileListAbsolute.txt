@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\BackIn30Min\bin\Debug\BackIn30Min.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\BackIn30Min\bin\Debug\BackIn30Min.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\BackIn30Min\bin\Debug\BackIn30Min.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\BackIn30Min\obj\Debug\03. BackIn30Min.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\BackIn30Min\obj\Debug\BackIn30Min.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\BackIn30Min\obj\Debug\BackIn30Min.pdb

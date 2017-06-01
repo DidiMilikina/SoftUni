@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\RestaurantDiscount\bin\Debug\RestaurantDiscount.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\RestaurantDiscount\obj\Debug\RestaurantDiscount.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\RestaurantDiscount\obj\Debug\RestaurantDiscount.pdb

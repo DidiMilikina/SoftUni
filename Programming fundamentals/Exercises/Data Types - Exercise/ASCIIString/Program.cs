@@ -10,6 +10,17 @@ namespace ASCIIString
     {
         static void Main(string[] args)
         {
+            int n = int.Parse(Console.ReadLine());
+
+            string output = "";
+            for (int i = 1; i <= n; i++)
+            {
+                int currentNumber = int.Parse(Console.ReadLine());
+                char c = Convert.ToChar(currentNumber);
+                output += c.ToString();
+            }
+
+            Console.WriteLine(output);
         }
     }
 }

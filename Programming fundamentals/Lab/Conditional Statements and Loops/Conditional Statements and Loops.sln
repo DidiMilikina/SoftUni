@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. MultiplictionTable2.0",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. OddNumber", "OddNumber\11. OddNumber.csproj", "{8049D6E1-41E7-4175-B644-7F73AE1F27C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. NumberChecker", "NumberChecker\12. NumberChecker.csproj", "{2EA4370E-B90C-45CE-B9B0-E7B86B024790}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{8049D6E1-41E7-4175-B644-7F73AE1F27C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8049D6E1-41E7-4175-B644-7F73AE1F27C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8049D6E1-41E7-4175-B644-7F73AE1F27C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA4370E-B90C-45CE-B9B0-E7B86B024790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA4370E-B90C-45CE-B9B0-E7B86B024790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA4370E-B90C-45CE-B9B0-E7B86B024790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA4370E-B90C-45CE-B9B0-E7B86B024790}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

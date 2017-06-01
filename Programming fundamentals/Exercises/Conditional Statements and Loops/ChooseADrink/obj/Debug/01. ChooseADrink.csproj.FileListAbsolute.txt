@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ChooseADrink\bin\Debug\ChooseADrink.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ChooseADrink\bin\Debug\ChooseADrink.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ChooseADrink\bin\Debug\ChooseADrink.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ChooseADrink\obj\Debug\ChooseADrink.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ChooseADrink\obj\Debug\ChooseADrink.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.pdb

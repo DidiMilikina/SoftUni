@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\NeighbourWars\bin\Debug\NeighbourWars.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\NeighbourWars\bin\Debug\NeighbourWars.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\NeighbourWars\bin\Debug\NeighbourWars.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\NeighbourWars\obj\Debug\NeighbourWars.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\NeighbourWars\obj\Debug\NeighbourWars.pdb

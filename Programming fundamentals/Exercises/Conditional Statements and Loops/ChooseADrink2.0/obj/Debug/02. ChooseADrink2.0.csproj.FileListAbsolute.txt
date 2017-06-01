@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ChooseADrink2.0\bin\Debug\ChooseADrink2.0.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ChooseADrink2.0\bin\Debug\ChooseADrink2.0.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ChooseADrink2.0\bin\Debug\ChooseADrink2.0.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ChooseADrink2.0\obj\Debug\ChooseADrink2.0.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ChooseADrink2.0\obj\Debug\ChooseADrink2.0.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ChooseADrink2.0\obj\Debug\02. ChooseADrink2.0.csprojResolveAssemblyReference.cache

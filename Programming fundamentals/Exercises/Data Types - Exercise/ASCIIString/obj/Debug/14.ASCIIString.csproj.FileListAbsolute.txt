@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\ASCIIString\bin\Debug\ASCIIString.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\ASCIIString\bin\Debug\ASCIIString.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\ASCIIString\bin\Debug\ASCIIString.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\ASCIIString\obj\Debug\ASCIIString.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\ASCIIString\obj\Debug\ASCIIString.pdb

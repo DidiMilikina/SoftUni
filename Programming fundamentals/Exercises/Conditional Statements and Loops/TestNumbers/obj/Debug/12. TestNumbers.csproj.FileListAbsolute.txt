@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\TestNumbers\bin\Debug\TestNumbers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\TestNumbers\bin\Debug\TestNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\TestNumbers\bin\Debug\TestNumbers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\TestNumbers\obj\Debug\TestNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\TestNumbers\obj\Debug\TestNumbers.pdb

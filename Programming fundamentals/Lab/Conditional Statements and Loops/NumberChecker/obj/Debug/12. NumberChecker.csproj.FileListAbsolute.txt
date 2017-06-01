@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\NumberChecker\bin\Debug\NumberChecker.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\NumberChecker\bin\Debug\NumberChecker.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\NumberChecker\bin\Debug\NumberChecker.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\NumberChecker\obj\Debug\12. NumberChecker.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\NumberChecker\obj\Debug\NumberChecker.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Conditional Statements and Loops\NumberChecker\obj\Debug\NumberChecker.pdb

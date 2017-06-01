@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CakeIngredients\bin\Debug\CakeIngredients.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CakeIngredients\bin\Debug\CakeIngredients.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CakeIngredients\bin\Debug\CakeIngredients.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CakeIngredients\obj\Debug\CakeIngredients.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CakeIngredients\obj\Debug\CakeIngredients.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CakeIngredients\obj\Debug\07. CakeIngredients.csprojResolveAssemblyReference.cache

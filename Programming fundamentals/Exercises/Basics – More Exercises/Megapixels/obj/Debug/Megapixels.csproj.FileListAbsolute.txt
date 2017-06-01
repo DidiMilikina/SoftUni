@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\Megapixels\bin\Debug\Megapixels.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\Megapixels\bin\Debug\Megapixels.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\Megapixels\bin\Debug\Megapixels.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\Megapixels\obj\Debug\Megapixels.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\Megapixels\obj\Debug\Megapixels.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\Megapixels\obj\Debug\Megapixels.pdb

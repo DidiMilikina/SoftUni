@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\MagicLetter\bin\Debug\MagicLetter.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\MagicLetter\bin\Debug\MagicLetter.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\MagicLetter\bin\Debug\MagicLetter.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\MagicLetter\obj\Debug\MagicLetter.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\MagicLetter\obj\Debug\MagicLetter.pdb

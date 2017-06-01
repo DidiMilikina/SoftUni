@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\Calculator\bin\Debug\Calculator.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\Calculator\bin\Debug\Calculator.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\Calculator\bin\Debug\Calculator.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\Calculator\obj\Debug\15.Calculator.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\Calculator\obj\Debug\Calculator.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Exercise\Calculator\obj\Debug\Calculator.pdb

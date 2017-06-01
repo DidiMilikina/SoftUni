@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CountTheIntegers\bin\Debug\CountTheIntegers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CountTheIntegers\bin\Debug\CountTheIntegers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CountTheIntegers\bin\Debug\CountTheIntegers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CountTheIntegers\obj\Debug\09. CountTheIntegers.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CountTheIntegers\obj\Debug\CountTheIntegers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CountTheIntegers\obj\Debug\CountTheIntegers.pdb

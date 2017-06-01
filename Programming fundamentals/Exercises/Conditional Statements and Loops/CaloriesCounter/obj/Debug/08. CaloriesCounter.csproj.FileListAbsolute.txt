@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CaloriesCounter\bin\Debug\CaloriesCounter.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CaloriesCounter\obj\Debug\CaloriesCounter.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\CaloriesCounter\obj\Debug\CaloriesCounter.pdb

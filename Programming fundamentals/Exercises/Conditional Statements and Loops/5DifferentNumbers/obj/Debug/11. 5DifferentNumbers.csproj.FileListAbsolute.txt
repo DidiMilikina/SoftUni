@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\5DifferentNumbers\bin\Debug\5DifferentNumbers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\5DifferentNumbers\bin\Debug\5DifferentNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\5DifferentNumbers\bin\Debug\5DifferentNumbers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\5DifferentNumbers\obj\Debug\5DifferentNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\5DifferentNumbers\obj\Debug\5DifferentNumbers.pdb

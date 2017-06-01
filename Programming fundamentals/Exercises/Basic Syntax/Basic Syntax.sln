@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. MilesToKilometers", "Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. BeverageLabels", "BeverageLabels\04. BeverageLabels.csproj", "{01D274F6-776F-489C-B1D6-AD37401FC819}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. CharacterStats", "CharacterStats\05. CharacterStats.csproj", "{61B1904C-BBE9-40F2-904C-C724613D3092}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{01D274F6-776F-489C-B1D6-AD37401FC819}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01D274F6-776F-489C-B1D6-AD37401FC819}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01D274F6-776F-489C-B1D6-AD37401FC819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B1904C-BBE9-40F2-904C-C724613D3092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B1904C-BBE9-40F2-904C-C724613D3092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B1904C-BBE9-40F2-904C-C724613D3092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B1904C-BBE9-40F2-904C-C724613D3092}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

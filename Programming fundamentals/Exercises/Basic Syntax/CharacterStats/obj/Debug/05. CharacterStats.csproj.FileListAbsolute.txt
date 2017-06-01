@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\CharacterStats\obj\Debug\05. CharacterStats.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\CharacterStats\bin\Debug\CharacterStats.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\CharacterStats\bin\Debug\CharacterStats.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\CharacterStats\bin\Debug\CharacterStats.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\CharacterStats\obj\Debug\CharacterStats.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basic Syntax\CharacterStats\obj\Debug\CharacterStats.pdb

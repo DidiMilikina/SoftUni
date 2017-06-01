@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\GameOfNumbers\bin\Debug\GameOfNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\GameOfNumbers\bin\Debug\GameOfNumbers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\GameOfNumbers\obj\Debug\GameOfNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\GameOfNumbers\obj\Debug\GameOfNumbers.pdb

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\WordInPlural\bin\Debug\WordInPlural.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\WordInPlural\bin\Debug\WordInPlural.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\WordInPlural\bin\Debug\WordInPlural.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\WordInPlural\obj\Debug\WordInPlural.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\WordInPlural\obj\Debug\WordInPlural.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\WordInPlural\obj\Debug\05. WordInPlural.csprojResolveAssemblyReference.cache

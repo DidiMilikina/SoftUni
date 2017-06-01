@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ТriangleOfNumbers\bin\Debug\ТriangleOfNumbers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ТriangleOfNumbers\bin\Debug\ТriangleOfNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ТriangleOfNumbers\bin\Debug\ТriangleOfNumbers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ТriangleOfNumbers\obj\Debug\ТriangleOfNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Conditional Statements and Loops\ТriangleOfNumbers\obj\Debug\ТriangleOfNumbers.pdb
