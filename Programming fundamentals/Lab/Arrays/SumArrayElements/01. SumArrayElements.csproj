@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1722806C-3382-47C5-A320-3511485C1641}</ProjectGuid>
+    <ProjectGuid>{3D8F29A8-81F8-4251-A701-39A80EDE7DD1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TrainingHallEquipment</RootNamespace>
-    <AssemblyName>TrainingHallEquipment</AssemblyName>
+    <RootNamespace>SumArrayElements</RootNamespace>
+    <AssemblyName>SumArrayElements</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

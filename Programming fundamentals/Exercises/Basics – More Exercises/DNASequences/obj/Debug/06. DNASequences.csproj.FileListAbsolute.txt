@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\DNASequences\bin\Debug\DNASequences.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\DNASequences\bin\Debug\DNASequences.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\DNASequences\bin\Debug\DNASequences.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\DNASequences\obj\Debug\06. DNASequences.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\DNASequences\obj\Debug\DNASequences.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\DNASequences\obj\Debug\DNASequences.pdb

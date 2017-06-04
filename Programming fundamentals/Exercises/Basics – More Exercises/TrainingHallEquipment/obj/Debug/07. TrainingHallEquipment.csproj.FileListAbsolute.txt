@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.pdb

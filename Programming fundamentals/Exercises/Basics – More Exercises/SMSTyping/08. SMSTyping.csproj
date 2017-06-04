@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1722806C-3382-47C5-A320-3511485C1641}</ProjectGuid>
+    <ProjectGuid>{4BB12BC1-F222-4CC9-AB2D-E706AA77FAEB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TrainingHallEquipment</RootNamespace>
-    <AssemblyName>TrainingHallEquipment</AssemblyName>
+    <RootNamespace>SMSTyping</RootNamespace>
+    <AssemblyName>SMSTyping</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

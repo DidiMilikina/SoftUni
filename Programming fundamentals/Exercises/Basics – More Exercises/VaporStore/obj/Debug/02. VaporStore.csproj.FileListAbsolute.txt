@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\VaporStore\bin\Debug\VaporStore.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\VaporStore\bin\Debug\VaporStore.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\VaporStore\bin\Debug\VaporStore.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\VaporStore\obj\Debug\02. VaporStore.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\VaporStore\obj\Debug\VaporStore.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\VaporStore\obj\Debug\VaporStore.pdb

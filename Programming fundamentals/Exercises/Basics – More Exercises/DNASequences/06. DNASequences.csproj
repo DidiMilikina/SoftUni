@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1722806C-3382-47C5-A320-3511485C1641}</ProjectGuid>
+    <ProjectGuid>{13E37098-7465-4EBD-9AA9-64F25088260C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TrainingHallEquipment</RootNamespace>
-    <AssemblyName>TrainingHallEquipment</AssemblyName>
+    <RootNamespace>DNASequences</RootNamespace>
+    <AssemblyName>DNASequences</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

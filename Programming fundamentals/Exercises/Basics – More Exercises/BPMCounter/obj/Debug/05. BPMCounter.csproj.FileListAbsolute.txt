@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\BPMCounter\bin\Debug\BPMCounter.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\BPMCounter\bin\Debug\BPMCounter.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\BPMCounter\bin\Debug\BPMCounter.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\BPMCounter\obj\Debug\05. BPMCounter.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\BPMCounter\obj\Debug\BPMCounter.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Basics – More Exercises\BPMCounter\obj\Debug\BPMCounter.pdb

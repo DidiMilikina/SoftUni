@@ -22,12 +22,12 @@ namespace PhotoGallery
 
            
             Console.WriteLine($"Name: DSC_{fileName:D4}.jpg");
-            Console.WriteLine($"Date Taken: {day:D2}/{month:D2}/{year} {hours}:{minutes:D2}");
-            if (sizeInBytes <= 950)
+            Console.WriteLine($"Date Taken: {day:D2}/{month:D2}/{year} {hours:D2}:{minutes:D2}");
+            if (sizeInBytes < 1000)
             {
                 Console.WriteLine($"Size: {sizeInBytes}B");
             }
-            else if (sizeInBytes <= 500000)
+            else if (sizeInBytes < 1000000)
             {
                 double sizeKB = sizeInBytes / 1000;
                 Console.WriteLine($"Size: {sizeKB}KB");
@@ -35,7 +35,7 @@ namespace PhotoGallery
             else
             {
                 double sizeMB = sizeInBytes / 1000000;
-                Console.WriteLine($"Size: {sizeMB:f1}MB");
+                Console.WriteLine($"Size: {sizeMB}MB");
             }
             
 

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TrainingHallEquipment")]
+[assembly: AssemblyTitle("BPMCounter")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TrainingHallEquipment")]
+[assembly: AssemblyProduct("BPMCounter")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1722806c-3382-47c5-a320-3511485c1641")]
+[assembly: Guid("e6afd098-1482-4a89-8b60-3929f97e092d")]
 
 // Version information for an assembly consists of the following four values:
 //

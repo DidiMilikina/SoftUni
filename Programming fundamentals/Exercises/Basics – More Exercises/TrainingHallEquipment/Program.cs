@@ -10,39 +10,41 @@ namespace TrainingHallEquipment
     {
         static void Main(string[] args)
         {
-            int budget = int.Parse(Console.ReadLine());
-            int numberOfItems = int.Parse(Console.ReadLine());
-            string itemName = Console.ReadLine();
-            double itemPrice = double.Parse(Console.ReadLine());
-            int itemCount = int.Parse(Console.ReadLine());
+            double budget = double.Parse(Console.ReadLine());
+            byte itemsNumber = byte.Parse(Console.ReadLine());
 
-            double couter = 0;
+            string itemsName;
+            double itemsPrice;
+            short itemsCount;
+            double total = 0;
 
-            double sum = itemPrice * itemCount;
-            for (int i = 1; i <= numberOfItems; i++)
+            for (byte i = 1; i <= itemsNumber; i++)
             {
+                itemsName = Console.ReadLine();
+                itemsPrice = double.Parse(Console.ReadLine());
+                itemsCount = short.Parse(Console.ReadLine());
 
-                if(itemCount < 2)
+                if (itemsCount > 1)
                 {
-                    Console.WriteLine($"Adding {itemCount} {itemName} to cart.");
+                    itemsName += "s";
                 }
-                else
-                {
-                    Console.WriteLine($"Adding {itemCount} {itemName}s to cart.");
-                }
+
+                total += itemsCount * itemsPrice;
+
+                Console.WriteLine($"Adding {itemsCount} {itemsName} to cart.");
             }
 
-            Console.WriteLine($"Subtoal: ${itemPrice}");
+            Console.WriteLine("Subtotal: ${0:f2}", total);
 
-            if (budget >= itemPrice)
+            if (total > budget)
             {
-                double moneyLeft = budget - itemPrice;
-                Console.WriteLine($"Money left: ${moneyLeft:f2}");
+                double moneyLeft = total - budget;
+                Console.WriteLine($"Not enough. We need ${moneyLeft:f2} more.");
             }
             else
             {
-                Console.WriteLine($"Not enough.We need ${(itemPrice - budget):f2} more.");
+                Console.WriteLine($"Money left: ${budget - total:f2}");
             }
         }
     }
-}
+  }
