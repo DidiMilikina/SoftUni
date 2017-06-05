@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.pdb

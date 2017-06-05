@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\MultiplyAnArrayOfDoubles\bin\Debug\MultiplyAnArrayOfDoubles.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\MultiplyAnArrayOfDoubles\bin\Debug\MultiplyAnArrayOfDoubles.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\MultiplyAnArrayOfDoubles\bin\Debug\MultiplyAnArrayOfDoubles.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\MultiplyAnArrayOfDoubles\obj\Debug\02. MultiplyAnArrayOfDoubles.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\MultiplyAnArrayOfDoubles\obj\Debug\MultiplyAnArrayOfDoubles.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\MultiplyAnArrayOfDoubles\obj\Debug\MultiplyAnArrayOfDoubles.pdb

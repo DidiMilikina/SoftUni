@@ -1,24 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace SumArrayElements
-
+    
 {
-    class Program
+    using System;
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             int elements = int.Parse(Console.ReadLine());
-            int array = new int[elements];
+            var array = new int[elements];
 
-            for (int i = 0; i < array.l; i++)
+            for (int i = 0; i < elements; i++)
             {
-
+                int currentNumber = int.Parse(Console.ReadLine());
+                array[i] = currentNumber;
             }
 
+            int sum = 0;
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                var currentNumber = array[i];
+                sum += currentNumber;
+            }
+
+            Console.WriteLine(sum);
         }
     }
 }

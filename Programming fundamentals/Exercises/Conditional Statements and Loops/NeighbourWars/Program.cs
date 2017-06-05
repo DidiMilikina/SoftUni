@@ -14,45 +14,50 @@ namespace NeighbourWars
             var goshoDamage = int.Parse(Console.ReadLine());
 
             var peshoHealth = 100;
-            var goshoHelath = 100;
+            var goshoHealth = 100;
             var round = 1;
-            string peshoCw = $"Pesho used Roundhouse kick and reduced Gosho to {peshoHealth} health.";
-            string goshoCw = $"Gosho used Thunderous fist and reduced Pesho to {goshoHelath} health.";
 
             while (true) 
             {
                 
                 if(round % 2 == 1)
                 {
-                    goshoHelath -= peshoDamage;
+                    goshoHealth -= peshoDamage;
+                    if (goshoHealth > 0)
+                    {
+                        Console.WriteLine($"Pesho used Roundhouse kick and reduced Gosho to {goshoHealth} health.");
+                    }
                 }
                 else
                 {
                     peshoHealth -= goshoDamage;
+                    if (peshoHealth > 0)
+                    {
+                        Console.WriteLine($"Gosho used Thunderous fist and reduced Pesho to {peshoHealth} health.");
+                    }  
                 }
-
-                round++;
 
                 if (peshoHealth <= 0)
                 {
+                    Console.WriteLine($"Gosho won in {round}th round.");
                     break;
 
                 }
-                else if (goshoHelath <= 0)
+                else if (goshoHealth <= 0)
                 {
+                    Console.WriteLine($"Pesho won in {round}th round.");
                     break;
                 }
                 if(round % 3 == 0)
                 {
-                    goshoHelath += 10;
+                    goshoHealth += 10;
                     peshoHealth += 10;
 
                 }
-                
+
+                round++;
 
             }
-            Console.WriteLine(round - 1);
-
         }
     }
 }

@@ -20,7 +20,7 @@ namespace PhotoGallery
             int resolutionWidth = int.Parse(Console.ReadLine());
             int resolutionHeight = int.Parse(Console.ReadLine());
 
-           
+
             Console.WriteLine($"Name: DSC_{fileName:D4}.jpg");
             Console.WriteLine($"Date Taken: {day:D2}/{month:D2}/{year} {hours:D2}:{minutes:D2}");
             if (sizeInBytes < 1000)
@@ -37,13 +37,13 @@ namespace PhotoGallery
                 double sizeMB = sizeInBytes / 1000000;
                 Console.WriteLine($"Size: {sizeMB}MB");
             }
-            
+
 
             if (resolutionHeight == resolutionWidth)
             {
                 Console.WriteLine($"Resolution: {resolutionWidth}x{resolutionHeight} (square)");
             }
-            else if(resolutionWidth > resolutionHeight)
+            else if (resolutionWidth > resolutionHeight)
             {
                 Console.WriteLine($"Resolution: {resolutionWidth}x{resolutionHeight} (landscape)");
             }

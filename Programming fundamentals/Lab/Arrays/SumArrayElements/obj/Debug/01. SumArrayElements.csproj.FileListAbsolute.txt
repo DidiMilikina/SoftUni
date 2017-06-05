@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\SumArrayElements\bin\Debug\SumArrayElements.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\SumArrayElements\bin\Debug\SumArrayElements.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\SumArrayElements\bin\Debug\SumArrayElements.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\SumArrayElements\obj\Debug\01. SumArrayElements.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\SumArrayElements\obj\Debug\SumArrayElements.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\SumArrayElements\obj\Debug\SumArrayElements.pdb
