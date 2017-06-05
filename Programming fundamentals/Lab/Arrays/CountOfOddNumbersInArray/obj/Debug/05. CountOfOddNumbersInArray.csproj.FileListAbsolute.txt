@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\CountOfOddNumbersInArray\obj\Debug\05. CountOfOddNumbersInArray.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\CountOfOddNumbersInArray\obj\Debug\CountOfOddNumbersInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\CountOfOddNumbersInArray\obj\Debug\CountOfOddNumbersInArray.pdb

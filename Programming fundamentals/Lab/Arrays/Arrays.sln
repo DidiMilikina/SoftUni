@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. RotateArrayOfStrings", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. CountOfOddNumbersInArray", "CountOfOddNumbersInArray\05. CountOfOddNumbersInArray.csproj", "{1A3373B8-4898-4604-B5F8-6C5E904B87A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. OddNumbersAtOddPositions", "OddNumbersAtOddPositions\06. OddNumbersAtOddPositions.csproj", "{83E63677-5F7D-4B6D-A58F-CC22C43549F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1A3373B8-4898-4604-B5F8-6C5E904B87A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A3373B8-4898-4604-B5F8-6C5E904B87A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A3373B8-4898-4604-B5F8-6C5E904B87A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E63677-5F7D-4B6D-A58F-CC22C43549F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E63677-5F7D-4B6D-A58F-CC22C43549F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E63677-5F7D-4B6D-A58F-CC22C43549F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E63677-5F7D-4B6D-A58F-CC22C43549F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

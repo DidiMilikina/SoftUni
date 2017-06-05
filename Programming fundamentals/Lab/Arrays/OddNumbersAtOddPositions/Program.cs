@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CountOfOddNumbersInArray
+namespace OddNumbersAtOddPositions
 {
     class Program
     {
         static void Main(string[] args)
         {
+
             int[] numbers = Console.ReadLine()
                 .Split(' ')
                 .Select(int.Parse)
@@ -17,11 +18,9 @@ namespace CountOfOddNumbersInArray
 
             for (int i = 0; i < numbers.Length; i++)
             {
-                
-                if (i % 2 != 1)
+                if (i % 2 != 0 && numbers[i] % 2 != 0)
                 {
-                    Console.WriteLine(numbers[i]);
-                
+                    Console.WriteLine($"Index {i} -> {numbers[i]}");
                 }
             }
         }

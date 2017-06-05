@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\OddNumbersAtOddPositions\obj\Debug\OddNumbersAtOddPositions.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\OddNumbersAtOddPositions\obj\Debug\OddNumbersAtOddPositions.pdb
