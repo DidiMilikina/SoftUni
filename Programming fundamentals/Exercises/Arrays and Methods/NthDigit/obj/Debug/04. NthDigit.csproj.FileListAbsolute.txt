@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\NthDigit\bin\Debug\NthDigit.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\NthDigit\bin\Debug\NthDigit.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\NthDigit\bin\Debug\NthDigit.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\NthDigit\obj\Debug\04. NthDigit.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\NthDigit\obj\Debug\NthDigit.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\NthDigit\obj\Debug\NthDigit.pdb

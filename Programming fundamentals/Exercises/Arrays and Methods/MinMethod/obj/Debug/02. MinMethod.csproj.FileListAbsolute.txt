@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\MinMethod\bin\Debug\MinMethod.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\MinMethod\bin\Debug\MinMethod.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\MinMethod\bin\Debug\MinMethod.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\MinMethod\obj\Debug\02. MinMethod.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\MinMethod\obj\Debug\MinMethod.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\MinMethod\obj\Debug\MinMethod.pdb

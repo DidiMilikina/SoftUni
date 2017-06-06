@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\StringRepeater\bin\Debug\StringRepeater.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\StringRepeater\bin\Debug\StringRepeater.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\StringRepeater\bin\Debug\StringRepeater.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\StringRepeater\obj\Debug\StringRepeater.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\StringRepeater\obj\Debug\StringRepeater.pdb
