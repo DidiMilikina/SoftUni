@@ -26,7 +26,7 @@ namespace DNASequences
                         int sum = 0;
                         string output = first + second + third;
 
-                        if (firstLetter + secondLetter + thirdLetter >= number)
+                        if (firstLetter + secondLetter + thirdLetter + 3 >= number)
                         {
                             Console.Write($"O{output}O ");
                         }
