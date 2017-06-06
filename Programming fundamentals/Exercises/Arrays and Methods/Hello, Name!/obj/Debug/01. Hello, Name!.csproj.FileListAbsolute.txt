@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\Hello, Name!\bin\Debug\Hello, Name!.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\Hello, Name!\bin\Debug\Hello, Name!.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\Hello, Name!\bin\Debug\Hello, Name!.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\Hello, Name!\obj\Debug\01. Hello, Name!.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\Hello, Name!\obj\Debug\Hello, Name!.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\Hello, Name!\obj\Debug\Hello, Name!.pdb

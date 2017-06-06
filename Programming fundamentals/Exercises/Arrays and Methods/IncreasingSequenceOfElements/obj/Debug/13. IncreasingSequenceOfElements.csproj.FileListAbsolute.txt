@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\IncreasingSequenceOfElements\obj\Debug\IncreasingSequenceOfElements.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\IncreasingSequenceOfElements\obj\Debug\IncreasingSequenceOfElements.pdb

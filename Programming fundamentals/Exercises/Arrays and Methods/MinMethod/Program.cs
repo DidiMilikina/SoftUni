@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Debug.MultiplyEvensByOdds
+namespace MinMethod
 {
     class Program
     {
-       
-        
+        static void Main(string[] args)
+        {
+
+        }
     }
 }

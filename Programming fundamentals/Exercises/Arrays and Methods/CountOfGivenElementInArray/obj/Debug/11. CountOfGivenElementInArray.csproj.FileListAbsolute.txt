@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.pdb

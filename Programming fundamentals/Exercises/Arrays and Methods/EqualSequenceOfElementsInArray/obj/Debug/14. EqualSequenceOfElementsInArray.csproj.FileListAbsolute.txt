@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\EqualSequenceOfElementsInArray\bin\Debug\EqualSequenceOfElementsInArray.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\EqualSequenceOfElementsInArray\bin\Debug\EqualSequenceOfElementsInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\EqualSequenceOfElementsInArray\bin\Debug\EqualSequenceOfElementsInArray.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\EqualSequenceOfElementsInArray\obj\Debug\14. EqualSequenceOfElementsInArray.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\EqualSequenceOfElementsInArray\obj\Debug\EqualSequenceOfElementsInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\EqualSequenceOfElementsInArray\obj\Debug\EqualSequenceOfElementsInArray.pdb

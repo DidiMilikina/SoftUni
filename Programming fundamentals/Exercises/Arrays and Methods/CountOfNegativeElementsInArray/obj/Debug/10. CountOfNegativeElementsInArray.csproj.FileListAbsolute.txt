@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfNegativeElementsInArray\bin\Debug\CountOfNegativeElementsInArray.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfNegativeElementsInArray\bin\Debug\CountOfNegativeElementsInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfNegativeElementsInArray\bin\Debug\CountOfNegativeElementsInArray.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfNegativeElementsInArray\obj\Debug\CountOfNegativeElementsInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfNegativeElementsInArray\obj\Debug\CountOfNegativeElementsInArray.pdb

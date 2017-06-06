@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\09. LargestElementInArray\bin\Debug\_09.LargestElementInArray.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\09. LargestElementInArray\bin\Debug\_09.LargestElementInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\09. LargestElementInArray\bin\Debug\_09.LargestElementInArray.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\09. LargestElementInArray\obj\Debug\09. LargestElementInArray.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\09. LargestElementInArray\obj\Debug\_09.LargestElementInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\09. LargestElementInArray\obj\Debug\_09.LargestElementInArray.pdb

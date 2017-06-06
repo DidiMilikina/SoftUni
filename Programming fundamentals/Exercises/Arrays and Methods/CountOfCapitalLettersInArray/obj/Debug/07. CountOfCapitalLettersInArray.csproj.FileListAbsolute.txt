@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfCapitalLettersInArray\obj\Debug\07. CountOfCapitalLettersInArray.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfCapitalLettersInArray\obj\Debug\CountOfCapitalLettersInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOfCapitalLettersInArray\obj\Debug\CountOfCapitalLettersInArray.pdb
