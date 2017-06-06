@@ -13,6 +13,7 @@ namespace IncrementVariable
             int n = int.Parse(Console.ReadLine());
             int times = 0;
             byte variable = 0;
+
             for (int i = 0; i < n; i++)
             {
                 variable++;
