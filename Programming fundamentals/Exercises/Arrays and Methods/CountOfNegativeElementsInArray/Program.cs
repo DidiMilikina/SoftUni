@@ -10,19 +10,22 @@ namespace CountOfNegativeElementsInArray
     {
         static void Main(string[] args)
         {
-            int[] numbers = Console.ReadLine()
+            
+            int[] numArray = Console.ReadLine()
                 .Split(' ')
                 .Select(int.Parse)
                 .ToArray();
 
+            bool containsNegative = numArray.Min() < 0;
             int counter = 0;
 
-            for (int i = 0; i < numbers.Length; i++)
+            for (int i = 0; i < numArray.Length; i++)
             {
-                if(numbers[i] < 0)
+                if (numArray[i] < 0)
                 {
                     counter++;
                     Console.WriteLine(counter);
+
                 }
                 else
                 {
@@ -31,5 +34,6 @@ namespace CountOfNegativeElementsInArray
 
             }
         }
+        
     }
 }

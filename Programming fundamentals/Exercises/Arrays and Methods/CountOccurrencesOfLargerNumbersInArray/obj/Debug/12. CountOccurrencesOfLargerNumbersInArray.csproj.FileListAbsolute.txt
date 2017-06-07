@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOccurrencesOfLargerNumbersInArray\bin\Debug\CountOccurrencesOfLargerNumbersInArray.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOccurrencesOfLargerNumbersInArray\bin\Debug\CountOccurrencesOfLargerNumbersInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOccurrencesOfLargerNumbersInArray\bin\Debug\CountOccurrencesOfLargerNumbersInArray.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOccurrencesOfLargerNumbersInArray\obj\Debug\CountOccurrencesOfLargerNumbersInArray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\CountOccurrencesOfLargerNumbersInArray\obj\Debug\CountOccurrencesOfLargerNumbersInArray.pdb

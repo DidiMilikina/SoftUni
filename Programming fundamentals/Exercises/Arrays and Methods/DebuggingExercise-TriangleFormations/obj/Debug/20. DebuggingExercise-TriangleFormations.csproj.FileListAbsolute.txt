@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\DebuggingExercise-TriangleFormations\bin\Debug\DebuggingExercise-TriangleFormations.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\DebuggingExercise-TriangleFormations\bin\Debug\DebuggingExercise-TriangleFormations.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\DebuggingExercise-TriangleFormations\bin\Debug\DebuggingExercise-TriangleFormations.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\DebuggingExercise-TriangleFormations\obj\Debug\DebuggingExercise-TriangleFormations.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\DebuggingExercise-TriangleFormations\obj\Debug\DebuggingExercise-TriangleFormations.pdb

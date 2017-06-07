@@ -10,17 +10,18 @@ namespace _09.LargestElementInArray
     {
         static void Main(string[] args)
         {
-            int[] numbers = Console.ReadLine()
-                .Split(' ')
-                .Select(int.Parse)
-                .ToArray();
 
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                int max = numbers.Max();
-                Console.WriteLine(max);
-            }
+            int x = Convert.ToInt32(Console.ReadLine());
+            int[] arr = new int[x];
             
+            for (int i = 0; i < x; i++)
+            {
+                arr[i] = Convert.ToInt32(Console.ReadLine());
+
+            }
+            int max = arr.Max();
+            
+            Console.WriteLine(max);
         }
     }
 }
