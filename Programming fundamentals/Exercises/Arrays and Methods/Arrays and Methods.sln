@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. DebuggingExercise-Trick
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. DebuggingExercise-TriangleFormations", "DebuggingExercise-TriangleFormations\20. DebuggingExercise-TriangleFormations.csproj", "{17266605-B093-44A4-85D9-CCE0299FC10D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. DebuggingExercise-Tetris", "DebuggingExercise-Tetris\21. DebuggingExercise-Tetris.csproj", "{BDA9A2D4-6242-455A-A3F2-144823B0E6BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{17266605-B093-44A4-85D9-CCE0299FC10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17266605-B093-44A4-85D9-CCE0299FC10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17266605-B093-44A4-85D9-CCE0299FC10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA9A2D4-6242-455A-A3F2-144823B0E6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA9A2D4-6242-455A-A3F2-144823B0E6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA9A2D4-6242-455A-A3F2-144823B0E6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA9A2D4-6242-455A-A3F2-144823B0E6BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

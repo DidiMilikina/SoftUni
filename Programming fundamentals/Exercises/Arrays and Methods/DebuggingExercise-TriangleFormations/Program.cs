@@ -35,13 +35,13 @@ namespace DebuggingExercise_TriangleFormations
             var rightTriangleCondition3 = a * a + c * c == b * b;
 
             if (rightTriangleCondition1)
-                Console.WriteLine("Triangle has a right angle between sides a and b.");
+                Console.WriteLine("Triangle has a right angle between sides a and b");
             else if (rightTriangleCondition2)
                 Console.WriteLine("Triangle has a right angle between sides b and c");
-            else if (rightTriangleCondition2)
+            else if (rightTriangleCondition3)
                 Console.WriteLine("Triangle has a right angle between sides a and c");
             else
-                Console.WriteLine("Triangle has no right angles.");
+                Console.WriteLine("Triangle has no right angles");
         }
     }
 
