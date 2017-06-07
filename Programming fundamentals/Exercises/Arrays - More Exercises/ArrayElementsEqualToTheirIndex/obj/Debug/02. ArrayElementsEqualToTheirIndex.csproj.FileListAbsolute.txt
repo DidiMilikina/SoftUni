@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\ArrayElementsEqualToTheirIndex\bin\Debug\ArrayElementsEqualToTheirIndex.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\ArrayElementsEqualToTheirIndex\bin\Debug\ArrayElementsEqualToTheirIndex.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\ArrayElementsEqualToTheirIndex\bin\Debug\ArrayElementsEqualToTheirIndex.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\ArrayElementsEqualToTheirIndex\obj\Debug\02. ArrayElementsEqualToTheirIndex.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\ArrayElementsEqualToTheirIndex\obj\Debug\ArrayElementsEqualToTheirIndex.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\ArrayElementsEqualToTheirIndex\obj\Debug\ArrayElementsEqualToTheirIndex.pdb

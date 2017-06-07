@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\CharRotation\bin\Debug\CharRotation.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\CharRotation\bin\Debug\CharRotation.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\CharRotation\bin\Debug\CharRotation.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\CharRotation\obj\Debug\CharRotation.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\CharRotation\obj\Debug\CharRotation.pdb

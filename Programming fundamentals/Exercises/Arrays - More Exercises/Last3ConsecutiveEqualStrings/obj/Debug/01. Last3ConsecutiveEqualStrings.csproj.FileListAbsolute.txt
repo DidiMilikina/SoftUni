@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\Last3ConsecutiveEqualStrings\obj\Debug\Last3ConsecutiveEqualStrings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\Last3ConsecutiveEqualStrings\obj\Debug\Last3ConsecutiveEqualStrings.pdb

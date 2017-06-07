@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\Phonebook\bin\Debug\Phonebook.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\Phonebook\bin\Debug\Phonebook.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\Phonebook\bin\Debug\Phonebook.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\Phonebook\obj\Debug\Phonebook.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays - More Exercises\Phonebook\obj\Debug\Phonebook.pdb
