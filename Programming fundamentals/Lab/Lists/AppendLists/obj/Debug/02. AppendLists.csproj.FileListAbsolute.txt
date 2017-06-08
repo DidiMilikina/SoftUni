@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\AppendLists\bin\Debug\AppendLists.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\AppendLists\bin\Debug\AppendLists.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\AppendLists\bin\Debug\AppendLists.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\AppendLists\obj\Debug\AppendLists.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\AppendLists\obj\Debug\AppendLists.pdb
