@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\RemoveNegativesAndReverse\obj\Debug\01. RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.pdb
