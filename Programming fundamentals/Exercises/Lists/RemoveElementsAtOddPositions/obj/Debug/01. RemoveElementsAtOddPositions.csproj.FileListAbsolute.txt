@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\RemoveElementsAtOddPositions\obj\Debug\01. RemoveElementsAtOddPositions.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.pdb
