@@ -10,13 +10,14 @@ namespace SplitByWordCasing
     {
         static void Main(string[] args)
         {
-            List<string> words = Console.ReadLine()
-                .Split(new[] { ',', ';', ':', '.', '!', '(', ')', '"', '\'', '\\', '/', '[', ']', ' ' }, StringSplitOptions.RemoveEmptyEntries)
+            var words = Console.ReadLine()
+                .Split(new[] { ',', ';', ':', '.', '!', '(', ')', '"', '\'', '\\', '/', '[', ']', ' ' }
+                , StringSplitOptions.RemoveEmptyEntries)
                 .ToList();
 
-            List<string> lowerCaseWords = new List<string>();
-            List<string> mixedCaseWords = new List<string>();
-            List<string> upperCaseWords = new List<string>();
+            var lowerCaseWords = new List<string>();
+            var mixedCaseWords = new List<string>();
+            var upperCaseWords = new List<string>();
 
 
 

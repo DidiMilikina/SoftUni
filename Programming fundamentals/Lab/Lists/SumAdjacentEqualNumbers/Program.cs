@@ -10,6 +10,21 @@ namespace SumAdjacentEqualNumbers
     {
         static void Main(string[] args)
         {
+            var numbers = Console.ReadLine()
+                .Split()
+                .Select(int.Parse)
+                .ToList();
+
+            for (int i = 0; i < numbers.Count; i++)
+            {
+                if (numbers[i] == numbers[i - 1])
+                {
+                    
+                    
+                }
+            }
+
+            Console.WriteLine(string.Join(" ", numbers));
         }
     }
 }
