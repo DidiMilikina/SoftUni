@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\DistinctList\bin\Debug\DistinctList.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\DistinctList\bin\Debug\DistinctList.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\DistinctList\bin\Debug\DistinctList.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\DistinctList\obj\Debug\01. DistinctList.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\DistinctList\obj\Debug\DistinctList.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\DistinctList\obj\Debug\DistinctList.pdb
