@@ -8,7 +8,9 @@ namespace Debug.MultiplyEvensByOdds
 {
     class Program
     {
-       
-        
+        public static void Main()
+        {
+            
+        }
     }
 }

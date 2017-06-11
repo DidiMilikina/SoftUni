@@ -10,20 +10,21 @@ namespace CountOfOddNumbersInArray
     {
         static void Main(string[] args)
         {
-            int[] numbers = Console.ReadLine()
+            var numbers = Console.ReadLine()
                 .Split(' ')
                 .Select(int.Parse)
                 .ToArray();
 
+            var count = new List<int>();
             for (int i = 0; i < numbers.Length; i++)
             {
-                
-                if (i % 2 != 1)
+                if (numbers[i] % 2 != 0)
                 {
-                    Console.WriteLine(numbers[i]);
-                
+                    Console.Write(numbers[i] + " ");
+
                 }
             }
+            Console.WriteLine();
         }
     }
 }

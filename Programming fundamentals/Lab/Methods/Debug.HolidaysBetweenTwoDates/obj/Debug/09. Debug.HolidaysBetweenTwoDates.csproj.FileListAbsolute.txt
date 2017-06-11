@@ -3,3 +3,4 @@ C:\GitHub\SoftUni\Programming fundamentals\Lab\Methods\Debug.HolidaysBetweenTwoD
 C:\GitHub\SoftUni\Programming fundamentals\Lab\Methods\Debug.HolidaysBetweenTwoDates\bin\Debug\Debug.HolidaysBetweenTwoDates.pdb
 C:\GitHub\SoftUni\Programming fundamentals\Lab\Methods\Debug.HolidaysBetweenTwoDates\obj\Debug\Debug.HolidaysBetweenTwoDates.exe
 C:\GitHub\SoftUni\Programming fundamentals\Lab\Methods\Debug.HolidaysBetweenTwoDates\obj\Debug\Debug.HolidaysBetweenTwoDates.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Methods\Debug.HolidaysBetweenTwoDates\obj\Debug\09. Debug.HolidaysBetweenTwoDates.csprojResolveAssemblyReference.cache

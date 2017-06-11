@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Methods\Debug.PriceChangeAlert\bin\Debug\Debug.PriceChangeAlert.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Methods\Debug.PriceChangeAlert\bin\Debug\Debug.PriceChangeAlert.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Methods\Debug.PriceChangeAlert\bin\Debug\Debug.PriceChangeAlert.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Methods\Debug.PriceChangeAlert\obj\Debug\Debug.PriceChangeAlert.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Methods\Debug.PriceChangeAlert\obj\Debug\Debug.PriceChangeAlert.pdb
