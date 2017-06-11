@@ -10,6 +10,8 @@ namespace CypherRoulette
     {
         static void Main(string[] args)
         {
+
+
         }
     }
 }
