@@ -10,21 +10,20 @@ namespace CountOfOddNumbersInArray
     {
         static void Main(string[] args)
         {
-            var numbers = Console.ReadLine()
+            int[] numbers = Console.ReadLine()
                 .Split(' ')
                 .Select(int.Parse)
                 .ToArray();
 
-            var count = new List<int>();
+            int oddElementsCount = 0;
             for (int i = 0; i < numbers.Length; i++)
             {
                 if (numbers[i] % 2 != 0)
                 {
-                    Console.Write(numbers[i] + " ");
-
+                    oddElementsCount++;
                 }
             }
-            Console.WriteLine();
+            Console.WriteLine(oddElementsCount);
         }
     }
 }

@@ -3,3 +3,4 @@ C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\RotateArrayOfStrings\bin\D
 C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.pdb
 C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.exe
 C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Arrays\RotateArrayOfStrings\obj\Debug\04. RotateArrayOfStrings.csprojResolveAssemblyReference.cache

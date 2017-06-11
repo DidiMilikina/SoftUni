@@ -13,8 +13,6 @@ namespace RotateArrayOfStrings
             string[] words = Console.ReadLine()
                 .Split(' ');
 
-            var lastWord = words[words.Length - 1];
-
             var result = new string[words.Length];
             result[0] = words[words.Length - 1];
 
