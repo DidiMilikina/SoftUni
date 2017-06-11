@@ -30,7 +30,6 @@ namespace DebuggingExercise_Tetris
                         Down(n);
                         break;
                 }
-
                 currentDirection = Console.ReadLine();
             }
         }
