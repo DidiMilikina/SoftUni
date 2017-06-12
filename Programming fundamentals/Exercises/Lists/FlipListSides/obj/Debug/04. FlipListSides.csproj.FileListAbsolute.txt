@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\FlipListSides\bin\Debug\FlipListSides.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\FlipListSides\bin\Debug\FlipListSides.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\FlipListSides\bin\Debug\FlipListSides.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\FlipListSides\obj\Debug\FlipListSides.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\FlipListSides\obj\Debug\FlipListSides.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\FlipListSides\obj\Debug\04. FlipListSides.csprojResolveAssemblyReference.cache

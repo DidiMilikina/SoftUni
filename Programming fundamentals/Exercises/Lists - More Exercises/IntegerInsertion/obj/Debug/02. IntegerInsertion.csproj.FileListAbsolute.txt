@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\IntegerInsertion\bin\Debug\IntegerInsertion.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\IntegerInsertion\bin\Debug\IntegerInsertion.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\IntegerInsertion\bin\Debug\IntegerInsertion.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\IntegerInsertion\obj\Debug\IntegerInsertion.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\IntegerInsertion\obj\Debug\IntegerInsertion.pdb

@@ -12,20 +12,14 @@ namespace DistinctList
     {
         static void Main(string[] args)
         {
-         
-              var numbers = Console.ReadLine()
-                .Split(' ')
-                .Select(int.Parse)
-                .ToList();
 
-            var counts = new int();
-            for (int i = 0; i < numbers.Count; i++)
-            {
-                if ()
-                {
-                    
-                }
-            } 
+            var numbers = Console.ReadLine()
+              .Split(' ')
+              .Select(int.Parse)
+              .ToList();
+
+            numbers = numbers.Distinct().ToList();
+            Console.WriteLine(String.Join(", ", numbers));
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\EqualSumAfterExtraction\obj\Debug\03. EqualSumAfterExtraction.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.pdb

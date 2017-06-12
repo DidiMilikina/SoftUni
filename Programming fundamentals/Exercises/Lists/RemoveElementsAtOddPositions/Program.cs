@@ -14,6 +14,7 @@ namespace RemoveElementsAtOddPositions
                 .Split(' ')
                 .ToList();
             var result = new List<string>();
+
             for (int i = 1; i < name.Count; i++)
             {
                 if (i % 2 != 0)
