@@ -11,14 +11,27 @@ namespace ArraySymmetry
         static void Main(string[] args)
         {
             string[] words = Console.ReadLine()
-                .Split(' ');
+                .Split();
 
             bool isSymmetric = true;
-
-            for (int i = 0; i < length; i++)
+            for (int i = 0; i < words.Length / 2; i++)
             {
-
+                if (words[i] != words[words.Length - 1 - i])
+                {
+                    isSymmetric = false;
+                    break;  
+                }
             }
+
+            if (isSymmetric)
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
+            
         }
     }
 }

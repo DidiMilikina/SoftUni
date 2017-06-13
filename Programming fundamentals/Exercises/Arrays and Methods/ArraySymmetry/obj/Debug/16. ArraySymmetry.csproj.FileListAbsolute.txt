@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\ArraySymmetry\bin\Debug\ArraySymmetry.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\ArraySymmetry\bin\Debug\ArraySymmetry.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\ArraySymmetry\bin\Debug\ArraySymmetry.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\ArraySymmetry\obj\Debug\16. ArraySymmetry.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\ArraySymmetry\obj\Debug\ArraySymmetry.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Arrays and Methods\ArraySymmetry\obj\Debug\ArraySymmetry.pdb

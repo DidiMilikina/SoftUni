@@ -11,23 +11,21 @@ namespace CountOfGivenElementInArray
         static void Main(string[] args)
         {
             int[] numbers = Console.ReadLine()
-                .Split(' ')
+                .Split()
                 .Select(int.Parse)
                 .ToArray();
+            int secondNum = int.Parse(Console.ReadLine());
 
             int counter = 0;
-            for (int i = 0; i < numbers.Length; i++)
+            foreach (var num in numbers)
             {
-                if (numbers.Length > 0)
+                if (num == secondNum)
                 {
                     counter++;
-                    Console.WriteLine(counter);
-                }
-                else
-                {
-                    Console.WriteLine(0);
                 }
             }
+
+            Console.WriteLine(counter);
         }
     }
 }

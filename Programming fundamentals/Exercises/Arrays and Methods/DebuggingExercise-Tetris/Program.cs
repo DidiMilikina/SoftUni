@@ -10,40 +10,71 @@ namespace DebuggingExercise_Tetris
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine()) - 1;
+            int n = int.Parse(Console.ReadLine());
             string currentDirection = Console.ReadLine();
 
             while (currentDirection != "exit")
             {
                 switch (currentDirection)
                 {
-                    case "left":
-                        Left(n);
+                    case "up":
+                        Up(n);
                         break;
                     case "right":
                         Right(n);
                         break;
-                    case "up":
-                        Up(n);
-                        break;
                     case "down":
                         Down(n);
                         break;
+                    case "left":
+                        Left(n);
+                        break;
                 }
+
                 currentDirection = Console.ReadLine();
             }
         }
+
         static void Left(int n)
         {
-            for (int i = 0; i < n + 1; i++)
+            for (int i = 0; i < n; i++)
             {
-                Console.WriteLine('*');
+                Console.Write(new string('.', n));
+                Console.WriteLine(new string('*', n));
+            }
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine(new string('*', 2 * n));
+            }
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write(new string('.', n));
+                Console.WriteLine(new string('*', n));
             }
         }
+
         static void Right(int n)
         {
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write(new string('*', n));
+                Console.WriteLine(new string('.', n));
+            }
 
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine(new string('*', 2 * n));
+            }
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write(new string('*', n));
+                Console.WriteLine(new string('.', n));
+            }
         }
+
         static void Up(int n)
         {
             for (int i = 0; i < n; i++)
@@ -52,14 +83,26 @@ namespace DebuggingExercise_Tetris
                 Console.Write(new string('*', n));
                 Console.WriteLine(new string('.', n));
             }
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine(new string('*', n * 3));
+            }
         }
+
         static void Down(int n)
         {
-            for (int i = 0;  i < 2 * n; i++)
+            for (int i = 0; i < n; i++)
             {
-                Console.WriteLine('*');
+                Console.WriteLine(new string('*', n * 3));
+            }
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write(new string('.', n));
+                Console.Write(new string('*', n));
+                Console.WriteLine(new string('.', n));
             }
         }
     }
 }
-

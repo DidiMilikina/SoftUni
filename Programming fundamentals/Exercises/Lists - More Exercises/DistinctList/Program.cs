@@ -19,7 +19,7 @@ namespace DistinctList
               .ToList();
 
             numbers = numbers.Distinct().ToList();
-            Console.WriteLine(String.Join(", ", numbers));
+            Console.WriteLine(String.Join(" ", numbers));
         }
     }
 }

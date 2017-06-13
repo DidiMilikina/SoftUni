@@ -10,14 +10,16 @@ namespace MinMethod
     {
         static void Main(string[] args)
         {
-            int[] numbers = Console.ReadLine()
-                .Split(' ')
-                .Select(int.Parse)
-                .ToArray();
-
-            Console.WriteLine(numbers.Min());
+            int num1 = int.Parse(Console.ReadLine());
+            int num2 = int.Parse(Console.ReadLine());
+            int num3 = int.Parse(Console.ReadLine());
+            Console.WriteLine(GetMin(num1, GetMin(num2, num3)));
+            
         }
 
-      
+        static int GetMin(int num1, int num2)
+        {
+            return Math.Min(num1, num2);
+        }
     }
 }

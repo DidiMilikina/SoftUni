@@ -10,11 +10,23 @@ namespace CountOccurrencesOfLargerNumbersInArray
     {
         static void Main(string[] args)
         {
-            int[] array = Console.ReadLine()
-                .Split(' ')
-                .Select(int.Parse)
-                .ToArray();
             
+            double[] numbers = Console.ReadLine()
+                .Split(' ')
+                .Select(double.Parse)
+                .ToArray();
+            double secondNum = double.Parse(Console.ReadLine());
+
+            double counter = 0;
+            foreach (var num in numbers)
+            {
+                if (num > secondNum)
+                {
+                    counter++;
+                }
+            }
+
+            Console.WriteLine(counter);
         }
     }
 }
