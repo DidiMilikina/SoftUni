@@ -3,3 +3,4 @@ C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\Inte
 C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\IntegerInsertion\bin\Debug\IntegerInsertion.pdb
 C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\IntegerInsertion\obj\Debug\IntegerInsertion.exe
 C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\IntegerInsertion\obj\Debug\IntegerInsertion.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\IntegerInsertion\obj\Debug\02. IntegerInsertion.csprojResolveAssemblyReference.cache

@@ -20,10 +20,12 @@ namespace IntegerInsertion
             while (line != "end")
             {
                 int newNumbers = int.Parse(line);
+                int fistDigit = line[0] - '0';
+                numbers.Insert(fistDigit,newNumbers);
                 line = Console.ReadLine();
                 
             }
-            Console.WriteLine(String.Join(" ", ));
+            Console.WriteLine(string.Join(" ", numbers));
         }
     }
 }

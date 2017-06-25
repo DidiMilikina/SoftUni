@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ArrayContainsElement\bin\Debug\ArrayContainsElement.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ArrayContainsElement\bin\Debug\ArrayContainsElement.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ArrayContainsElement\bin\Debug\ArrayContainsElement.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ArrayContainsElement\obj\Debug\ArrayContainsElement.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ArrayContainsElement\obj\Debug\ArrayContainsElement.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ArrayContainsElement\obj\Debug\ArrayContainsElement.pdb

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ReverseArrayIn-place\bin\Debug\ReverseArrayIn-place.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ReverseArrayIn-place\bin\Debug\ReverseArrayIn-place.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ReverseArrayIn-place\bin\Debug\ReverseArrayIn-place.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ReverseArrayIn-place\obj\Debug\03. ReverseArrayIn-place.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ReverseArrayIn-place\obj\Debug\ReverseArrayIn-place.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\ReverseArrayIn-place\obj\Debug\ReverseArrayIn-place.pdb

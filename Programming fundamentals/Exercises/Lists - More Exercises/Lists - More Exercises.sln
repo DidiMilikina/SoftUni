@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. DistinctList", "Distinc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. IntegerInsertion", "IntegerInsertion\02. IntegerInsertion.csproj", "{8AA90755-73F0-46D9-91C4-2A1724106094}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Camel’sBack", "Camel’sBack\03. Camel’sBack.csproj", "{7D2E2002-4515-4184-825F-F9CAB1CDA904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. UnunionLists", "UnunionLists\04. UnunionLists.csproj", "{FE379CBB-5AAB-431F-80A8-6E6C2852BD4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8AA90755-73F0-46D9-91C4-2A1724106094}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA90755-73F0-46D9-91C4-2A1724106094}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA90755-73F0-46D9-91C4-2A1724106094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D2E2002-4515-4184-825F-F9CAB1CDA904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2E2002-4515-4184-825F-F9CAB1CDA904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2E2002-4515-4184-825F-F9CAB1CDA904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2E2002-4515-4184-825F-F9CAB1CDA904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE379CBB-5AAB-431F-80A8-6E6C2852BD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE379CBB-5AAB-431F-80A8-6E6C2852BD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE379CBB-5AAB-431F-80A8-6E6C2852BD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE379CBB-5AAB-431F-80A8-6E6C2852BD4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

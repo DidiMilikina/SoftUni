@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SmallestElementInray\bin\Debug\SmallestElementInray.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SmallestElementInray\bin\Debug\SmallestElementInray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SmallestElementInray\bin\Debug\SmallestElementInray.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SmallestElementInray\obj\Debug\SmallestElementInray.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SmallestElementInray\obj\Debug\SmallestElementInray.pdb

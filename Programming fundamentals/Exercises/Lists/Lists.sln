@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. EqualSumAfterExtraction
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. FlipListSides", "FlipListSides\04. FlipListSides.csproj", "{E95B9C82-1E8D-48BA-BCA0-14543E3C5AA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. TearListInHalf", "TearListInHalf\05. TearListInHalf.csproj", "{B9345224-2F76-4A2D-A0B8-793F01CBBC51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E95B9C82-1E8D-48BA-BCA0-14543E3C5AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E95B9C82-1E8D-48BA-BCA0-14543E3C5AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E95B9C82-1E8D-48BA-BCA0-14543E3C5AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9345224-2F76-4A2D-A0B8-793F01CBBC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9345224-2F76-4A2D-A0B8-793F01CBBC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9345224-2F76-4A2D-A0B8-793F01CBBC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9345224-2F76-4A2D-A0B8-793F01CBBC51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
