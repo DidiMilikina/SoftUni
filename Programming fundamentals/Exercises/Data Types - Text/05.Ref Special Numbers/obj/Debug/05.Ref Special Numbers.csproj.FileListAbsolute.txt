@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Text\05.Ref Special Numbers\bin\Debug\05.Ref Special Numbers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Text\05.Ref Special Numbers\bin\Debug\05.Ref Special Numbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Text\05.Ref Special Numbers\bin\Debug\05.Ref Special Numbers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Text\05.Ref Special Numbers\obj\Debug\05.Ref Special Numbers.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Text\05.Ref Special Numbers\obj\Debug\05.Ref Special Numbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Data Types - Text\05.Ref Special Numbers\obj\Debug\05.Ref Special Numbers.pdb
