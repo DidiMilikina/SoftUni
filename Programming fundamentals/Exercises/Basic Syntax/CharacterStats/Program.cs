@@ -23,7 +23,6 @@ namespace CharacterStats
             Console.WriteLine("Energy: |{0}{1}|",
                 new string('|', currentEnergy),
                 new string('.', maxEnergy - currentEnergy));
-            
         }
     }
 }
