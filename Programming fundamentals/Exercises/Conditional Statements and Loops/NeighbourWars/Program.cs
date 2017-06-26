@@ -54,7 +54,6 @@ namespace NeighbourWars
                     peshoHealth += 10;
 
                 }
-
                 round++;
 
             }
