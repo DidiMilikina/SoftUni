@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Phonebook
+namespace Phone
     {
         class Program
         {
@@ -40,4 +40,3 @@ namespace Phonebook
         }
     }
 }
-
