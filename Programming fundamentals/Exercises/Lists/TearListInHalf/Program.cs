@@ -11,6 +11,7 @@ namespace TearListInHalf
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
