@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\UnunionLists\bin\Debug\UnunionLists.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\UnunionLists\bin\Debug\UnunionLists.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\UnunionLists\bin\Debug\UnunionLists.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\UnunionLists\obj\Debug\04. UnunionLists.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\UnunionLists\obj\Debug\UnunionLists.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lists - More Exercises\UnunionLists\obj\Debug\UnunionLists.pdb

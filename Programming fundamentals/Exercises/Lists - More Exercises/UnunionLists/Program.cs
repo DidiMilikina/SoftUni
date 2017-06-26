@@ -24,7 +24,7 @@ namespace UnunionLists
                     .ToList();
                 for (int j = 0; j < currentList.Count; j++)
                 {
-                    int currentElement = currentList[i];
+                    int currentElement = currentList[j];
                     if (primalList.Contains(currentElement))
                     {
                         primalList.RemoveAll(e => e == currentElement);
