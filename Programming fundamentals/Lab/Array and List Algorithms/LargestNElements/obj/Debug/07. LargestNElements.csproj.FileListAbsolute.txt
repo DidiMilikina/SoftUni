@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\LargestNElements\bin\Debug\LargestNElements.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\LargestNElements\bin\Debug\LargestNElements.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\LargestNElements\bin\Debug\LargestNElements.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\LargestNElements\obj\Debug\07. LargestNElements.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\LargestNElements\obj\Debug\LargestNElements.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\LargestNElements\obj\Debug\LargestNElements.pdb

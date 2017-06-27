@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SortArrayUsingBubbleSort
+namespace SortArrayUsingInsertionSort
 {
     class Program
     {
@@ -15,23 +15,22 @@ namespace SortArrayUsingBubbleSort
                 .Select(int.Parse)
                 .ToArray();
 
-            bool isSwapped = true;
 
-            while (isSwapped)
+            for (int i = 0; i < numbers.Length - 1; i++)
             {
-                isSwapped = false;
-
-                for (int i = 0; i < numbers.Length - 1; i++)
+                int j = i + 1;
+                while (j > 0)
                 {
-                    if (numbers[i] > numbers[i + 1])
+                    if (numbers[j] < numbers[j - 1])
                     {
-                        int temp = numbers[i];
-                        numbers[i] = numbers[i + 1];
-                        numbers[i + 1] = temp;
-                        isSwapped = true;
+                        int temp = numbers[j];
+                        numbers[j] = numbers[j - 1];
+                        numbers[j - 1] = temp;
                     }
+                    j--;
                 }
             }
+
             Console.WriteLine(string.Join(" ", numbers));
         }
     }

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SortArrayUsingBubbleSort\obj\Debug\04. SortArrayUsingBubbleSort.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SortArrayUsingBubbleSort\obj\Debug\SortArrayUsingBubbleSort.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SortArrayUsingBubbleSort\obj\Debug\SortArrayUsingBubbleSort.pdb

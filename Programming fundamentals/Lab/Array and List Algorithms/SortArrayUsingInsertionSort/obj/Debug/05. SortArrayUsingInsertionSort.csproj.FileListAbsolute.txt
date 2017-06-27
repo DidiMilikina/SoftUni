@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SortArrayUsingInsertionSort\obj\Debug\SortArrayUsingInsertionSort.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Array and List Algorithms\SortArrayUsingInsertionSort\obj\Debug\SortArrayUsingInsertionSort.pdb
