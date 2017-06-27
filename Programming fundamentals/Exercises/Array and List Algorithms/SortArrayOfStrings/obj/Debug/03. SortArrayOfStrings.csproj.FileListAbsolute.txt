@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\SortArrayOfStrings\obj\Debug\03. SortArrayOfStrings.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.pdb

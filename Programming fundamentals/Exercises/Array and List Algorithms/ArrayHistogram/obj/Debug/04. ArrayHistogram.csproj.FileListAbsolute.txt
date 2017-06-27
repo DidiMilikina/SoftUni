@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ArrayHistogram\bin\Debug\ArrayHistogram.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ArrayHistogram\bin\Debug\ArrayHistogram.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ArrayHistogram\bin\Debug\ArrayHistogram.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ArrayHistogram\obj\Debug\04. ArrayHistogram.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ArrayHistogram\obj\Debug\ArrayHistogram.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ArrayHistogram\obj\Debug\ArrayHistogram.pdb

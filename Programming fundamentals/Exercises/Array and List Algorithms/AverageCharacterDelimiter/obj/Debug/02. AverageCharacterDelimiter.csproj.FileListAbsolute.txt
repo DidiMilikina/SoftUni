@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\AverageCharacterDelimiter\obj\Debug\02. AverageCharacterDelimiter.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.pdb

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\DecodeRadioFrequencies\obj\Debug\05. DecodeRadioFrequencies.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\DecodeRadioFrequencies\obj\Debug\DecodeRadioFrequencies.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\DecodeRadioFrequencies\obj\Debug\DecodeRadioFrequencies.pdb

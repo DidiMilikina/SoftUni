@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ShootListElements\bin\Debug\ShootListElements.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ShootListElements\bin\Debug\ShootListElements.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ShootListElements\bin\Debug\ShootListElements.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ShootListElements\obj\Debug\01. ShootListElements.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ShootListElements\obj\Debug\ShootListElements.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\ShootListElements\obj\Debug\ShootListElements.pdb
