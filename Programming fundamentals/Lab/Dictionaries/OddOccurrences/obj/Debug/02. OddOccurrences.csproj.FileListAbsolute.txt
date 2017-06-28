@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\OddOccurrences\bin\Debug\OddOccurrences.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\OddOccurrences\bin\Debug\OddOccurrences.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\OddOccurrences\bin\Debug\OddOccurrences.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\OddOccurrences\obj\Debug\02. OddOccurrences.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\OddOccurrences\obj\Debug\OddOccurrences.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\OddOccurrences\obj\Debug\OddOccurrences.pdb

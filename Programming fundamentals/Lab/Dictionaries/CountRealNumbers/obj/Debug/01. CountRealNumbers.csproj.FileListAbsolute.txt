@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\CountRealNumbers\obj\Debug\01. CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Dictionaries\CountRealNumbers\obj\Debug\CountRealNumbers.pdb
