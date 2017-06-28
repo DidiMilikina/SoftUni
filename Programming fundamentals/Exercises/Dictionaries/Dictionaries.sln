@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. LetterRepetition", "LetterRepetition\01. LetterRepetition.csproj", "{34464F68-8A71-4D48-AA0C-8CD1CFD8C688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Dict-Ref", "Dict-Ref\02. Dict-Ref.csproj", "{79333628-6F33-4A9A-9E64-A254A90FCD17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34464F68-8A71-4D48-AA0C-8CD1CFD8C688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34464F68-8A71-4D48-AA0C-8CD1CFD8C688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34464F68-8A71-4D48-AA0C-8CD1CFD8C688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34464F68-8A71-4D48-AA0C-8CD1CFD8C688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79333628-6F33-4A9A-9E64-A254A90FCD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79333628-6F33-4A9A-9E64-A254A90FCD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79333628-6F33-4A9A-9E64-A254A90FCD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79333628-6F33-4A9A-9E64-A254A90FCD17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

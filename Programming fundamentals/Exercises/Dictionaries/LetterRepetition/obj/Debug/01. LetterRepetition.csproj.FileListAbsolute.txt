@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\LetterRepetition\bin\Debug\LetterRepetition.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\LetterRepetition\bin\Debug\LetterRepetition.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\LetterRepetition\bin\Debug\LetterRepetition.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\LetterRepetition\obj\Debug\01. LetterRepetition.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\LetterRepetition\obj\Debug\LetterRepetition.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\LetterRepetition\obj\Debug\LetterRepetition.pdb
