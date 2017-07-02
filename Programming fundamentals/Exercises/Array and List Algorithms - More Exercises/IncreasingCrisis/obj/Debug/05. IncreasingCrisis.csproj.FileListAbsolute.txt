@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\IncreasingCrisis\bin\Debug\IncreasingCrisis.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\IncreasingCrisis\bin\Debug\IncreasingCrisis.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\IncreasingCrisis\bin\Debug\IncreasingCrisis.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\IncreasingCrisis\obj\Debug\05. IncreasingCrisis.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\IncreasingCrisis\obj\Debug\IncreasingCrisis.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\IncreasingCrisis\obj\Debug\IncreasingCrisis.pdb

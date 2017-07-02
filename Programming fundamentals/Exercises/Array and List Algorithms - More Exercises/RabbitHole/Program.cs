@@ -48,6 +48,7 @@ namespace RabbitHole
                         int energyTaken = int.Parse(tokens[1]);
                         totalEnergy -= energyTaken;
                         path.RemoveAt(position);
+
                         if (totalEnergy <= 0)
                         {
                             Console.WriteLine("You are dead due to bomb explosion!");

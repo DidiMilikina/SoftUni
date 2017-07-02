@@ -19,7 +19,7 @@ namespace JapaneseRoulette
             var strengtAndDirection = Console.ReadLine()
                 .Split(' ')
                 .ToArray();
-            
+           
             var isDead = false;
             for (int i = 0; i < strengtAndDirection.Length; i++)
             {
@@ -66,7 +66,7 @@ namespace JapaneseRoulette
                     isDead = true;
                     break;
                 }
-                
+
                 int anotherTemp = numbers[numbers.Length - 1];
                 for (int k = numbers.Length - 1; k > 0; k--)
                 {
@@ -74,6 +74,7 @@ namespace JapaneseRoulette
                 }
 
                 numbers[0] = anotherTemp;
+
             }
 
             if (!isDead)

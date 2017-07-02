@@ -10,12 +10,6 @@ namespace IncreasingCrisis
     {
         static void Main(string[] args)
         {
-            int number = int.Parse(Console.ReadLine());
-
-            var list = Console.ReadLine()
-                .Split(' ')
-                .ToList();
-
 
         }
     }
