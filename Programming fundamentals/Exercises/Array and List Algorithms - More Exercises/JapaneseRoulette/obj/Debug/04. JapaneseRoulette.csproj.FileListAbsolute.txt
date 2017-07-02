@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\JapaneseRoulette\bin\Debug\JapaneseRoulette.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\JapaneseRoulette\bin\Debug\JapaneseRoulette.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\JapaneseRoulette\bin\Debug\JapaneseRoulette.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\JapaneseRoulette\obj\Debug\04. JapaneseRoulette.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\JapaneseRoulette\obj\Debug\JapaneseRoulette.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\JapaneseRoulette\obj\Debug\JapaneseRoulette.pdb

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\Batteries\bin\Debug\Batteries.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\Batteries\bin\Debug\Batteries.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\Batteries\bin\Debug\Batteries.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\Batteries\obj\Debug\06. Batteries.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\Batteries\obj\Debug\Batteries.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms\Batteries\obj\Debug\Batteries.pdb

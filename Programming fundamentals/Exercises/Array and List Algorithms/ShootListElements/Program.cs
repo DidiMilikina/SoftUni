@@ -21,7 +21,7 @@ namespace ShootListElements
                 {
                     if (numbers.Count == 0)
                     {
-                        Console.WriteLine("nobody left to shoot!last one was " + lastShotNumber);
+                        Console.WriteLine("nobody left to shoot! last one was " + lastShotNumber);
                         break;
                     }
 
@@ -29,17 +29,10 @@ namespace ShootListElements
 
                     for (int i = 0; i < numbers.Count; i++)
                     {
-                        if (numbers[i] < average)
+                        if (numbers[i] <= average)
                         {
                             lastShotNumber = numbers[i];
                             numbers.RemoveAt(i);
-                            Console.WriteLine("shot " + lastShotNumber);
-                            break;
-                        }
-                        else
-                        {
-                            lastShotNumber = numbers[0];
-                            numbers.RemoveAt(0);
                             Console.WriteLine("shot " + lastShotNumber);
                             break;
                         }
@@ -55,10 +48,12 @@ namespace ShootListElements
                     if (numbers.Count == 0)
                     {
                         Console.WriteLine("you shot them all. last one was " + lastShotNumber);
+                        break;
                     }
                     else
                     {
-                        Console.WriteLine("survivors {0}", string.Join(" ", numbers));
+                        Console.WriteLine("survivors: {0}", string.Join(" ", numbers));
+                        break;
                     }
                 }
                 else
