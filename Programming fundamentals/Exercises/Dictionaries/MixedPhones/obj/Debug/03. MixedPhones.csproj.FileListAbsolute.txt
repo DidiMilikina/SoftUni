@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\MixedPhones\bin\Debug\MixedPhones.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\MixedPhones\bin\Debug\MixedPhones.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\MixedPhones\bin\Debug\MixedPhones.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\MixedPhones\obj\Debug\03. MixedPhones.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\MixedPhones\obj\Debug\MixedPhones.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\MixedPhones\obj\Debug\MixedPhones.pdb

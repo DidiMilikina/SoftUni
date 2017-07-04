@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\ExamShopping\bin\Debug\ExamShopping.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\ExamShopping\bin\Debug\ExamShopping.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\ExamShopping\bin\Debug\ExamShopping.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\ExamShopping\obj\Debug\04. ExamShopping.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\ExamShopping\obj\Debug\ExamShopping.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\ExamShopping\obj\Debug\ExamShopping.pdb

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\FilterBase\bin\Debug\FilterBase.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\FilterBase\bin\Debug\FilterBase.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\FilterBase\bin\Debug\FilterBase.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\FilterBase\obj\Debug\06. FilterBase.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\FilterBase\obj\Debug\FilterBase.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\FilterBase\obj\Debug\FilterBase.pdb

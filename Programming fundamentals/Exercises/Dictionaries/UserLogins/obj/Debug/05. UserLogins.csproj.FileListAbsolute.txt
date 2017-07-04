@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\UserLogins\bin\Debug\UserLogins.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\UserLogins\bin\Debug\UserLogins.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\UserLogins\bin\Debug\UserLogins.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\UserLogins\obj\Debug\05. UserLogins.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\UserLogins\obj\Debug\UserLogins.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\UserLogins\obj\Debug\UserLogins.pdb

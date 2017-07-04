@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\Dict-Ref\bin\Debug\Dict-Ref.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\Dict-Ref\bin\Debug\Dict-Ref.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\Dict-Ref\bin\Debug\Dict-Ref.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\Dict-Ref\obj\Debug\02. Dict-Ref.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\Dict-Ref\obj\Debug\Dict-Ref.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Dictionaries\Dict-Ref\obj\Debug\Dict-Ref.pdb
