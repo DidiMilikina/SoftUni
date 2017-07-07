@@ -15,7 +15,7 @@ namespace RabbitHole
                 .ToList();
             int totalEnergy = int.Parse(Console.ReadLine());
             int position = 0;
-
+            bool isBombed = false;
             while (true)
             {
                 string[] tokens = path[position]
@@ -26,40 +26,43 @@ namespace RabbitHole
                     case "Right":
                         position = (position + int.Parse(tokens[1])) % path.Count;
                         totalEnergy -= int.Parse(tokens[1]);
-                        if (totalEnergy <= 0)
-                        {
-                            Console.WriteLine("You are tired. You can't continue the mission.");
-                            return;
-                        }
                         break;
 
                     case "Left":
-                        int temp = int.Parse(tokens[1]) - position;
-                        position = (temp + int.Parse(tokens[1])) % path.Count;
+                        position = Math.Abs(position - int.Parse(tokens[1])) % path.Count;
                         totalEnergy -= int.Parse(tokens[1]);
-                        if (totalEnergy <= 0)
-                        {
-                            Console.WriteLine("You are tired. You can't continue the mission.");
-                            return;
-                        }
                         break;
 
                     case "Bomb":
                         int energyTaken = int.Parse(tokens[1]);
                         totalEnergy -= energyTaken;
                         path.RemoveAt(position);
-
-                        if (totalEnergy <= 0)
-                        {
-                            Console.WriteLine("You are dead due to bomb explosion!");
-                            return;
-                        }
-                            break;
+                        isBombed = true;
+                        break;
 
                     case "RabbitHole":
                         Console.WriteLine("You have 5 years to save Kennedy!");
                         return;
                 }
+                if (totalEnergy <= 0)
+                {
+                    if (isBombed)
+                    {
+                        Console.WriteLine("You are dead due to bomb explosion!");
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("You are tired. You can't continue the mission.");
+                        break;
+                    }
+                }
+
+                if (path[path.Count - 1] != "RabbitHole")
+                {
+                    path.RemoveAt(path.Count - 1);
+                }
+                path.Add("Bomb|" + totalEnergy);
             }
         }
     }

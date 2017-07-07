@@ -1,85 +1,69 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace JapaneseRoulette
+namespace _04.JapaneseRolette
 {
-    class Program
+    class JapaneseRolette
     {
         static void Main(string[] args)
         {
-            var numbers = Console.ReadLine()
+            var bullets = Console.ReadLine()
                 .Split(' ')
                 .Select(int.Parse)
-                .ToArray();
+                .ToList();
 
-            var strengtAndDirection = Console.ReadLine()
+            var comands = Console.ReadLine()
                 .Split(' ')
-                .ToArray();
-           
-            var isDead = false;
-            for (int i = 0; i < strengtAndDirection.Length; i++)
+                .ToList();
+
+            int bulletIndex = 0;
+            bool isDead = false;
+
+            for (int i = 0; i < bullets.Count; i++)
             {
-                var entry = strengtAndDirection[i];
-
-                string[] tokens = entry
-                    .Split(',');
-                var strengt = int.Parse(tokens[0]);
-                var direction = tokens[1];
-                strengt %= numbers.Length;
-
-                if (direction == "Left")
+                if (bullets[i] == 1)
                 {
-                    for (int j = 0; j < strengt; j++)
-                    {
-                        int temp = numbers[0];
-                        for (int k = 1; k < numbers.Length - 1; k++)
-                        {
-                            numbers[k] = numbers[k + 1];
-                        }
-
-                        numbers[numbers.Length - 1] = temp;
-                    }
+                    bulletIndex = i;
+                    break;
                 }
-                else
-                {
-                    for (int j = 0; j < strengt; j++)
-                    {
-                        int temp = numbers[numbers.Length - 1];
-                        for (int k = numbers.Length - 1; k > 0; k--)
-                        {
-                            numbers[k] = numbers[k - 1];
-                        }
+            }
+            for (int i = 0; i < comands.Count; i++)
+            {
+                string[] token = comands[i].Split(',');
+                int rotation = int.Parse(token[0]);
+                string direction = token[1];
 
-                        numbers[0] = temp;
+                if (direction == "Right")
+                {
+                    bulletIndex = (bulletIndex + rotation) % bullets.Count;
+                }
+
+                else 
+                {
+                    if (bulletIndex - rotation < 0)
+                    {
+                        bulletIndex = bullets.Count - (Math.Abs(bulletIndex - rotation) % bullets.Count);
+                    }
+                    else
+                    {
+                        bulletIndex = bulletIndex - rotation;
                     }
                 }
 
-                var muzzle = numbers[2];
-
-                if (muzzle == 1)
+                if (bulletIndex == 2)
                 {
                     Console.WriteLine($"Game over! Player {i} is dead.");
                     isDead = true;
-                    break;
+                    return;
                 }
 
-                int anotherTemp = numbers[numbers.Length - 1];
-                for (int k = numbers.Length - 1; k > 0; k--)
-                {
-                    numbers[k] = numbers[k - 1];
-                }
-
-                numbers[0] = anotherTemp;
-
+                bulletIndex = bulletIndex + 1 == bullets.Count ? 0 : bulletIndex + 1;
             }
-
             if (!isDead)
             {
                 Console.WriteLine("Everybody got lucky!");
+
             }
         }
     }
