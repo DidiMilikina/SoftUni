@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 30 April 2017 Part I\Wormtest\bin\Debug\Wormtest.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 30 April 2017 Part I\Wormtest\bin\Debug\Wormtest.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 30 April 2017 Part I\Wormtest\bin\Debug\Wormtest.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 30 April 2017 Part I\Wormtest\obj\Debug\01. Wormtest.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 30 April 2017 Part I\Wormtest\obj\Debug\Wormtest.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 30 April 2017 Part I\Wormtest\obj\Debug\Wormtest.pdb
