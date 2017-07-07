@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SoftUniKaraoke\bin\Debug\SoftUniKaraoke.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SoftUniKaraoke\bin\Debug\SoftUniKaraoke.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SoftUniKaraoke\bin\Debug\SoftUniKaraoke.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SoftUniKaraoke\obj\Debug\02. SoftUniKaraoke.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SoftUniKaraoke\obj\Debug\SoftUniKaraoke.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SoftUniKaraoke\obj\Debug\SoftUniKaraoke.pdb

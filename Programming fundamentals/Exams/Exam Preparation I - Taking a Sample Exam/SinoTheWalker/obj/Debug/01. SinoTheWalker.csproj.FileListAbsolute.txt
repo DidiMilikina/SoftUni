@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SinoTheWalker\bin\Debug\SinoTheWalker.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SinoTheWalker\bin\Debug\SinoTheWalker.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SinoTheWalker\bin\Debug\SinoTheWalker.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SinoTheWalker\obj\Debug\01. SinoTheWalker.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SinoTheWalker\obj\Debug\SinoTheWalker.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\SinoTheWalker\obj\Debug\SinoTheWalker.pdb
