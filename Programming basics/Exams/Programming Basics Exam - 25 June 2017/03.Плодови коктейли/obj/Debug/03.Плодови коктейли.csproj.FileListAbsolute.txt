@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\03.Плодови коктейли\bin\Debug\03.Плодови коктейли.exe.config
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\03.Плодови коктейли\bin\Debug\03.Плодови коктейли.exe
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\03.Плодови коктейли\bin\Debug\03.Плодови коктейли.pdb
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\03.Плодови коктейли\obj\Debug\03.Плодови коктейли.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\03.Плодови коктейли\obj\Debug\03.Плодови коктейли.exe
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\03.Плодови коктейли\obj\Debug\03.Плодови коктейли.pdb

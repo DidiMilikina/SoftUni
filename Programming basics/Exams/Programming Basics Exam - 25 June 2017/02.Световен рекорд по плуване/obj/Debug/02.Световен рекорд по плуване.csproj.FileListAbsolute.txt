@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\02.Световен рекорд по плуване\bin\Debug\02.Световен рекорд по плуване.exe.config
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\02.Световен рекорд по плуване\bin\Debug\02.Световен рекорд по плуване.exe
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\02.Световен рекорд по плуване\bin\Debug\02.Световен рекорд по плуване.pdb
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\02.Световен рекорд по плуване\obj\Debug\02.Световен рекорд по плуване.exe
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\02.Световен рекорд по плуване\obj\Debug\02.Световен рекорд по плуване.pdb

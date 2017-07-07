@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\04.Парична награда\bin\Debug\04.Парична награда.exe.config
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\04.Парична награда\bin\Debug\04.Парична награда.exe
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\04.Парична награда\bin\Debug\04.Парична награда.pdb
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\04.Парична награда\obj\Debug\04.Парична награда.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\04.Парична награда\obj\Debug\04.Парична награда.exe
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\04.Парична награда\obj\Debug\04.Парична награда.pdb

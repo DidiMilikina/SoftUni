@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\CharityMarathon\bin\Debug\CharityMarathon.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\CharityMarathon\bin\Debug\CharityMarathon.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\CharityMarathon\bin\Debug\CharityMarathon.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\CharityMarathon\obj\Debug\01. CharityMarathon.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\CharityMarathon\obj\Debug\CharityMarathon.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\CharityMarathon\obj\Debug\CharityMarathon.pdb

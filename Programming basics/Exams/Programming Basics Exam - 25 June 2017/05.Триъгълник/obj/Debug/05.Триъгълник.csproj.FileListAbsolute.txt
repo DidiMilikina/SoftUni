@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\05.Триъгълник\bin\Debug\05.Триъгълник.exe.config
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\05.Триъгълник\bin\Debug\05.Триъгълник.exe
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\05.Триъгълник\bin\Debug\05.Триъгълник.pdb
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\05.Триъгълник\obj\Debug\05.Триъгълник.exe
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\05.Триъгълник\obj\Debug\05.Триъгълник.pdb
