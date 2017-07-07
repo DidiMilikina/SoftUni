@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SoftuniCoffeeOrders", "SoftuniCoffeeOrders\01. SoftuniCoffeeOrders.csproj", "{652BF21D-B8F6-41FD-858F-7904A2A75C8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CommandInterpreter", "CommandInterpreter\02. CommandInterpreter.csproj", "{B96910D1-D461-4AE6-8133-1F193755EA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{652BF21D-B8F6-41FD-858F-7904A2A75C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652BF21D-B8F6-41FD-858F-7904A2A75C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652BF21D-B8F6-41FD-858F-7904A2A75C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652BF21D-B8F6-41FD-858F-7904A2A75C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96910D1-D461-4AE6-8133-1F193755EA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96910D1-D461-4AE6-8133-1F193755EA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96910D1-D461-4AE6-8133-1F193755EA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96910D1-D461-4AE6-8133-1F193755EA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation III - Taking a Sample Exam\SoftuniCoffeeOrders\bin\Debug\SoftuniCoffeeOrders.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation III - Taking a Sample Exam\SoftuniCoffeeOrders\bin\Debug\SoftuniCoffeeOrders.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation III - Taking a Sample Exam\SoftuniCoffeeOrders\bin\Debug\SoftuniCoffeeOrders.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation III - Taking a Sample Exam\SoftuniCoffeeOrders\obj\Debug\01. SoftuniCoffeeOrders.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation III - Taking a Sample Exam\SoftuniCoffeeOrders\obj\Debug\SoftuniCoffeeOrders.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation III - Taking a Sample Exam\SoftuniCoffeeOrders\obj\Debug\SoftuniCoffeeOrders.pdb
