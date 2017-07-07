@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\CitiesByContinentAndCountry\bin\Debug\CitiesByContinentAndCountry.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\CitiesByContinentAndCountry\bin\Debug\CitiesByContinentAndCountry.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\CitiesByContinentAndCountry\bin\Debug\CitiesByContinentAndCountry.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\CitiesByContinentAndCountry\obj\Debug\02. CitiesByContinentAndCountry.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\CitiesByContinentAndCountry\obj\Debug\CitiesByContinentAndCountry.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\CitiesByContinentAndCountry\obj\Debug\CitiesByContinentAndCountry.pdb

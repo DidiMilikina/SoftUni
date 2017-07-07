@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\AverageStudentGrades\bin\Debug\AverageStudentGrades.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\AverageStudentGrades\bin\Debug\AverageStudentGrades.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\AverageStudentGrades\bin\Debug\AverageStudentGrades.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\AverageStudentGrades\obj\Debug\01. AverageStudentGrades.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\AverageStudentGrades\obj\Debug\AverageStudentGrades.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\AverageStudentGrades\obj\Debug\AverageStudentGrades.pdb

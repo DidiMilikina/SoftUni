@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\RecordUniqueNames\bin\Debug\RecordUniqueNames.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\RecordUniqueNames\bin\Debug\RecordUniqueNames.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\RecordUniqueNames\bin\Debug\RecordUniqueNames.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\RecordUniqueNames\obj\Debug\RecordUniqueNames.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Nested Dictionaries\RecordUniqueNames\obj\Debug\RecordUniqueNames.pdb
