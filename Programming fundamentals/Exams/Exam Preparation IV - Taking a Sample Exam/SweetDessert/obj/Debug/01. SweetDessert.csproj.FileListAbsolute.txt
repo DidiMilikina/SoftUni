@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation IV - Taking a Sample Exam\SweetDessert\bin\Debug\SweetDessert.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation IV - Taking a Sample Exam\SweetDessert\bin\Debug\SweetDessert.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation IV - Taking a Sample Exam\SweetDessert\bin\Debug\SweetDessert.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation IV - Taking a Sample Exam\SweetDessert\obj\Debug\01. SweetDessert.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation IV - Taking a Sample Exam\SweetDessert\obj\Debug\SweetDessert.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation IV - Taking a Sample Exam\SweetDessert\obj\Debug\SweetDessert.pdb
