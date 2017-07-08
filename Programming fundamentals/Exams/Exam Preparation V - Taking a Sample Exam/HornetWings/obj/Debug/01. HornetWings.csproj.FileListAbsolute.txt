@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation V - Taking a Sample Exam\HornetWings\bin\Debug\HornetWings.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation V - Taking a Sample Exam\HornetWings\bin\Debug\HornetWings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation V - Taking a Sample Exam\HornetWings\bin\Debug\HornetWings.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation V - Taking a Sample Exam\HornetWings\obj\Debug\01. HornetWings.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation V - Taking a Sample Exam\HornetWings\obj\Debug\HornetWings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation V - Taking a Sample Exam\HornetWings\obj\Debug\HornetWings.pdb
