@@ -1,6 +1,0 @@
-C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Retake Exam - 09 May 2017 Part I\SplinterTrip\bin\Debug\SplinterTrip.exe.config
-C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Retake Exam - 09 May 2017 Part I\SplinterTrip\bin\Debug\SplinterTrip.exe
-C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Retake Exam - 09 May 2017 Part I\SplinterTrip\bin\Debug\SplinterTrip.pdb
-C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Retake Exam - 09 May 2017 Part I\SplinterTrip\obj\Debug\01. SplinterTrip.csprojResolveAssemblyReference.cache
-C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Retake Exam - 09 May 2017 Part I\SplinterTrip\obj\Debug\SplinterTrip.exe
-C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Retake Exam - 09 May 2017 Part I\SplinterTrip\obj\Debug\SplinterTrip.pdb
