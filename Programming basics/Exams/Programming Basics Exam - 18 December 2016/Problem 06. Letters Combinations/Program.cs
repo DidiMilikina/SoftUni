@@ -4,41 +4,45 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem_06.Letters_Combinations
+namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int a = char.Parse(Console.ReadLine().ToLower());
-            int b = char.Parse(Console.ReadLine().ToLower());
-            int c = char.Parse(Console.ReadLine().ToLower());
-            int count = 0;
+            var first = char.Parse(Console.ReadLine().ToLower());
+            var second = char.Parse(Console.ReadLine().ToLower());
+            var third = char.Parse(Console.ReadLine().ToLower());
 
-            for (int i = a; i <= b; i++)
+            int combinations = 0;
+            for (char i = first; i <= second; i++)
             {
-                if (i == c)
+                if (i == third)
                 {
                     continue;
                 }
-                for (int j = a; j <= b; j++)
+                for (char j = first; j <= second; j++)
                 {
-                    if (j == c)
+                    if (j == third)
                     {
                         continue;
                     }
-                    for (int l = a; l <= b; l++)
+                    for (char k = first; k <= second; k++)
                     {
-                        if (l == c)
+                        if (k == third)
                         {
                             continue;
                         }
-                        count++;
-                        Console.Write("{0}{1}{2} ", (char)(i), (char)(j), (char)(l));
+                        combinations++;
+
+                        Console.Write($"{i}{j}{k} ");
                     }
                 }
+
             }
-            Console.WriteLine(count);
+            Console.Write($"{combinations}");
+            Console.WriteLine();
+
         }
     }
 }
