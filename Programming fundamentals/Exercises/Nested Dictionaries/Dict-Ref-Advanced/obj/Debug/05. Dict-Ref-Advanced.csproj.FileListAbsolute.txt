@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Dict-Ref-Advanced\obj\Debug\Dict-Ref-Advanced.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Dict-Ref-Advanced\obj\Debug\Dict-Ref-Advanced.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Dict-Ref-Advanced\obj\Debug\05. Dict-Ref-Advanced.csprojResolveAssemblyReference.cache

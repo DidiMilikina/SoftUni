@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Wardrobe\bin\Debug\Wardrobe.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Wardrobe\bin\Debug\Wardrobe.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Wardrobe\bin\Debug\Wardrobe.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Wardrobe\obj\Debug\01. Wardrobe.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Wardrobe\obj\Debug\Wardrobe.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Wardrobe\obj\Debug\Wardrobe.pdb

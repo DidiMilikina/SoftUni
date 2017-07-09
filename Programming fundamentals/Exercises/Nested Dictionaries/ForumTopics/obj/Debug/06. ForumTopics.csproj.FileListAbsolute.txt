@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\ForumTopics\bin\Debug\ForumTopics.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\ForumTopics\bin\Debug\ForumTopics.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\ForumTopics\bin\Debug\ForumTopics.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\ForumTopics\obj\Debug\06. ForumTopics.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\ForumTopics\obj\Debug\ForumTopics.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\ForumTopics\obj\Debug\ForumTopics.pdb

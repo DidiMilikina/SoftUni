@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Shellbound\bin\Debug\Shellbound.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Shellbound\bin\Debug\Shellbound.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Shellbound\bin\Debug\Shellbound.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Shellbound\obj\Debug\04. Shellbound.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Shellbound\obj\Debug\Shellbound.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Shellbound\obj\Debug\Shellbound.pdb
