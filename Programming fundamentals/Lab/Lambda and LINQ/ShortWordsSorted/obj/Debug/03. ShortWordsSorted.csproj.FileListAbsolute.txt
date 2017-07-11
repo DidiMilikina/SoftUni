@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\ShortWordsSorted\bin\Debug\ShortWordsSorted.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\ShortWordsSorted\obj\Debug\ShortWordsSorted.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\ShortWordsSorted\obj\Debug\ShortWordsSorted.pdb

@@ -10,58 +10,45 @@ namespace Wardrobe
     {
         static void Main(string[] args)
         {
-            var numberColours = int.Parse(Console.ReadLine());
-            var itemColor = new Dictionary<string, Dictionary<string, int>>();
+            var result = new Dictionary<string, List<string>>();
+            string keyFirst = Console.ReadLine();
+            string valueFirst = Console.ReadLine();
+            int number = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < numberColours; i++)
+            for (int i = 0; i < number; i++)
             {
-                var both = Console.ReadLine()
-                    .Split(new string[] { " -> ", ", "},
-                        StringSplitOptions.RemoveEmptyEntries);
+                List<string> pairs = Console.ReadLine().Split().ToList();
+                string pairKey = pairs[0];
+                List<string> pairValue = pairs[2].Split(';').ToList();
 
-                string color = both[0];
-                string[] clothes = both[1].Split(',');
-
-                if (!itemColor.ContainsKey(color))
+                if (!result.ContainsKey(pairKey))
                 {
-                    itemColor.Add(color, new Dictionary<string, int>());
+                    result[pairKey] = new List<string>();
                 }
-
-                foreach (var cloth in clothes)
+                foreach (var element in pairValue)
                 {
-                    var clothBase = itemColor[color];
-                    
-                    if (!clothBase.ContainsKey(cloth))
-                    {
-                        clothBase.Add(cloth, 0);
-                    }
-
-                    clothBase[cloth]++;
+                    result[pairKey].Add(element);
                 }
+                Console.WriteLine();
 
+               
             }
-            string[] searchTokens = Console.ReadLine().Split(' ');
-            string searchedColor = searchTokens[0];
-            string searchedCloth = searchTokens[1];
-
-            
-            foreach (var colorData in itemColor)
+            foreach (var item in result)
             {
-                var color = colorData.Key;
-                var clothData = colorData.Value;
+                string key = item.Key;
+                List<string> value = item.Value;
 
-                Console.WriteLine($"{color} clothes:");
-                foreach (var item in clothData)
+                if (key.Contains(keyFirst))
                 {
-                    string cloth = item.Key;
-                    int quantity = item.Value;
+                    Console.WriteLine($"{key}:");
 
-                    Console.Write($"* {cloth} - {quantity}");
-                    if (color == searchedColor && cloth == searchedCloth)
+                    foreach (var element in value)
                     {
-                        Console.Write(" (found!)");
+                        if (element.Contains(valueFirst))
+                        {
+                            Console.WriteLine($"-{element}");
+                        }
                     }
-                    Console.WriteLine();
                 }
             }
         }

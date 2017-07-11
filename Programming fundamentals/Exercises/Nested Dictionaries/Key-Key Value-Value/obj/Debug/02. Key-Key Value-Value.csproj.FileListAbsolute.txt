@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Key-Key Value-Value\bin\Debug\Key-Key Value-Value.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Key-Key Value-Value\bin\Debug\Key-Key Value-Value.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Key-Key Value-Value\bin\Debug\Key-Key Value-Value.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Key-Key Value-Value\obj\Debug\02. Key-Key Value-Value.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Key-Key Value-Value\obj\Debug\Key-Key Value-Value.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\Key-Key Value-Value\obj\Debug\Key-Key Value-Value.pdb

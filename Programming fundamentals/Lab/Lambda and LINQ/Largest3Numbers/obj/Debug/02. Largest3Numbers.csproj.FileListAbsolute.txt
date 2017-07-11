@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\Largest3Numbers\bin\Debug\Largest3Numbers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\Largest3Numbers\bin\Debug\Largest3Numbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\Largest3Numbers\bin\Debug\Largest3Numbers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\Largest3Numbers\obj\Debug\Largest3Numbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\Largest3Numbers\obj\Debug\Largest3Numbers.pdb

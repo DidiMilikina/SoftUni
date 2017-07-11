@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\Sum, Min, Max, Average\bin\Debug\Sum, Min, Max, Average.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\Sum, Min, Max, Average\bin\Debug\Sum, Min, Max, Average.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\Sum, Min, Max, Average\bin\Debug\Sum, Min, Max, Average.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\Sum, Min, Max, Average\obj\Debug\01. Sum, Min, Max, Average.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\Sum, Min, Max, Average\obj\Debug\Sum, Min, Max, Average.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\Sum, Min, Max, Average\obj\Debug\Sum, Min, Max, Average.pdb

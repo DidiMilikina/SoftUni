@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\FoldAndSum\bin\Debug\FoldAndSum.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\FoldAndSum\bin\Debug\FoldAndSum.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\FoldAndSum\obj\Debug\FoldAndSum.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\FoldAndSum\obj\Debug\FoldAndSum.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lambda and LINQ\FoldAndSum\obj\Debug\04. FoldAndSum.csprojResolveAssemblyReference.cache
