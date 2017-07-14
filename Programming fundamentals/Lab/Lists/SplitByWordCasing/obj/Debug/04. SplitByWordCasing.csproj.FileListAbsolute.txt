@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\SplitByWordCasing\bin\Debug\SplitByWordCasing.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\SplitByWordCasing\obj\Debug\SplitByWordCasing.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\SplitByWordCasing\obj\Debug\SplitByWordCasing.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\SplitByWordCasing\obj\Debug\04. SplitByWordCasing.csprojResolveAssemblyReference.cache

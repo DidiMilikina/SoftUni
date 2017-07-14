@@ -19,7 +19,21 @@ namespace SplitByWordCasing
             var mixedCaseWords = new List<string>();
             var upperCaseWords = new List<string>();
 
-
+            foreach (var word in words)
+            {
+                if (word.All(char.IsUpper))
+                {
+                    upperCaseWords.Add(word);
+                }   
+                else if (word.All(char.IsLower))
+                {
+                    lowerCaseWords.Add(word);
+                }
+                else
+                {
+                    mixedCaseWords.Add(word);
+                }
+            }
 
             Console.WriteLine("Lower-case: {0}", string.Join(", ", lowerCaseWords));
             Console.WriteLine("Mixed-case: {0}", string.Join(", ", mixedCaseWords));

@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Lists\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.pdb
