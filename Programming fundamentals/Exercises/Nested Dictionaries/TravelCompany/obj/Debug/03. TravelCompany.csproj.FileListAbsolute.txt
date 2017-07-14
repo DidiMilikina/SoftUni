@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\TravelCompany\bin\Debug\TravelCompany.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\TravelCompany\bin\Debug\TravelCompany.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\TravelCompany\bin\Debug\TravelCompany.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\TravelCompany\obj\Debug\03. TravelCompany.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\TravelCompany\obj\Debug\TravelCompany.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\TravelCompany\obj\Debug\TravelCompany.pdb

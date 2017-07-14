@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\SocialMediaPosts\bin\Debug\SocialMediaPosts.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\SocialMediaPosts\bin\Debug\SocialMediaPosts.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\SocialMediaPosts\bin\Debug\SocialMediaPosts.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\SocialMediaPosts\obj\Debug\07. SocialMediaPosts.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\SocialMediaPosts\obj\Debug\SocialMediaPosts.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Nested Dictionaries\SocialMediaPosts\obj\Debug\SocialMediaPosts.pdb

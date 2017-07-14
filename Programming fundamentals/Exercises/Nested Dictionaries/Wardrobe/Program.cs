@@ -30,8 +30,7 @@ namespace Wardrobe
                     result[pairKey].Add(element);
                 }
                 Console.WriteLine();
-
-               
+          
             }
             foreach (var item in result)
             {
