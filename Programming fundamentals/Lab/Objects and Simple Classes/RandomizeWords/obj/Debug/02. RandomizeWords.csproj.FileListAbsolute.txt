@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\RandomizeWords\bin\Debug\RandomizeWords.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\RandomizeWords\bin\Debug\RandomizeWords.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\RandomizeWords\bin\Debug\RandomizeWords.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\RandomizeWords\obj\Debug\RandomizeWords.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\RandomizeWords\obj\Debug\RandomizeWords.pdb

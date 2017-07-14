@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\BigFactorial\bin\Debug\BigFactorial.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\BigFactorial\bin\Debug\BigFactorial.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\BigFactorial\bin\Debug\BigFactorial.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\BigFactorial\obj\Debug\03. BigFactorial.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\BigFactorial\obj\Debug\BigFactorial.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\BigFactorial\obj\Debug\BigFactorial.pdb

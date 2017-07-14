@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\DayOfWeek\obj\Debug\01. DayOfWeek.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\DayOfWeek\obj\Debug\DayOfWeek.pdb
