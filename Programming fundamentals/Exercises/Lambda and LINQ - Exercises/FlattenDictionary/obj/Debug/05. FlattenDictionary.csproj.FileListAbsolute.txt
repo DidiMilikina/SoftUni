@@ -1,0 +1,6 @@
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\FlattenDictionary\bin\Debug\FlattenDictionary.exe.config
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\FlattenDictionary\bin\Debug\FlattenDictionary.exe
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\FlattenDictionary\bin\Debug\FlattenDictionary.pdb
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\FlattenDictionary\obj\Debug\05. FlattenDictionary.csprojResolveAssemblyReference.cache
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\FlattenDictionary\obj\Debug\FlattenDictionary.exe
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\FlattenDictionary\obj\Debug\FlattenDictionary.pdb

@@ -1,0 +1,6 @@
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\SoftUniBeerPong\bin\Debug\SoftUniBeerPong.exe.config
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\SoftUniBeerPong\bin\Debug\SoftUniBeerPong.exe
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\SoftUniBeerPong\bin\Debug\SoftUniBeerPong.pdb
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\SoftUniBeerPong\obj\Debug\04. SoftUniBeerPong.csprojResolveAssemblyReference.cache
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\SoftUniBeerPong\obj\Debug\SoftUniBeerPong.exe
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\SoftUniBeerPong\obj\Debug\SoftUniBeerPong.pdb

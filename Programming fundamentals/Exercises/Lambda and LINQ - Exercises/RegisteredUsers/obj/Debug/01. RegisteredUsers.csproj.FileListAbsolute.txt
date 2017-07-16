@@ -1,0 +1,6 @@
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\RegisteredUsers\bin\Debug\RegisteredUsers.exe.config
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\RegisteredUsers\bin\Debug\RegisteredUsers.exe
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\RegisteredUsers\bin\Debug\RegisteredUsers.pdb
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\RegisteredUsers\obj\Debug\01. RegisteredUsers.csprojResolveAssemblyReference.cache
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\RegisteredUsers\obj\Debug\RegisteredUsers.exe
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\RegisteredUsers\obj\Debug\RegisteredUsers.pdb

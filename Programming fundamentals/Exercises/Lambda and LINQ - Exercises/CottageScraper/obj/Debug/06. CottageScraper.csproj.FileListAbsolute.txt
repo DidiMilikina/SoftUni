@@ -1,0 +1,5 @@
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\CottageScraper\bin\Debug\CottageScraper.exe.config
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\CottageScraper\bin\Debug\CottageScraper.exe
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\CottageScraper\bin\Debug\CottageScraper.pdb
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\CottageScraper\obj\Debug\CottageScraper.exe
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\CottageScraper\obj\Debug\CottageScraper.pdb

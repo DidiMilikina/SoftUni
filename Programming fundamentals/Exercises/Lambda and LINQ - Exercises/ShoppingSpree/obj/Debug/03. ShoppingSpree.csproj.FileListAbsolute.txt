@@ -1,0 +1,6 @@
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\ShoppingSpree\obj\Debug\03. ShoppingSpree.csprojResolveAssemblyReference.cache
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+C:\Users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\ShoppingSpree\obj\Debug\ShoppingSpree.pdb

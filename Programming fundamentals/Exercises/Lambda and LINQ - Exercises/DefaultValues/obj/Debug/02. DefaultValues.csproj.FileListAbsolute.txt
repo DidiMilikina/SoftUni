@@ -1,0 +1,6 @@
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\DefaultValues\bin\Debug\DefaultValues.exe.config
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\DefaultValues\bin\Debug\DefaultValues.exe
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\DefaultValues\bin\Debug\DefaultValues.pdb
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\DefaultValues\obj\Debug\02. DefaultValues.csprojResolveAssemblyReference.cache
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\DefaultValues\obj\Debug\DefaultValues.exe
+c:\users\didim\onedrive\dokumente\visual studio 2017\Projects\Lambda and LINQ - Exercises\DefaultValues\obj\Debug\DefaultValues.pdb
