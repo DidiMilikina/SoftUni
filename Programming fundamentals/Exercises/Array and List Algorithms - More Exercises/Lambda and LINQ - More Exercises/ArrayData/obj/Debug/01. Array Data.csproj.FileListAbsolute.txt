@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\ArrayData\bin\Debug\ArrayData.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\ArrayData\bin\Debug\ArrayData.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\ArrayData\bin\Debug\ArrayData.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\ArrayData\obj\Debug\01. Array Data.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\ArrayData\obj\Debug\ArrayData.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\ArrayData\obj\Debug\ArrayData.pdb

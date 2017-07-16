@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\Camping\bin\Debug\Camping.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\Camping\bin\Debug\Camping.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\Camping\bin\Debug\Camping.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\Camping\obj\Debug\Camping.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\Camping\obj\Debug\Camping.pdb

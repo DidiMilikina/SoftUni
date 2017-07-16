@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\OrderedBankingSystem\bin\Debug\OrderedBankingSystem.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\OrderedBankingSystem\bin\Debug\OrderedBankingSystem.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\OrderedBankingSystem\bin\Debug\OrderedBankingSystem.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\OrderedBankingSystem\obj\Debug\06. Ordered Banking System.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\OrderedBankingSystem\obj\Debug\OrderedBankingSystem.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\OrderedBankingSystem\obj\Debug\OrderedBankingSystem.pdb

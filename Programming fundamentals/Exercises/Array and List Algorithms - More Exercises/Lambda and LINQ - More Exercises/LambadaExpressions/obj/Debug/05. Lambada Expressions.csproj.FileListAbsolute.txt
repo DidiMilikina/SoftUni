@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\LambadaExpressions\bin\Debug\LambadaExpressions.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\LambadaExpressions\bin\Debug\LambadaExpressions.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\LambadaExpressions\bin\Debug\LambadaExpressions.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\LambadaExpressions\obj\Debug\05. Lambada Expressions.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\LambadaExpressions\obj\Debug\LambadaExpressions.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\LambadaExpressions\obj\Debug\LambadaExpressions.pdb

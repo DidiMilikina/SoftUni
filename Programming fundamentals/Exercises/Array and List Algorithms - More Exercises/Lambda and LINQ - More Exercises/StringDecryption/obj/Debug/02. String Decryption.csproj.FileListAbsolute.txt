@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\StringDecryption\bin\Debug\StringDecryption.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\StringDecryption\bin\Debug\StringDecryption.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\StringDecryption\bin\Debug\StringDecryption.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\StringDecryption\obj\Debug\StringDecryption.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Array and List Algorithms - More Exercises\Lambda and LINQ - More Exercises\StringDecryption\obj\Debug\StringDecryption.pdb
