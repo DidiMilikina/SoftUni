@@ -1,5 +1,0 @@
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\08. Triangle Area\bin\Debug\_08.Triangle_Area.exe.config
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\08. Triangle Area\bin\Debug\_08.Triangle_Area.exe
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\08. Triangle Area\bin\Debug\_08.Triangle_Area.pdb
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\08. Triangle Area\obj\Debug\_08.Triangle_Area.exe
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\08. Triangle Area\obj\Debug\_08.Triangle_Area.pdb

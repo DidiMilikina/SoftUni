@@ -1,6 +1,0 @@
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\02. Inches to Centimeters\bin\Debug\_02.Inches_to_Centimeters.exe.config
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\02. Inches to Centimeters\bin\Debug\_02.Inches_to_Centimeters.exe
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\02. Inches to Centimeters\bin\Debug\_02.Inches_to_Centimeters.pdb
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\02. Inches to Centimeters\obj\Debug\02. Inches to Centimeters.csprojResolveAssemblyReference.cache
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\02. Inches to Centimeters\obj\Debug\_02.Inches_to_Centimeters.exe
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\02. Inches to Centimeters\obj\Debug\_02.Inches_to_Centimeters.pdb

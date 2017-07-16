@@ -1,6 +1,0 @@
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\03. Greeting by Name\bin\Debug\_03.Greeting_by_Name.exe.config
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\03. Greeting by Name\bin\Debug\_03.Greeting_by_Name.exe
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\03. Greeting by Name\bin\Debug\_03.Greeting_by_Name.pdb
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\03. Greeting by Name\obj\Debug\03. Greeting by Name.csprojResolveAssemblyReference.cache
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\03. Greeting by Name\obj\Debug\_03.Greeting_by_Name.exe
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\03. Greeting by Name\obj\Debug\_03.Greeting_by_Name.pdb

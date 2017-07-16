@@ -1,5 +1,0 @@
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\05. Trapeziod Area\bin\Debug\_05.Trapeziod_Area.exe.config
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\05. Trapeziod Area\bin\Debug\_05.Trapeziod_Area.exe
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\05. Trapeziod Area\bin\Debug\_05.Trapeziod_Area.pdb
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\05. Trapeziod Area\obj\Debug\_05.Trapeziod_Area.exe
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\05. Trapeziod Area\obj\Debug\_05.Trapeziod_Area.pdb

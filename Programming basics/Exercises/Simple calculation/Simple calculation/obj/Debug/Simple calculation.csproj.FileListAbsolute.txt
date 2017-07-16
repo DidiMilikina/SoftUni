@@ -1,1 +1,0 @@
-c:\users\atanas\documents\visual studio 2015\Projects\Simple calculation\Simple calculation\bin\Debug\Simple calculation.exe.config

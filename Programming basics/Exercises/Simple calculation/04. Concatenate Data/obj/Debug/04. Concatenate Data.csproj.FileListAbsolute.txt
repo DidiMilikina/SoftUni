@@ -1,5 +1,0 @@
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\04. Concatenate Data\bin\Debug\_04.Concatenate_Data.exe.config
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\04. Concatenate Data\bin\Debug\_04.Concatenate_Data.exe
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\04. Concatenate Data\bin\Debug\_04.Concatenate_Data.pdb
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\04. Concatenate Data\obj\Debug\_04.Concatenate_Data.exe
-C:\Users\Atanas\Documents\Visual Studio 2015\Projects\Simple calculation\04. Concatenate Data\obj\Debug\_04.Concatenate_Data.pdb
