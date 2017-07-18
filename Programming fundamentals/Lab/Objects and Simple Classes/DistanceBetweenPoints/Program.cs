@@ -10,6 +10,7 @@ namespace DistanceBetweenPoints
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

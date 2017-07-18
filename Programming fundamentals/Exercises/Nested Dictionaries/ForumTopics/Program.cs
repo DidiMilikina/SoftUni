@@ -15,24 +15,41 @@ namespace ForumTopics
 
             while (input != "filter")
             {
-                string[] tokens = input.Split(new[] {' ', '-', '>', ','},
+                string[] tokens = input.Split(new string[] {" -> "},
                     StringSplitOptions.RemoveEmptyEntries);
                 string currentTopic = tokens[0];
+                string[] tags = tokens[1].Split(new string[] { ", " },
+                    StringSplitOptions.RemoveEmptyEntries);
+
+
                 if (!topicTags.ContainsKey(currentTopic))
                 {
                     topicTags[currentTopic] = new HashSet<string>();
                 }
-                for (int i = 1; i < tokens.Length; i++)
+
+                foreach (var tag in tags)
                 {
-                    topicTags[currentTopic].Add("#" + tokens[i]);
+                    topicTags[currentTopic].Add(tag);
                 }
 
                 input = Console.ReadLine();
             }
+            input = Console.ReadLine();
 
-            foreach (var topics in topicTags)
+            List<string> tagsToFilter = input.Split(new string[] { ", " }, 
+                StringSplitOptions.RemoveEmptyEntries)
+                .ToList();
+
+            foreach (var kvp in topicTags)
             {
-                Console.WriteLine($"{topics.Key} | {string.Join(", ", topics.Value)}");
+                string topic = kvp.Key;
+                var tags = kvp.Value;
+                bool contained = !tagsToFilter.Except(tags).Any();
+                if (contained)
+                {
+                    Console.WriteLine($"{topic} | #{string.Join(", #", tags)}");
+                }
+
             }
         }
     }
