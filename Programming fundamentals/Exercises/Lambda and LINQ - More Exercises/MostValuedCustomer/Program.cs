@@ -29,7 +29,7 @@ namespace MostValuedCustomer
             while (input != "Print")
             {
                 string[] inputTokens = Console.ReadLine()
-                    .Split(new string[] {",", ": "}, 
+                    .Split(new string[] {": ", ", "}, 
                     StringSplitOptions.RemoveEmptyEntries);
 
                 if (inputTokens[0] == "Discount")
@@ -63,7 +63,25 @@ namespace MostValuedCustomer
                 input = Console.ReadLine();
             }
 
-           
+           var topCustoms = productsInput
+                .OrderByDescending(d => d.Value.Sum(product => inventory[product]))
+                .First();
+            string name = topCustoms.Key;
+            List<string> boughtProduct = topCustoms.Value;
+
+            Console.WriteLine($"Biggest spender: {name}");
+            Console.WriteLine($"^Products bought:");
+
+            double total = boughtProduct.Sum(p => inventory[p]);
+            var orderedProducts = boughtProduct
+                .Distinct()
+                .OrderByDescending(p => inventory[p]);
+
+            foreach (var products in orderedProducts)
+            {
+                Console.WriteLine($"^^^{products}: {inventory[products]:f2}");
+            }
+            Console.WriteLine($"Total: {total:f2}");
         }
     }
 }

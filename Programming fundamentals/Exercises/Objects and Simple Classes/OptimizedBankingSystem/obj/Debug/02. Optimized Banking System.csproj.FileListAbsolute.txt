@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\OptimizedBankingSystem\obj\Debug\02. Optimized Banking System.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\OptimizedBankingSystem\obj\Debug\OptimizedBankingSystem.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\OptimizedBankingSystem\obj\Debug\OptimizedBankingSystem.pdb

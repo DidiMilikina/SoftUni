@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\SalesReport\bin\Debug\SalesReport.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\SalesReport\bin\Debug\SalesReport.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\SalesReport\bin\Debug\SalesReport.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\SalesReport\obj\Debug\SalesReport.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\SalesReport\obj\Debug\SalesReport.pdb

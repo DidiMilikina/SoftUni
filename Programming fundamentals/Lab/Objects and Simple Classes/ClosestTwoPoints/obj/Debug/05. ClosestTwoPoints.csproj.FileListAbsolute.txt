@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Objects and Simple Classes\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.pdb

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lambda and LINQ - More Exercises\MostValuedCustomer\bin\Debug\MostValuedCustomer.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lambda and LINQ - More Exercises\MostValuedCustomer\bin\Debug\MostValuedCustomer.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lambda and LINQ - More Exercises\MostValuedCustomer\bin\Debug\MostValuedCustomer.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lambda and LINQ - More Exercises\MostValuedCustomer\obj\Debug\04. Most Valued Customer.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lambda and LINQ - More Exercises\MostValuedCustomer\obj\Debug\MostValuedCustomer.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lambda and LINQ - More Exercises\MostValuedCustomer\obj\Debug\MostValuedCustomer.pdb

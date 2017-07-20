@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Exercises\bin\Debug\Exercises.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Exercises\bin\Debug\Exercises.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Exercises\bin\Debug\Exercises.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Exercises\obj\Debug\01. Exercises.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Exercises\obj\Debug\Exercises.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Exercises\obj\Debug\Exercises.pdb

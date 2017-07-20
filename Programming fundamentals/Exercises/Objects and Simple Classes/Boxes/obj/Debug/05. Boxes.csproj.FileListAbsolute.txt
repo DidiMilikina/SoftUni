@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Boxes\bin\Debug\Boxes.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Boxes\bin\Debug\Boxes.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Boxes\bin\Debug\Boxes.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Boxes\obj\Debug\05. Boxes.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Boxes\obj\Debug\Boxes.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Objects and Simple Classes\Boxes\obj\Debug\Boxes.pdb

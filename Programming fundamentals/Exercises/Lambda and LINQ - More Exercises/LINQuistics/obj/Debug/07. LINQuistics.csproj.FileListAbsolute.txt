@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lambda and LINQ - More Exercises\LINQuistics\bin\Debug\LINQuistics.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lambda and LINQ - More Exercises\LINQuistics\bin\Debug\LINQuistics.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lambda and LINQ - More Exercises\LINQuistics\bin\Debug\LINQuistics.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lambda and LINQ - More Exercises\LINQuistics\obj\Debug\LINQuistics.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Lambda and LINQ - More Exercises\LINQuistics\obj\Debug\LINQuistics.pdb

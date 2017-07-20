@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\Palindromes\bin\Debug\Palindromes.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\Palindromes\bin\Debug\Palindromes.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\Palindromes\bin\Debug\Palindromes.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\Palindromes\obj\Debug\Palindromes.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\Palindromes\obj\Debug\Palindromes.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.pdb

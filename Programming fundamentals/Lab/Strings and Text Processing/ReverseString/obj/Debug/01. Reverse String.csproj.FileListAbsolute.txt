@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\ReverseString\bin\Debug\ReverseString.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\ReverseString\bin\Debug\ReverseString.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\ReverseString\bin\Debug\ReverseString.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\ReverseString\obj\Debug\01. Reverse String.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\ReverseString\obj\Debug\ReverseString.exe
+C:\GitHub\SoftUni\Programming fundamentals\Lab\Strings and Text Processing\ReverseString\obj\Debug\ReverseString.pdb
