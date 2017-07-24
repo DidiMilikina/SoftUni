@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 09 May 2017 Part I\SpyGram\bin\Debug\SpyGram.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 09 May 2017 Part I\SpyGram\bin\Debug\SpyGram.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 09 May 2017 Part I\SpyGram\bin\Debug\SpyGram.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 09 May 2017 Part I\SpyGram\obj\Debug\02. Spy Gram.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 09 May 2017 Part I\SpyGram\obj\Debug\SpyGram.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Extended Exam - 09 May 2017 Part I\SpyGram\obj\Debug\SpyGram.pdb

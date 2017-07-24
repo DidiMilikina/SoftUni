@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONStringify\bin\Debug\JSONStringify.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONStringify\bin\Debug\JSONStringify.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONStringify\bin\Debug\JSONStringify.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONStringify\obj\Debug\03. JSONStringify.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONStringify\obj\Debug\JSONStringify.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONStringify\obj\Debug\JSONStringify.pdb

@@ -10,20 +10,24 @@ namespace Boxes
     {
         class Box
         {
-            public int UpperLeft { get; set; }
-            public int UpperRight { get; set; }
-            public int BottomLeft { get; set; }
-            public int BottomRight { get; set; }
+            public int UpperLeftX { get; set; }
+            public int UpperLeftY { get; set; }
+            public int UpperRightX { get; set; }
+            public int UpperRightY { get; set; }
+            public int LowerLeftX { get; set; }
+            public int LowerLeftY { get; set; }
+            public int LowerRightX { get; set; }
+            public int LowerRightY { get; set; }
 
-            public static int Height(int UpperLeft, int BottomLeft)
+            public static int Height(int x1, int x2)
             {
-                var height = Math.Abs(UpperLeft - BottomLeft);
+                var height = Math.Abs(x1 - x2);
                 return height;
             }
 
-            public static int Width(int UpperLeft, int UpperRight)
+            public static int Width(int y1, int y2)
             {
-                var width = Math.Abs(UpperLeft - UpperRight);
+                var width = Math.Abs(y1 - y2);
                 return width;
             }
             public static int CalculatePerimeter(double width, double height)
@@ -48,10 +52,14 @@ namespace Boxes
                 
                 var currentBox = new Box
                 {
-                    UpperLeft = int.Parse(inputParams[0]),
-                    UpperRight = int.Parse(inputParams[1]),
-                    BottomLeft = int.Parse(inputParams[2]),
-                    BottomRight = int.Parse(inputParams[3])
+                    UpperLeftX = int.Parse(inputParams[0]),
+                    UpperLeftY = int.Parse(inputParams[1]),
+                    UpperRightX = int.Parse(inputParams[2]),
+                    UpperRightY = int.Parse(inputParams[3]),
+                    LowerLeftX = int.Parse(inputParams[4]),
+                    LowerLeftY = int.Parse(inputParams[5]),
+                    LowerRightX = int.Parse(inputParams[6]),
+                    LowerRightY = int.Parse(inputParams[7])
                 };
                 boxes.Add(currentBox);
 
@@ -60,8 +68,8 @@ namespace Boxes
 
             foreach (var box in boxes)
             {
-                var width = Box.Width(box.UpperLeft, box.UpperRight);
-                var height = Box.Height(box.BottomLeft, box.BottomRight);
+                var width = Box.Width(box.UpperLeftX, box.UpperRightX);
+                var height = Box.Height(box.UpperLeftY, box.LowerLeftY);
                 Console.WriteLine($"Box: {width}, {height}");
                 Console.WriteLine($"Perimeter: {Box.CalculatePerimeter(width, height)}");
                 Console.WriteLine($"Area: {Box.CalculateArea(width, height)}");
