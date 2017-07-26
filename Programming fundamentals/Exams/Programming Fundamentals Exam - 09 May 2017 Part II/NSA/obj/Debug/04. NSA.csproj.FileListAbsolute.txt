@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 09 May 2017 Part II\NSA\bin\Debug\NSA.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 09 May 2017 Part II\NSA\bin\Debug\NSA.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 09 May 2017 Part II\NSA\bin\Debug\NSA.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 09 May 2017 Part II\NSA\obj\Debug\04. NSA.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 09 May 2017 Part II\NSA\obj\Debug\NSA.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 09 May 2017 Part II\NSA\obj\Debug\NSA.pdb

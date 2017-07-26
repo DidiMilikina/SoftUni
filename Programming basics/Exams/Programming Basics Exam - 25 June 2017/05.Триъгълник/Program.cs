@@ -1,31 +1,48 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _05.Триъгълник
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            int n = int.Parse(Console.ReadLine());
-            int width = (4 * n) + 1;
-            int height = (2 * n) + 1;
+        int n = int.Parse(Console.ReadLine());
 
-            
-            Console.WriteLine(new string('#', width));
-            for (int i = 1; i < n; i++)
-            {int sharps = width - (2 * i);
-                
-                Console.Write(new string('.', i));
-                Console.Write(new string('#', sharps));
-                Console.Write(new string(' ', i));
-                Console.Write(new string('#', sharps));
-                Console.WriteLine(new string('.', i));
-                sharps -= 2;
+        int width = 4 * n + 1;
+        int height = 2 * n + 1;
+
+        Console.WriteLine(new string('#', width));
+
+        int sideDots = 1;
+        int innerSpaces = 1;
+
+        for (int i = 0; i < n; i++)
+        {
+            int numberOfTags = (width - sideDots * 2 - innerSpaces) / 2;
+            Console.Write(new string('.', sideDots));
+            Console.Write(new string('#', numberOfTags));
+
+            if (i == n / 2)
+            {
+                Console.Write($"{new string(' ', (innerSpaces - 3) / 2)}" +
+                              $"(@)" +
+                              $"{new string(' ', (innerSpaces - 3)/ 2)}");
             }
+            else
+            {
+                Console.Write(new string(' ', innerSpaces));
+            }
+
+            Console.Write(new string('#', numberOfTags));
+            Console.WriteLine(new string('.', sideDots));
+
+            innerSpaces += 2;
+            sideDots++;
+        }
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write(new string('.', sideDots));
+            Console.Write(new string('#', width - sideDots * 2 ));
+            Console.WriteLine(new string('.', sideDots));
+            sideDots++;
         }
     }
 }

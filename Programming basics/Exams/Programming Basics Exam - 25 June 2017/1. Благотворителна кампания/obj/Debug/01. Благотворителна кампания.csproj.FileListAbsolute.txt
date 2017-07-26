@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\1. Благотворителна кампания\bin\Debug\_1.Благотворителна_кампания.exe.config
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\1. Благотворителна кампания\bin\Debug\_1.Благотворителна_кампания.exe
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\1. Благотворителна кампания\bin\Debug\_1.Благотворителна_кампания.pdb
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\1. Благотворителна кампания\obj\Debug\_1.Благотворителна_кампания.exe
+C:\GitHub\SoftUni\Programming basics\Exams\Programming Basics Exam - 25 June 2017\1. Благотворителна кампания\obj\Debug\_1.Благотворителна_кампания.pdb

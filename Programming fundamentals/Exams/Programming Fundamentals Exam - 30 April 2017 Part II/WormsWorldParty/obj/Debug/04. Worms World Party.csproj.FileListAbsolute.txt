@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\WormsWorldParty\bin\Debug\WormsWorldParty.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\WormsWorldParty\bin\Debug\WormsWorldParty.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\WormsWorldParty\bin\Debug\WormsWorldParty.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\WormsWorldParty\obj\Debug\04. Worms World Party.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\WormsWorldParty\obj\Debug\WormsWorldParty.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\WormsWorldParty\obj\Debug\WormsWorldParty.pdb
