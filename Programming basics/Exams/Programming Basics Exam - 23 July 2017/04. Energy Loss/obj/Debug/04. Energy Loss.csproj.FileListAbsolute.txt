@@ -1,0 +1,6 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\04. Energy Loss\bin\Debug\_04.Energy_Loss.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\04. Energy Loss\bin\Debug\_04.Energy_Loss.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\04. Energy Loss\bin\Debug\_04.Energy_Loss.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\04. Energy Loss\obj\Debug\04. Energy Loss.csprojResolveAssemblyReference.cache
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\04. Energy Loss\obj\Debug\_04.Energy_Loss.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\04. Energy Loss\obj\Debug\_04.Energy_Loss.pdb

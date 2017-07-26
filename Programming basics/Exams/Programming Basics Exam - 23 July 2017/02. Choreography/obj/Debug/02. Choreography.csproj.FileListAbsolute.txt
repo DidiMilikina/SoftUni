@@ -1,0 +1,5 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\02. Choreography\bin\Debug\_02.Choreography.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\02. Choreography\bin\Debug\_02.Choreography.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\02. Choreography\bin\Debug\_02.Choreography.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\02. Choreography\obj\Debug\_02.Choreography.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\02. Choreography\obj\Debug\_02.Choreography.pdb

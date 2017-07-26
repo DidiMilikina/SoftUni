@@ -1,0 +1,6 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\06. Group Name\bin\Debug\_06.Group_Name.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\06. Group Name\bin\Debug\_06.Group_Name.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\06. Group Name\bin\Debug\_06.Group_Name.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\06. Group Name\obj\Debug\06. Group Name.csprojResolveAssemblyReference.cache
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\06. Group Name\obj\Debug\_06.Group_Name.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\06. Group Name\obj\Debug\_06.Group_Name.pdb

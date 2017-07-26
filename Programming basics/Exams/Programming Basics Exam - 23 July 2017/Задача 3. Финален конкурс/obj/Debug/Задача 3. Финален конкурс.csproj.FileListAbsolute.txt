@@ -1,0 +1,6 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\Задача 3. Финален конкурс\bin\Debug\Задача_3.Финален_конкурс.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\Задача 3. Финален конкурс\bin\Debug\Задача_3.Финален_конкурс.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\Задача 3. Финален конкурс\bin\Debug\Задача_3.Финален_конкурс.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\Задача 3. Финален конкурс\obj\Debug\Задача 3. Финален конкурс.csprojResolveAssemblyReference.cache
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\Задача 3. Финален конкурс\obj\Debug\Задача_3.Финален_конкурс.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\Задача 3. Финален конкурс\obj\Debug\Задача_3.Финален_конкурс.pdb

@@ -1,0 +1,5 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\05. Cup\bin\Debug\_05.Cup.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\05. Cup\bin\Debug\_05.Cup.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\05. Cup\bin\Debug\_05.Cup.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\05. Cup\obj\Debug\_05.Cup.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\05. Cup\obj\Debug\_05.Cup.pdb

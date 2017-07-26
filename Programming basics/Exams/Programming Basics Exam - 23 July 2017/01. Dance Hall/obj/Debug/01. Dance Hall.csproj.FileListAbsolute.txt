@@ -1,0 +1,5 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\01. Dance Hall\bin\Debug\_01.Dance_Hall.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\01. Dance Hall\bin\Debug\_01.Dance_Hall.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\01. Dance Hall\bin\Debug\_01.Dance_Hall.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\01. Dance Hall\obj\Debug\_01.Dance_Hall.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 23 July 2017\01. Dance Hall\obj\Debug\_01.Dance_Hall.pdb
