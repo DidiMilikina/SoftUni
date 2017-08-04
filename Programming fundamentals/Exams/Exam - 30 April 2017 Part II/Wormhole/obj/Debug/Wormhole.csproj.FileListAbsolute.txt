@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\Wormhole\bin\Debug\Wormhole.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\Wormhole\bin\Debug\Wormhole.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\Wormhole\bin\Debug\Wormhole.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\Wormhole\obj\Debug\Wormhole.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\Wormhole\obj\Debug\Wormhole.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Programming Fundamentals Exam - 30 April 2017 Part II\Wormhole\obj\Debug\Wormhole.pdb

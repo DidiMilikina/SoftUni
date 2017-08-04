@@ -6,32 +6,36 @@ using System.Threading.Tasks;
 
 namespace JSONParse
 {
-    class Student
-    {
-        public string Name { get; set; }
-        public int Age { get; set; }
-        public List<int> Grades { get; set; }
-    }
-
+   
     class JSONParse
     {
         static void Main(string[] args)
         {
-            var students = new List<Student>();
             string input = Console.ReadLine();
 
-            for (int i = 0; i < input.Length; i++)
-            {
-                var currentStudent = input[i]
-                    .Split(new[] {'[', '{', ':', ',', ' ', '}', ']'},
+            input = input
+                .Substring(2, input.Length - 2 - 2);
+                string[] student = input
+                    .Split(new[] { "},{" },
                     StringSplitOptions.RemoveEmptyEntries);
+            foreach (var currentStudent in student)
+            {
+                string[] properties = currentStudent
+                    .Split(new string[] { ",age:", ",grades:"},
+                    StringSplitOptions.RemoveEmptyEntries);
+                string name = properties[0]
+                    .Substring(6, properties[0].Length - 1 - 6);
+                string age = properties[1];
+                string grades = properties[2]
+                    .Substring(1, properties[2].Length - 1 - 1);
 
-                Student newStudent = new Student();
-                
-                
+                if (grades == string.Empty)
+                {
+                    grades = "None";
+                }
 
+                Console.WriteLine($"{name} : {age} -> {grades}");
             }
-            
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONParse\bin\Debug\JSONParse.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONParse\bin\Debug\JSONParse.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONParse\bin\Debug\JSONParse.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONParse\obj\Debug\04. JSON Parse.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONParse\obj\Debug\JSONParse.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exercises\Strings and Text Processing\JSONParse\obj\Debug\JSONParse.pdb

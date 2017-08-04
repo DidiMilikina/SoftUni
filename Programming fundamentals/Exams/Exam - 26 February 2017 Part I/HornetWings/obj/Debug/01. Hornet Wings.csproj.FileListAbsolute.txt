@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part I\HornetWings\bin\Debug\HornetWings.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part I\HornetWings\bin\Debug\HornetWings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part I\HornetWings\bin\Debug\HornetWings.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part I\HornetWings\obj\Debug\01. Hornet Wings.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part I\HornetWings\obj\Debug\HornetWings.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part I\HornetWings\obj\Debug\HornetWings.pdb

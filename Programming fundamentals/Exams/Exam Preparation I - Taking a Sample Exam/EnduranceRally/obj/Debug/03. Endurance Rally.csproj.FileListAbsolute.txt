@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\EnduranceRally\bin\Debug\EnduranceRally.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\EnduranceRally\bin\Debug\EnduranceRally.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\EnduranceRally\bin\Debug\EnduranceRally.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\EnduranceRally\obj\Debug\03. Endurance Rally.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\EnduranceRally\obj\Debug\EnduranceRally.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\EnduranceRally\obj\Debug\EnduranceRally.pdb

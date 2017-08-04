@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Placeholders", "Placeholders\02. Placeholders.csproj", "{C92C733D-8415-48B4-A58B-1555ACA64DC6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. JSONStringify", "JSONStringify\03. JSONStringify.csproj", "{E8BD5B63-7B18-417B-90AF-F0DA670DBBB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. JSON Parse", "JSONParse\04. JSON Parse.csproj", "{D33A5827-275B-47AA-B0D2-142729C4D685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Points Counter", "PointsCounter\05. Points Counter.csproj", "{F11AE507-6EE0-4DA7-B5AF-D8DF6371BD47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D33A5827-275B-47AA-B0D2-142729C4D685}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D33A5827-275B-47AA-B0D2-142729C4D685}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D33A5827-275B-47AA-B0D2-142729C4D685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11AE507-6EE0-4DA7-B5AF-D8DF6371BD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11AE507-6EE0-4DA7-B5AF-D8DF6371BD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11AE507-6EE0-4DA7-B5AF-D8DF6371BD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11AE507-6EE0-4DA7-B5AF-D8DF6371BD47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

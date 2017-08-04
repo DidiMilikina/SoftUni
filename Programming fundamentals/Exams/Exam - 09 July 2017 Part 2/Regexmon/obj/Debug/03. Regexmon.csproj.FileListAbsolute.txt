@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\Regexmon\bin\Debug\Regexmon.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\Regexmon\bin\Debug\Regexmon.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\Regexmon\bin\Debug\Regexmon.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\Regexmon\obj\Debug\03. Regexmon.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\Regexmon\obj\Debug\Regexmon.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\Regexmon\obj\Debug\Regexmon.pdb

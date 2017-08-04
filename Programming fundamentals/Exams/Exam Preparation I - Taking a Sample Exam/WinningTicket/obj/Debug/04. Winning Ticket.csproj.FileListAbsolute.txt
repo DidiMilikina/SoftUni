@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\WinningTicket\bin\Debug\WinningTicket.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\WinningTicket\bin\Debug\WinningTicket.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\WinningTicket\bin\Debug\WinningTicket.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\WinningTicket\obj\Debug\04. Winning Ticket.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\WinningTicket\obj\Debug\WinningTicket.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation I - Taking a Sample Exam\WinningTicket\obj\Debug\WinningTicket.pdb
