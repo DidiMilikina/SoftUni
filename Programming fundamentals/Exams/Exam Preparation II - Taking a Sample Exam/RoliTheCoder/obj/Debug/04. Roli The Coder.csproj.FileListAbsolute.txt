@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\RoliTheCoder\bin\Debug\RoliTheCoder.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\RoliTheCoder\bin\Debug\RoliTheCoder.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\RoliTheCoder\bin\Debug\RoliTheCoder.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\RoliTheCoder\obj\Debug\04. Roli The Coder.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\RoliTheCoder\obj\Debug\RoliTheCoder.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\RoliTheCoder\obj\Debug\RoliTheCoder.pdb

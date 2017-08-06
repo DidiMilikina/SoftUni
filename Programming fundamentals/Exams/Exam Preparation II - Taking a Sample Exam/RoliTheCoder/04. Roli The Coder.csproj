@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A613937E-1AC3-445D-AB59-44DEBBB91EA0}</ProjectGuid>
+    <ProjectGuid>{76AD930B-C67D-4A3B-9ECC-098DE1A48B7C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ladybugs</RootNamespace>
-    <AssemblyName>Ladybugs</AssemblyName>
+    <RootNamespace>RoliTheCoder</RootNamespace>
+    <AssemblyName>RoliTheCoder</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ladybugs.cs" />
+    <Compile Include="Roli The Coder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

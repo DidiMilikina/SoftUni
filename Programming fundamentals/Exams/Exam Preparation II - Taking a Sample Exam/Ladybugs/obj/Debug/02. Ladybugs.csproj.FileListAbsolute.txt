@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\Ladybugs\bin\Debug\Ladybugs.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\Ladybugs\bin\Debug\Ladybugs.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\Ladybugs\bin\Debug\Ladybugs.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\Ladybugs\obj\Debug\02. Ladybugs.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\Ladybugs\obj\Debug\Ladybugs.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam Preparation II - Taking a Sample Exam\Ladybugs\obj\Debug\Ladybugs.pdb
