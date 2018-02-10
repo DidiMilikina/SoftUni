@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    font-family: 'Lato', sans-serif;
+    background: #264658;
+    padding: 20px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+body {
+    font-size: 16px;
+    background: #264658;
+}
+
+.item {
+    width: 300px;
+    height: 450px;
+    margin: 20px;
+    padding: 25px;
+    margin-top: 100px;
+    margin-right: -100px;
+    margin-left: 180px;
+    text-align: center;
+    background: #f5fafc;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.item img {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.item h3 {
+    margin: 40px 0 10px 0;
+    font-size: 25px;
+    color: #4c7ed2;
+}
+
+.item p {
+    margin-bottom: 20px;
+    letter-spacing: 10px;
+    color: #999999;
+    text-transform: uppercase;
+}
+
+h3.title-1 {
+    margin-top: 55px;
+}
+
+h3.title-2 {
+    margin-top: 5px;
+}
+
+h3.title-3 {
+    margin-top: 10px;
+}
+
+button {
+    width: 130px;
+    height: 45px;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 15px;
+    margin-top: 30px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    background: #ffffff;
+    border: 2px solid #4c7ed2;
+    color: #4c7ed2;
+}
+
+.button-diff {
+    background: #4c7ed2;
+    color: #ffffff;
+}
+
+button:hover {
+    background: #4c7ed2;
+    color: #ffffff;
+}

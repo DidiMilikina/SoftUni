@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\CubicMessages\bin\Debug\CubicMessages.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\CubicMessages\bin\Debug\CubicMessages.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\CubicMessages\bin\Debug\CubicMessages.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\CubicMessages\obj\Debug\04. Cubic Messages.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\CubicMessages\obj\Debug\CubicMessages.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\CubicMessages\obj\Debug\CubicMessages.pdb

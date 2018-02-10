@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+body {
+    font-family: 'Vollkorn', sans-serif;
+}
+
+.layout {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+a:link,
+ :hover,
+ :visited,
+ :active {
+    color: #408D94;
+}
+
+article {
+    margin-top: 50px;
+}
+
+img {
+    float: left;
+    width: 350px;
+    height: 200px;
+    margin-right: 20px;
+    padding: 10px;
+    border: 1px solid #e6e5e5;
+}
+
+h3 {
+    color: #408D94;
+}

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\FootballLeague\bin\Debug\FootballLeague.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\FootballLeague\bin\Debug\FootballLeague.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\FootballLeague\bin\Debug\FootballLeague.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\FootballLeague\obj\Debug\03. Football League.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\FootballLeague\obj\Debug\FootballLeague.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - October 2016\FootballLeague\obj\Debug\FootballLeague.pdb

@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 6 January 2017\WinningTicket\bin\Debug\WinningTicket.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 6 January 2017\WinningTicket\bin\Debug\WinningTicket.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 6 January 2017\WinningTicket\bin\Debug\WinningTicket.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 6 January 2017\WinningTicket\obj\Debug\04. Winning Ticket.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 6 January 2017\WinningTicket\obj\Debug\WinningTicket.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 6 January 2017\WinningTicket\obj\Debug\WinningTicket.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - June 2016\SoftUniAirline\bin\Debug\SoftUniAirline.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - June 2016\SoftUniAirline\bin\Debug\SoftUniAirline.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - June 2016\SoftUniAirline\bin\Debug\SoftUniAirline.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - June 2016\SoftUniAirline\obj\Debug\SoftUniAirline.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - June 2016\SoftUniAirline\obj\Debug\SoftUniAirline.pdb

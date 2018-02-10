@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - June 2016\SoftUniWaterSupplies\bin\Debug\SoftUniWaterSupplies.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - June 2016\SoftUniWaterSupplies\bin\Debug\SoftUniWaterSupplies.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - June 2016\SoftUniWaterSupplies\bin\Debug\SoftUniWaterSupplies.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - June 2016\SoftUniWaterSupplies\obj\Debug\02. SoftUni Water Supplies.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - June 2016\SoftUniWaterSupplies\obj\Debug\SoftUniWaterSupplies.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam II - June 2016\SoftUniWaterSupplies\obj\Debug\SoftUniWaterSupplies.pdb

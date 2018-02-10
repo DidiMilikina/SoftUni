@@ -1,0 +1,6 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\TailoringWorkshop\bin\Debug\TailoringWorkshop.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\TailoringWorkshop\bin\Debug\TailoringWorkshop.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\TailoringWorkshop\bin\Debug\TailoringWorkshop.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\TailoringWorkshop\obj\Debug\01. Tailoring Workshop.csprojResolveAssemblyReference.cache
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\TailoringWorkshop\obj\Debug\TailoringWorkshop.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\TailoringWorkshop\obj\Debug\TailoringWorkshop.pdb

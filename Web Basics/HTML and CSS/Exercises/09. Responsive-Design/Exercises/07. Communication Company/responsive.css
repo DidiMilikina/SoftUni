@@ -1,0 +1,82 @@
+@media screen and (max-width: 1200px) {
+    .wrapper {
+        width: calc(100% - 40px);
+        margin-left: 20px;
+    }
+    .wrapper div.goal {
+        font-size: 20px;
+        width: 44%;
+    }
+    .content-wrap {
+        display: flex;
+        flex-direction: column;
+    }
+    div.module-text {
+        font-size: 20px;
+        width: 95%;
+    }
+    .main-foot {
+        float: none;
+        display: flex;
+        flex-direction: column;
+    }
+    footer.main-foot div.wrapper {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .main-foot address,
+    .main-foot nav {
+        flex: auto;
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .wrapper {
+        text-align: center;
+    }
+    .hero-head h1 {
+        float: left;
+    }
+    .hero-head {
+        background-image: url(aero-blue-abstract-wallpaper.jpg);
+        width: 100%;
+    }
+    .hero-head:after {
+        display: none;
+    }
+    .hero-head .goal {
+        text-align: center;
+    }
+    .main-head {
+        margin-bottom: 60px;
+    }
+    .main-nav-trigger {
+        display: none;
+    }
+    .hero-head h1 {
+        font-size: 35px;
+        float: none;
+        line-height: 39px;
+    }
+    div.module-text {
+        width: 100%;
+    }
+    .button-list,
+    li,
+    .button {
+        width: 100%;
+    }
+    section.sponsorship {
+        height: 660px;
+    }
+    .main-foot address,
+    .main-foot nav {
+        flex: auto;
+        width: 100%;
+    }
+    .main-foot .bottom .copyright {
+        float: none;
+    }
+}

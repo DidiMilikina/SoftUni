@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 23 October 2016\NetherRealms\bin\Debug\NetherRealms.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 23 October 2016\NetherRealms\bin\Debug\NetherRealms.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 23 October 2016\NetherRealms\bin\Debug\NetherRealms.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 23 October 2016\NetherRealms\obj\Debug\03. Nether Realms.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 23 October 2016\NetherRealms\obj\Debug\NetherRealms.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 23 October 2016\NetherRealms\obj\Debug\NetherRealms.pdb

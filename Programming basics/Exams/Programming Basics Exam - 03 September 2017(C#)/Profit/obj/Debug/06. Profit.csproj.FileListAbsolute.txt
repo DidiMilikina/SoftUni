@@ -1,0 +1,5 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Profit\bin\Debug\Profit.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Profit\bin\Debug\Profit.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Profit\bin\Debug\Profit.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Profit\obj\Debug\Profit.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Profit\obj\Debug\Profit.pdb

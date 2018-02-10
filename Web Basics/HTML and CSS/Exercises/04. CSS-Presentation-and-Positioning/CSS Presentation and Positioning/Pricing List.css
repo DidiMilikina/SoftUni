@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+body {
+    font-family: 'Vollkorn', serif;
+    width: 1000px;
+    margin: 0 auto;
+    color: #778495;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+article {
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    vertical-align: top;
+    height: 650px;
+    border: 1px solid #ebeff2;
+    margin: 10px;
+}
+
+h4 {
+    text-transform: capitalize;
+    background-color: #ebeff2;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+    top: -21px;
+}
+
+p#price {
+    font-size: 60px;
+}
+
+div {
+    height: 250px;
+}
+
+div p {
+    border-bottom: 1px solid #ebeff2;
+    width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+    font-family: 'Tahoma', sans-serif;
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+button {
+    background: #ebeff2;
+    border-radius: 10px;
+    border: none;
+    padding: 20px 70px;
+    color: #fff;
+}
+
+a {
+    color: #778495;
+}
+
+article:hover h4 {
+    background: #65d3e2;
+}
+
+article:hover p#price {
+    color: #65d3e2;
+}
+
+article:hover button {
+    background: #65d3e2;
+    cursor: pointer;
+}

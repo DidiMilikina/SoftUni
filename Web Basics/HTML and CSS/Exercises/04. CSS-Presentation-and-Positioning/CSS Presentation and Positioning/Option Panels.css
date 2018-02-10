@@ -1,0 +1,106 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Tahoma', 'Arial', sans-serif;
+    font-size: 15px;
+    color: #191923;
+    background-color: rgb(202, 202, 202);
+    width: 1100px;
+    margin: 0 auto;
+}
+
+nav ul {
+    background-color: rgb(255, 255, 255);
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 40px 10px 40px 0;
+    padding-left: 20px;
+}
+
+nav ul li a {
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #191923;
+}
+
+body nav>ul li a:first-child {
+    color: #bf1363;
+    text-transform: capitalize;
+}
+
+body nav>ul li:nth-child(2) a {
+    text-transform: uppercase;
+    color: #191923;
+}
+
+ul li:nth-child(2) a:hover {
+    color: #bf1363;
+}
+
+body nav>ul li:nth-child(3) a {
+    text-transform: uppercase;
+    color: #191923;
+}
+
+ul li:nth-child(3) a:hover {
+    color: #bf1363;
+}
+
+body nav>ul li:nth-child(4) a {
+    text-transform: uppercase;
+    color: #191923;
+}
+
+ul li:nth-child(4) a:hover {
+    color: #bf1363;
+}
+
+nav ul li a:hover {
+    color: #bf1363;
+    cursor: pointer;
+}
+
+main {
+    position: absolute;
+    margin-top: 30px;
+    padding: 0;
+}
+
+main section {
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    margin-right: 9px;
+    width: 264px;
+}
+
+main section:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+main section img {
+    width: 264px;
+    height: 198px;
+}
+
+main section h1 {
+    font-size: 16px;
+    font-weight: 400;
+    padding: 15px 15px 15px 20px;
+    text-transform: uppercase;
+    background-color: #FFFFFF;
+    margin: 0;
+}
+
+main section p {
+    padding: 15px 30px 30px 20px;
+    background-color: #FFFFFF;
+    margin: 0px;
+    height: 70px;
+}

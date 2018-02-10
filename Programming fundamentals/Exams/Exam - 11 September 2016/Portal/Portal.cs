@@ -10,6 +10,8 @@ namespace Portal
     {
         static void Main(string[] args)
         {
+            int sizeOfMatrix = int.Parse(Console.ReadLine());
+
         }
     }
 }

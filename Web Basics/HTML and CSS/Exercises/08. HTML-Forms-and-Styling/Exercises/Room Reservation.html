@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="Room Reservation.css">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Room Reservation</title>
+</head>
+
+<body>
+    <header>
+        <h1>Room Reservation</h1>
+    </header>
+    <main>
+        <div>
+            <h3>Basics Information</h3>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nibh varius odio sollicitudin blandit nec eu elit. Suspendisse
+                ac risus nunc, quis elementum lorem. Pellentesque vehicula egestas eros nec commodo.
+            </p>
+            <label>Search
+                <input type="text">
+            </label>
+            <form action="#" id="personal-details">
+                <h3>Personal Details</h3>
+                <input type="text" name="first-name" id="first-name" placeholder="First Name">
+                <input type="text" name="first-name" placeholder="Last Name">
+                <input type="text" name="first-name" placeholder="Enter email">
+            </form>
+            <form action="#" id="reservation">
+                <h3>Request a reservation</h3>
+                <label>Select a Room</label>
+                <select id="room">
+                    <option name="room1">Room 1</option>
+                    <option name="room2">Room 2</option>
+                    <option name="room3">Room 3</option>
+                    <option name="room4">Room 4</option>
+                </select>
+                <div>
+                    <label>Number of Rooms</label>
+                    <input type="number" name="room" id="room-number">
+                </div>
+                <div class="check">
+                    <label for="check-in">Check-In:</label>
+                    <input type="date" name="check-in" id="check-in">
+                </div>
+                <div class="check">
+                    <label for="check-out">Check-Out:</label>
+                    <input type="date" name="check-out" id="check-out">
+                </div>
+            </form>
+            <button>book now</button>
+        </div>
+    </main>
+</body>
+
+</html>

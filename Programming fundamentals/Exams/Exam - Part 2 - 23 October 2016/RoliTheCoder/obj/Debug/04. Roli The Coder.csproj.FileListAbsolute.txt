@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 23 October 2016\RoliTheCoder\bin\Debug\RoliTheCoder.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 23 October 2016\RoliTheCoder\bin\Debug\RoliTheCoder.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 23 October 2016\RoliTheCoder\bin\Debug\RoliTheCoder.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 23 October 2016\RoliTheCoder\obj\Debug\RoliTheCoder.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - Part 2 - 23 October 2016\RoliTheCoder\obj\Debug\RoliTheCoder.pdb

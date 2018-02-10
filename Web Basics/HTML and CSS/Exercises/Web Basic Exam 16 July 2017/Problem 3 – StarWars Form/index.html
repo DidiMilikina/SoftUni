@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="style.css">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>StarWars Form</title>
+</head>
+
+<body>
+    <header>
+        <h3 class="slogan">may the force be with you</h3>
+        <h1 class="main">Thanks for pre-ordering!</h1>
+    </header>
+    <form action="#">
+        <div class="inputs">
+            <div class="first-row">
+                <div class="input">
+                    <div class="radio">
+                        <input id="paypal" type="radio" name="payment">
+                        <label for="paypal">Pay Pal</label>
+                    </div>
+    
+                    <img src="PayPal.png" alt="PayPal logo">
+                </div>
+                <div class="input">
+                    <div class="radio">
+                        <input id="mastercard" type="radio" name="payment">
+                        <label for="mastercard">Debit/Credit Card</label>
+                    </div>
+                    <img src="MasterCard.png" alt="MasterCard Logo">
+                </div>
+            </div>
+            <div class="second-row">
+                <div></div>
+                <div class="input">
+                    <label for="cardnumber">Card Number</label>
+                    <input id="cardnumber" type="text" value="4111 1111 1111 1111">
+                </div>
+            </div>
+            <div class="third-row">
+                <div class="input">
+                    <label for="expiry">Expiry</label>
+                    <input id="expiry" type="text" value="MM/YY">
+                </div>
+                <div class="input">
+                    <label for="csv">CSV</label>
+                    <input id="csv" type="text" value="123">
+                </div>
+            </div>
+        </div>
+        <div class="button">
+            <i class="fa fa-lock" aria-hidden="true"></i>
+            <input type="button" value="Finish and Pay">
+        </div>
+        <div class="totalprice">
+            <p>That's $<span>19.99</span></p>
+        </div>
+    </form>
+</body>
+
+</html>

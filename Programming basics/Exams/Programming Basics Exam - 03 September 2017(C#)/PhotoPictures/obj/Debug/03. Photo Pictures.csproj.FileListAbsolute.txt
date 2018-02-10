@@ -1,0 +1,6 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\PhotoPictures\bin\Debug\PhotoPictures.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\PhotoPictures\bin\Debug\PhotoPictures.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\PhotoPictures\bin\Debug\PhotoPictures.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\PhotoPictures\obj\Debug\PhotoPictures.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\PhotoPictures\obj\Debug\PhotoPictures.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\PhotoPictures\obj\Debug\03. Photo Pictures.csprojResolveAssemblyReference.cache

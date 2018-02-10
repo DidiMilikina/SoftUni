@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\PokemonEvolution\bin\Debug\PokemonEvolution.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\PokemonEvolution\bin\Debug\PokemonEvolution.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\PokemonEvolution\bin\Debug\PokemonEvolution.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\PokemonEvolution\obj\Debug\04. PokemonEvolution.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\PokemonEvolution\obj\Debug\PokemonEvolution.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 2\PokemonEvolution\obj\Debug\PokemonEvolution.pdb

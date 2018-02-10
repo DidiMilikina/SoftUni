@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="Edit User Form.css">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Edit User Form</title>
+</head>
+
+<body>
+    <header>
+        <h1>edit user</h1>
+    </header>
+    <main>
+        <form>
+            <label for="username">Username</label>
+            <input type="text" name="username" id="username">
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email">
+            <label for="number">Phone number</label>
+            <input type="text" name="number" id="number">
+            <label for="user-type">User type</label>
+            <ul id="user-type">
+                <li>
+                    <input type="radio" value="1" name="user-type">
+                    <span>Broadband</span>
+                </li>
+                <li>
+                    <input type="radio" value="2" name="user-type">
+                    <span>Radio</span>
+                </li>
+            </ul>
+            <label for="password">Change Password</label>
+            <input type="password" name="password" id="password">
+            <label for="groups">Group</label>
+            <ul id="groups">
+                <li>
+                    <input type="checkbox" name="check" value="1">
+                    <span>All groups</span>
+                </li>
+                <li>
+                    <input type="checkbox" name="check" value="2">
+                    <span>Group 1</span>
+                </li>
+                <li>
+                    <input type="checkbox" name="check" value="3">
+                    <span>Group 2</span>
+                </li>
+                <li>
+                    <input type="checkbox" name="check" value="4">
+                    <span>Group 3</span>
+                </li>
+                <li>
+                    <input type="checkbox" name="check" value="5">
+                    <span>Group 4</span>
+                </li>
+            </ul>
+            <label for="contacts">Contacts</label>
+            <a href="#" id="contacts">See Contacts list</a>
+            <button id="cancel">CANCEL</button>
+            <button id="save">SAVE</button>
+        </form>
+    </main>
+</body>
+
+</html>

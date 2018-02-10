@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #F6F7FB;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background: #ffffff;
+}
+
+.logo {
+    float: left;
+    margin: 25px 0 25px 120px;
+    vertical-align: center;
+}
+
+.logo div {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo-name {
+    margin-left: 15px;
+    font-size: 22px;
+    letter-spacing: 0.2px;
+    color: #000000;
+    font-weight: bold;
+}
+
+nav {
+    letter-spacing: 0.1px;
+    float: right;
+}
+
+ul li {
+    margin: 35px 80px;
+    font-size: 15px;
+    letter-spacing: 0.1px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+nav ul li a {
+    text-decoration: none;
+    letter-spacing: 0.1px;
+    color: #888888;
+    text-transform: uppercase;
+}
+
+nav ul li a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+header:after {
+    display: block;
+    content: '';
+    clear: both;
+    visibility: hidden;
+}
+
+.head {
+    background: url(background-image.png) no-repeat center center;
+    height: 500px;
+    padding-top: 160px;
+    letter-spacing: 0.1px;
+    background-size: cover;
+    text-align: center;
+}
+
+.head-title {   
+    font-size: 22px;
+    margin-bottom: 60px;
+    letter-spacing: 0.1px;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px #646464bf;
+    text-transform: uppercase;
+}
+
+.head-subtitle {
+    margin: 0 auto;
+    width: 580px;
+    font-size: 20px;
+    letter-spacing: 0.1px;
+    color: #000000;
+    text-shadow: 1px 1px 2px #ffffffbf;
+}
+
+.button {
+    border-radius: 30px;
+    padding: 15px 60px;
+    margin-top: 30px;
+    letter-spacing: 0.1px;
+    background: #f8c200;
+    text-transform: uppercase;
+    border: none;
+}
+
+.button a {
+    font-size: 16px;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #646464bf;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.button:hover {
+    background: #18CDFA;
+}
+
+.matches-1 {
+    background: #18CDFA;
+}
+
+.matches-2 {
+    background: #FC3698;
+}
+
+.match {
+    width: 672.2px;
+    height: 280px;
+    padding-top: 100px;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #646464bf;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.match-title {
+    margin-left: 160px;
+    font-size: 20px;
+    letter-spacing: 0.1px;
+}
+
+.match-subtitle {
+    margin-left: 200px;
+    font-size: 14px;
+}
+
+.match a {
+    text-decoration: none;
+    letter-spacing: 0.1px;
+    color: #ffffff;
+}
+
+.left {
+    background: url(headphone-yellow.png) no-repeat center center;
+    background-size: cover;
+}
+
+.right {
+    background: url(headphone-black.png) no-repeat center center;
+    background-size: cover;
+}
+
+.left-1 {
+    background: url(showcase1.png) no-repeat center center;
+    background-size: cover;
+}
+
+.right-1 {
+    background: url(showcase2.png) no-repeat center center;
+    background-size: cover;
+}
+
+.browse,
+.blog {
+    margin: 40px 0;
+    font-size: 14px;
+    letter-spacing: 0.1px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.cat {
+    margin: 0 0 40px 80px;
+}
+
+.categories {
+    width: 340px;
+    margin: 0 30px;
+    padding-bottom: 20px;
+    background: #ffffff;
+    text-align: center;
+    display: inline-block;
+}
+
+.name {
+    font-size: 12px;
+    margin: 20px 0;  
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.name a {
+    text-decoration: none;
+    color: #18CDFA;
+}
+
+.number-prod {
+    font-size: 24px; 
+    text-transform: capitalize;
+    color: #888888;
+}
+
+article {
+    width: 320px;
+    margin-left: 100px;
+    display: inline-block;
+}
+
+.blog-img {
+    width: 300px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px #505050bf;
+}
+
+.date,
+.article-text {
+    font-size: 14px;    
+    color: #A7B0B9;
+}
+
+.article-text {
+    margin-bottom: 20px;
+}
+
+.article-title {  
+    margin: 20px 0; 
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.more {
+    font-size: 14px;
+    margin-top: 20px;
+    color: #18CDFA;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}

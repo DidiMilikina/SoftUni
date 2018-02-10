@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+main {
+    margin: 25px auto 0;
+    padding: 50px;
+    width: 600px;
+    background: #F7F7F7;
+    border: solid #adadad 2px;
+}
+
+main header {
+    color: #888;
+    font-weight: bold;
+    border-bottom: solid #adadad 2px;
+    padding-bottom: 20px;
+}
+
+form div {
+    margin-top: 20px;
+    display: block;
+    color: #888;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+label {
+    padding-top: 6px;
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+    vertical-align: top;
+}
+
+input,
+select {
+    font-size: 1.1em;
+    width: 70%;
+    height: 30px;
+    padding: 5px;
+    border: solid #adadad 1px;
+}
+
+select {
+    height: 40px;
+    color: #888;
+}
+
+#text {
+    height: 130px;
+}
+
+button {
+    background: rgb(253, 127, 127);
+    border: none;
+    margin-left: 125px;
+    border-radius: 3px;
+    height: 40px;
+    width: 215px;
+    color: #F7F7F7;
+}

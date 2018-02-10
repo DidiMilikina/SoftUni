@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\Files\bin\Debug\Files.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\Files\bin\Debug\Files.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\Files\bin\Debug\Files.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\Files\obj\Debug\04. Files.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\Files\obj\Debug\Files.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\Files\obj\Debug\Files.pdb

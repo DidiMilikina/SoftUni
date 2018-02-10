@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:700|Open+Sans:400,700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 14px "Open Sans", Arial, sans-serif;
+    "Comfortaa",
+    sans-serif;
+}
+
+aside,
+main {
+    float: left
+}
+
+aside {
+    width: 20%;
+    text-align: center;
+}
+
+aside img {
+    width: 50%;
+    border-radius: 70px;
+}
+
+h1.zora {
+    font: 50px Comfortaa, sans-serif;
+    padding: 40px;
+}
+
+h2.name,
+aside li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #b1bfc6;
+}
+
+aside ul {
+    list-style: none;
+    text-align: left;
+}
+
+h2.name {
+    font-size: 16px;
+    padding: 10px;
+}
+
+aside li {
+    font-size: 16px;
+    margin: 25px 0 0 20px;
+}
+
+aside li a:hover {
+    color: #333;
+    cursor: pointer;
+}
+
+main {
+    width: 80%;
+    background: #F4F5F7;
+    box-sizing: border-box;
+    padding-left: 50px;
+}
+
+h2.properties {
+    font-size: 36px;
+    font-weight: 400;
+    padding-top: 50px;
+}
+
+h2.properties span {
+    color: #91a5af;
+    padding-left: 10px;
+}
+
+button.add {
+    float: right;
+    vertical-align: top;
+    text-transform: uppercase;
+    color: #ffffff;
+    background: #ff7739;
+    width: 160px;
+    height: 40px;
+    border-radius: 20px;
+    border: #ff7739;
+}
+
+article {
+    display: inline-block;
+    width: 280px;
+    height: 280px;
+    background: #ffffff;
+    margin-right: 30px;
+    box-shadow: 8px 6px 17px -1px rgba(0, 0, 0, 0.26);
+    text-transform: capitalize;
+}
+
+article.rented {
+    opacity: 0.6;
+}
+
+article img {
+    height: 150px;
+    width: 100%;
+    margin-top: 25px;
+    position: relative;
+}
+
+button.add {
+    margin-top: -40px;
+    margin-right: 90px;
+}
+
+button.add:hover {
+    background: #f4f5f7;
+    color: #ff7739;
+    border: 2px solid #ff7739;
+    cursor: pointer;
+}
+
+h2.address {
+    text-transform: capitalize;
+    font-size: 14px;
+}
+
+p {
+    text-transform: uppercase;
+    font-size: 12px;
+    padding-top: 8px;
+}
+
+section header {
+    padding: 40px 0 25px 0;
+}
+
+section:last-child {
+    padding-bottom: 50px;
+}
+
+h1.description,
+h2.unit {
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 20px;
+}
+
+h1.description {
+    padding: 10px 20px;
+}
+
+button.btn {
+    width: 100px;
+    height: 30px;
+    border-radius: 25px;
+    border: none;
+    text-transform: uppercase;
+    color: #ffffff;
+    position: relative;
+    z-index: 1;
+    top: 74px;
+    left: -18px;
+}
+
+button.btn-green {
+    background: #68BB69;
+}
+
+button.btn-grayer {
+    background: #91A5AE;
+}
+
+button.btn-gray {
+    background: #B8C5CD;
+}

@@ -6,28 +6,70 @@ using System.Threading.Tasks;
 
 namespace PokemonEvolution
 {
+    class Pokemon
+    {
+        public string Type { get; set; }
+        public int Index { get; set; }
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
-            var pokemonsBase = new Dictionary<string, Dictionary<string, int>>();
-            string input = Console.ReadLine();
-            while (input != "wubbalubbadubdub")
+            var pokemonsBase = new Dictionary<string, List<Pokemon>>();
+            string input;
+
+            
+            while ((input = Console.ReadLine()) != "wubbalubbadubdub")
             {
-                var inputTokens = input
-                    .Split(new[] { " -> " },
-                        StringSplitOptions.RemoveEmptyEntries);
-                var name = inputTokens[0];
-                var type = inputTokens[1];
-                var index = int.Parse(inputTokens[2]);
-                if (!pokemonsBase.ContainsKey(name))
+                if (pokemonsBase.ContainsKey(input))
                 {
-                    pokemonsBase.Add(name, new Dictionary<string, int>());
+                    Console.WriteLine($"# {input}");
+                    foreach (var pokemon in pokemonsBase[input])
+                    {
+                        Console.WriteLine($"{pokemon.Type} <-> {pokemon.Index}");
+                    }
                 }
-                pokemonsBase[name].Add();
+                 else
+                {
+                    var inputTokens = input
+                        .Split(new[] { " -> " },
+                            StringSplitOptions.RemoveEmptyEntries);
 
-                input = Console.ReadLine();
+                    if (inputTokens.Length != 3)
+                    {
+                        continue;
+                    }
 
+                    var pokemonName = inputTokens[0];
+                    var evolutionType = inputTokens[1];
+                    var evolutionIndex = int.Parse(inputTokens[2]);
+
+                    if (!pokemonsBase.ContainsKey(pokemonName))
+                    {
+                        pokemonsBase.Add(pokemonName, new List<Pokemon>());
+                    }
+
+                    var currentPokemon = new Pokemon()
+                    {
+                        Type = evolutionType,
+                        Index = evolutionIndex
+                    };
+                    pokemonsBase[pokemonName].Add(currentPokemon);
+
+                }
             }
+      
+
+            foreach (var pokemonEvolutionKVP in pokemonsBase)
+            {
+                var sortedEvolutions = pokemonEvolutionKVP.Value.OrderByDescending(pokemon => pokemon.Index);
+                Console.WriteLine($"# {pokemonEvolutionKVP.Key}");
+                foreach (var pokemon in sortedEvolutions)
+                {
+                    Console.WriteLine($"{pokemon.Type} <-> {pokemon.Index}");
+                }
+            }
+        }
     }
 }

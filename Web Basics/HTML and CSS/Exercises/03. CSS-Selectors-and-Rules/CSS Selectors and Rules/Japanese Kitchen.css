@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    background: url("dark-wood.jpg");
+}
+
+header {
+    background: url(header-page.jpg) no-repeat center;
+    padding: 48px;
+}
+
+header h1 {
+    text-align: right;
+    width: 1085px;
+    font-weight: 900px;
+}
+
+nav {
+    background: url(header-page.jpg) center no-repeat;
+    background-position-y: 13px;
+    margin-top: -10px;
+}
+
+nav ul {
+    position: relative;
+    left: 16%;
+    top: 5px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 14px 20px;
+}
+
+nav ul li a:hover {
+    color: #000000;
+}
+
+.courses {
+    background-color: white;
+    width: 49%;
+    margin: 3px 15.2%;
+    display: inline-block;
+}
+
+article {
+    border-right: 1px solid #d8d8d8;
+}
+
+figure {
+    display: inline-block;
+    border: 1px solid #d8d8d8;
+    padding: 7px;
+    margin: 23px 23px 0 23px;
+}
+
+article div {
+    display: inline-block;
+    vertical-align: top;
+    margin: 30px 0;
+}
+
+article div h2 {
+    font-weight: 900px;
+    font-size: 23px
+}
+
+article div h3 {
+    color: #dfdf0e;
+}
+
+article p {
+    display: inline-block;
+    width: 39%;
+    position: relative;
+    bottom: 11em;
+    left: 25.45em;
+}
+
+aside {
+    float: right;
+    background-color: #ffffff;
+    position: relative;
+    right: 204px;
+    top: 3px;
+    width: 7.353cm;
+}
+
+.popular-recipes {
+    border-left: 1px solid #d8d8d8;
+    height: 566px;
+}
+
+.popular-recipes h2 {
+    color: #d90076;
+    padding: 18px;
+    font-weight: 900px;
+    font-size: 33px;
+    line-height: 33px;
+}
+
+section ul {
+    list-style-type: none;
+    width: 200px;
+    position: relative;
+    left: 26px;
+}
+
+section ul li {
+    padding: 0 11px 10px;
+    border-bottom: 1px solid #d8d8d8;
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+section ul li a {
+    text-decoration: none;
+    color: #d90076;
+}
+
+footer {
+    text-align: center;
+    background: url(header-page.jpg) no-repeat center;
+    background-position-y: -15px;
+    color: #ffffff;
+}

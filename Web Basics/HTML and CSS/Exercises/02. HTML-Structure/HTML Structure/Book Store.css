@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    margin: 20px;
+}
+
+table, td, th {
+    border-collapse: collapse;
+    border:1px solid #c6c7cc;
+}
+
+td, th {
+    padding: 8px;
+}

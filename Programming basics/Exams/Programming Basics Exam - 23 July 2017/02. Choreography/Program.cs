@@ -23,7 +23,7 @@ namespace _02.Choreography
             }
             else
             {
-                Console.WriteLine($"No, They will not succeed in that goal! Requierd {percentSteps:f2}% steps to be learned per day.");
+                Console.WriteLine($"No, They will not succeed in that goal! Required {percentSteps:f2}% steps to be learned per day.");
             }
         }
     }

@@ -1,0 +1,5 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Snowflake\bin\Debug\Snowflake.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Snowflake\bin\Debug\Snowflake.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Snowflake\bin\Debug\Snowflake.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Snowflake\obj\Debug\Snowflake.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Snowflake\obj\Debug\Snowflake.pdb

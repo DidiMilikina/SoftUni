@@ -1,0 +1,5 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Cake\bin\Debug\Cake.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Cake\bin\Debug\Cake.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Cake\bin\Debug\Cake.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Cake\obj\Debug\Cake.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Cake\obj\Debug\Cake.pdb

@@ -1,0 +1,57 @@
+  @media all and (max-width:1200px) {
+    #wrapper {
+      width: 100%;
+    }
+    main,
+    header {
+      width: 95%;
+    }
+    main section,
+    main aside {
+      float: none;
+      width: calc(100% - 30px);
+    }
+    header nav>ul li {
+      width: 20%;
+    }
+    main section>div {
+      margin-right: 30px;
+    }
+    footer p {
+      margin-left: 0;
+      text-align: center;
+    }
+  }
+
+  @media all and (max-width:730px) {
+    header {
+      background-size: cover;
+    }
+    header nav>ul li {
+      width: 100%;
+      float: none;
+    }
+    header>nav,
+    main section>div {
+      height: auto;
+    }
+    main section>div>div {
+      float: none;
+      display: block;
+    }
+    main section>div>div > img{
+      margin: 0 auto;
+      display: block;
+    }
+    main>section>div>article>h3 {
+      text-align: center;
+    }
+    main > section > div > div{
+      background: #b7cc89;
+      margin-right: 0;
+    }
+    aside h1, 
+    aside h2{
+      text-align: center;
+    }
+  }

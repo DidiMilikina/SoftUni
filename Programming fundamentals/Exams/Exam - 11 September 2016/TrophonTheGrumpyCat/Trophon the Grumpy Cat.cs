@@ -10,32 +10,142 @@ namespace TrophonTheGrumpyCat
     {
         static void Main(string[] args)
         {
-            var ratings = Console.ReadLine()
+            long[] ratingsPrice = Console.ReadLine()
                 .Split(' ')
-                .Select(int.Parse)
+                .Select(long.Parse)
                 .ToArray();
-            var entry = long.Parse(Console.ReadLine());
+
+            int entryPoints = int.Parse(Console.ReadLine());
             var typeOfItems = Console.ReadLine();
             var typeOfRatings = Console.ReadLine();
+            long leftDamage = 0;
+            long rightDamage = 0;
 
-            long left = 0;
-            for (long i = 0; i < entry; i++)
+            if (typeOfItems == "cheap")
             {
-              
-            }
-            long right = 0;
-            for (long i = entry + 1; i < ratings.Length; i++)
-            {
-               
+                if (typeOfRatings == "positive")
+                {
+                    for (int i = 0; i < entryPoints; i++)
+                    {
+                        if (ratingsPrice[i] > 0 && ratingsPrice[i] < ratingsPrice[entryPoints])
+                        {
+                            leftDamage += ratingsPrice[i];
+
+                        }
+                    }
+                    for (int i = entryPoints + 1; i < ratingsPrice.Length; i++)
+                    {
+                        if (ratingsPrice[i] > 0 && ratingsPrice[i] < ratingsPrice[entryPoints])
+                        {
+                            rightDamage += ratingsPrice[i];
+
+                        }
+                    }
+                }
+
+                else if (typeOfRatings == "negative")
+                {
+                    for (int i = 0; i < entryPoints; i++)
+                    {
+                        if (ratingsPrice[i] < 0 && ratingsPrice[i] < ratingsPrice[entryPoints])
+                        {
+                            leftDamage += ratingsPrice[i];
+
+                        }
+                    }
+                    for (int i = entryPoints + 1; i < ratingsPrice.Length; i++)
+                    {
+                        if (ratingsPrice[i] < 0 && ratingsPrice[i] < ratingsPrice[entryPoints])
+                        {
+                            rightDamage += ratingsPrice[i];
+
+                        }
+                    }
+                }
+
+                else if (typeOfRatings == "all")
+                {
+                    for (int i = 0; i < entryPoints; i++)
+                    {
+                        if (ratingsPrice[i] < ratingsPrice[entryPoints])
+                        {
+                            leftDamage += ratingsPrice[i];
+
+                        }
+                    }
+                    for (int i = entryPoints + 1; i < ratingsPrice.Length; i++)
+                    {
+                        if ( ratingsPrice[i] < ratingsPrice[entryPoints])
+                        {
+                            rightDamage += ratingsPrice[i];
+
+                        }
+                    }
+                }
             }
 
-            if (left >= right)
+            else if (typeOfItems == "expensive")
             {
-                Console.WriteLine($"Left - {left}");
+                if (typeOfRatings == "positive")
+                {
+                    for (int i = 0; i < entryPoints; i++)
+                    {
+                        if (ratingsPrice[i] > 0 && ratingsPrice[i] >= ratingsPrice[entryPoints])
+                        {
+                            leftDamage += ratingsPrice[i];
+                        }
+                    }
+                    for (int i = entryPoints + 1; i < ratingsPrice.Length; i++)
+                    {
+                        if (ratingsPrice[i] > 0 && ratingsPrice[i] >= ratingsPrice[entryPoints])
+                        {
+                            rightDamage += ratingsPrice[i];
+                        }
+                    }
+                }
+                else if (typeOfRatings == "negative")
+                {
+                    for (int i = 0; i < entryPoints; i++)
+                    {
+                        if (ratingsPrice[i] < 0 && ratingsPrice[i] >= ratingsPrice[entryPoints])
+                        {
+                            leftDamage += ratingsPrice[i];
+                        }
+                    }
+                    for (int i = entryPoints + 1; i < ratingsPrice.Length; i++)
+                    {
+                        if (ratingsPrice[i] < 0 && ratingsPrice[i] >= ratingsPrice[entryPoints])
+                        {
+                            rightDamage += ratingsPrice[i];
+                        }
+                    }
+                }
+                else if (typeOfRatings == "all")
+                {
+                    for (int i = 0; i < entryPoints; i++)
+                    {
+                        if (ratingsPrice[i] >= ratingsPrice[entryPoints])
+                        {
+                            leftDamage += ratingsPrice[i];
+                        }
+                    }
+                    for (int i = entryPoints + 1; i < ratingsPrice.Length; i++)
+                    {
+                        if (ratingsPrice[i] >= ratingsPrice[entryPoints])
+                        {
+                            rightDamage += ratingsPrice[i];
+                        }
+                    }
+                }
+            }
+
+            if (leftDamage >= rightDamage)
+            {
+                Console.WriteLine($"Left - {leftDamage}");
             }
             else
             {
-                Console.WriteLine($"Right - {right}");
+                Console.WriteLine($"Right - {rightDamage}");
             }
         }
     }

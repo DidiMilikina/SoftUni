@@ -1,0 +1,58 @@
+@media screen and (max-width: 640px) {
+    .wrap {
+        width: 100%;
+    }
+    #header-top-area {
+        margin-bottom: 30px;
+        padding-top: 3px;
+    }
+    #header-top-area>h2 {
+        display: none;
+    }
+    h1 {
+        width: 125px;
+    }
+    #header-middle-area {
+        padding-bottom: 10px;
+        padding-top: 10px;
+        border-top: 1px solid #b5b9ba;
+        border-bottom: 1px solid #b5b9ba;
+    }
+    #header-bottom-area{
+        display: none;
+    }
+    #product-menu {
+        width: 100%;
+        display: block;
+    }
+    #product-menu:hover .submenu {
+        display: block;
+    }
+    section#products-liked-list>div>ul>li:nth-of-type(2),
+    section#products-liked-list>div>ul>li:nth-of-type(4) {
+        display: none;
+    }
+    section#products-suggestions-list>div>ul>li:nth-of-type(2),
+    section#products-suggestions-list>div>ul>li:nth-of-type(3) {
+        display: none;
+    }
+    .box {
+        width: 100%;
+    }
+    footer div>.share,
+    .email-newsletter,
+    .copyright {
+        text-align: center;
+    }
+    footer div>.share strong {
+        display: inline-block;
+        vertical-align: bottom;
+    }
+    footer div.copyright,
+    .email-newsletter {
+        background-color: #26292d;
+    }
+    div.email-newsletter>span {
+        display: block;
+    }
+}

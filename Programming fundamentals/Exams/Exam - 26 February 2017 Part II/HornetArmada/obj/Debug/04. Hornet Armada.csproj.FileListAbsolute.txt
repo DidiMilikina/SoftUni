@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part II\HornetArmada\bin\Debug\HornetArmada.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part II\HornetArmada\bin\Debug\HornetArmada.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part II\HornetArmada\bin\Debug\HornetArmada.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part II\HornetArmada\obj\Debug\04. Hornet Armada.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part II\HornetArmada\obj\Debug\HornetArmada.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 26 February 2017 Part II\HornetArmada\obj\Debug\HornetArmada.pdb

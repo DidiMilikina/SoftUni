@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\TrophonTheGrumpyCat\bin\Debug\TrophonTheGrumpyCat.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\TrophonTheGrumpyCat\bin\Debug\TrophonTheGrumpyCat.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\TrophonTheGrumpyCat\bin\Debug\TrophonTheGrumpyCat.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\TrophonTheGrumpyCat\obj\Debug\02. Trophon The Grumpy Cat.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\TrophonTheGrumpyCat\obj\Debug\TrophonTheGrumpyCat.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 11 September 2016\TrophonTheGrumpyCat\obj\Debug\TrophonTheGrumpyCat.pdb

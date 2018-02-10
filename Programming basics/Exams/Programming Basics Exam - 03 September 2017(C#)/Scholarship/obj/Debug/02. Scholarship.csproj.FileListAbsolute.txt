@@ -1,0 +1,5 @@
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Scholarship\bin\Debug\Scholarship.exe.config
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Scholarship\bin\Debug\Scholarship.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Scholarship\bin\Debug\Scholarship.pdb
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Scholarship\obj\Debug\Scholarship.exe
+C:\Users\didim\Desktop\Programming Basics Exam - 03 September 2017\Scholarship\obj\Debug\Scholarship.pdb

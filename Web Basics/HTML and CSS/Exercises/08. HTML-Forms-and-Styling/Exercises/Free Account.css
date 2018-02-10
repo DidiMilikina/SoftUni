@@ -1,0 +1,108 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+body {
+    font-family: Tahoma, Helvetica, sans-serif;
+    width: 800px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    border-bottom: solid 3px #d1d1d1;
+    padding: 10px;
+}
+
+header h1 {
+    font-size: 24px;
+    margin: 30px;
+
+}
+
+form {
+    position: relative;
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
+
+form h3 {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+form input {
+    width: 95%;
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: red;
+}
+
+#check {
+    height: 20px;
+    display: block;
+}
+
+button {
+    height: 40px;
+    padding: 0 40px;
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    background: ghostwhite;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background: #AFDF67;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+div {
+    display: block;
+}
+
+#check {
+    display: inline-block;
+    width: 10%;
+}
+
+label {
+    display: inline-block;
+    width: 80%;
+}
+
+span.ok:before{
+    font-family: FontAwesome;
+    position: absolute;
+    content: '\f00c';
+    background: #00FF00;
+    color: white;
+    margin-top: 5px;
+    font-size: 30px;
+    padding: 1px;
+    right: 30px;
+    }
+
+span.nok:before{
+    font-family: FontAwesome;
+    position: absolute;
+    content: '\f00d';
+    background: red;
+    color: white;
+    margin-top: 5px;
+    font-size: 30px;
+    padding: 1px;
+    right: 30px;
+}

@@ -1,0 +1,58 @@
+@media all and (max-width: 480px) {
+    .top-button-container {
+        display: none;
+    }
+    .top-button {
+        display: none;
+    }
+    .header-wrapper {
+        text-align: center;
+        background: #212121;
+    }
+    .header-title {
+        font-size: 3em;
+    }
+    .header-subtitle {
+        display: none;
+    }
+    .introduction-subtitle,
+    .travel-subtitle {
+        max-width: calc(100% - 10px);
+        font-size: 16px;
+    }
+    .wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .benefits-section {
+        padding: 25px 20px;
+    }
+    .service-info {
+        font-size: 1.07em;
+    }
+    .travel-subtitle {
+        font-size: 1.07em;
+    }
+    .travel-subtitle {
+        padding: 0 10px;
+        font-size: 1.2em;
+    }
+    .footer-wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        padding: 0;
+    }
+    .logo-image-container {
+        margin: 25px 0;
+    }
+    .footer-list {
+        margin-bottom: 20px;
+    }
+    .service-container {
+        margin-bottom: 30px;
+    }
+}

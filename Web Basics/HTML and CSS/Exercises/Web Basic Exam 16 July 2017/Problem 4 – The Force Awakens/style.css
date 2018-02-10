@@ -1,0 +1,284 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Lato, sans-serif;
+}
+
+header {
+    background-color: #f5fafc;
+    position: relative;
+    height: 800px;
+}
+
+nav {
+    padding: 20px;
+}
+
+nav p {
+    float: left;
+    color: #345e6c;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+nav ul {
+    float: right;
+}
+
+nav::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: #345e6c;
+    text-decoration: none;
+}
+
+nav ul li:first-of-type a {
+    color: #244356;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #244356;
+    font-weight: bold;
+}
+
+.header-wrapper {
+    position: absolute;
+    top: 200px;
+    padding: 30px;
+}
+
+.header-left {
+    float: left;
+    width: 45%;
+}
+
+.header-right {
+    float: right;
+    width: 45%;
+}
+
+.header-wrapper::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.ep7 {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.ep7 hr {
+    width: 170px;
+    height: 1px;
+    background-color: #264658;
+}
+
+.ep7 h3 {
+    color: #345e6c;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    margin: 0 5px 0 10px;
+}
+
+.header-left h1 {
+    font-size: 60px;
+    font-weight: 900;
+    color: #4c8add;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.keywords {
+    margin-bottom: 40px;
+}
+
+.keywords p {
+    float: left;
+    color: #d8e2e6;
+    font-size: 14px;
+}
+
+.keywords ul {
+    float: right;
+}
+
+.keywords::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.keywords ul li {
+    text-transform: uppercase;
+    color: #d8e2e6;
+    font-size: 14px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+i.fa-clock-o {
+    font-size: 16px;
+    color: #b7c4cb;
+}
+
+section {
+    margin-top: 80px;
+}
+
+section h2,
+figcaption {
+    color: #345e6c;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+div div.rey {
+    float: left;
+    width: 45%;
+    margin-top: 20px;
+}
+
+div div.finn {
+    float: right;
+    width: 45%;
+    margin-top: 20px;
+}
+
+.sec1::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.rey p {
+    float: left;
+    width: 55%;
+    margin-top: 100px;
+    text-align: right;
+    margin-right: 20px;
+}
+
+.rey figure {
+    float: right;
+    width: 35%;
+}
+
+.finn p {
+    float: right;
+    width: 55%;
+    margin-top: 100px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.finn figure {
+    float: left;
+    width: 35%;
+}
+
+.rey::after,
+.finn::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.sec2 div {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+
+.sec2 div p {
+    width: 45%;
+}
+
+.sec2 button {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 3px solid #4c8add;
+    background: transparent;
+    display: block;
+}
+
+.sec2 button a {
+    font-size: 16px;
+    padding: 14px 0;
+    color: #4c8add;
+    text-decoration: none;
+    display: block;
+}
+
+.episodes {
+    display: flex;
+    flex-flow: row;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+
+.episodes div {
+    width: 25%;
+    text-align: center;
+    height: 200px;
+    padding: 50px;
+}
+
+.episodes p {
+    margin-top: 20px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color: #345e6c;
+}
+
+.episodes div:last-of-type img {
+    height: 140px;
+}
+
+.episodes div:nth-of-type(1) {
+    background-color: #c4deed;
+}
+
+.episodes div:nth-of-type(2) {
+    background-color: #e1eef6;
+}
+
+.episodes div:nth-of-type(3) {
+    background-color: #c4deed;
+}
+
+.episodes div:nth-of-type(4) {
+    background-color: #e1eef6;
+}
+
+footer {
+    background: #000;
+    height: 50px;
+    line-height: 50px;
+}
+
+footer p {
+    text-align: center;
+    color: #c4c4c4;
+}

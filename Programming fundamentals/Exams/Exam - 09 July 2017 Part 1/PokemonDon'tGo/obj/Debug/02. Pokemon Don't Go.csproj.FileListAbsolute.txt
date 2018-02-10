@@ -1,0 +1,6 @@
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 1\PokemonDon'tGo\bin\Debug\PokemonDon'tGo.exe.config
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 1\PokemonDon'tGo\bin\Debug\PokemonDon'tGo.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 1\PokemonDon'tGo\bin\Debug\PokemonDon'tGo.pdb
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 1\PokemonDon'tGo\obj\Debug\02. Pokemon Don't Go.csprojResolveAssemblyReference.cache
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 1\PokemonDon'tGo\obj\Debug\PokemonDon'tGo.exe
+C:\GitHub\SoftUni\Programming fundamentals\Exams\Exam - 09 July 2017 Part 1\PokemonDon'tGo\obj\Debug\PokemonDon'tGo.pdb

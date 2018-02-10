@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,800');
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #567788 0%, #121f25 100%) no-repeat center center;
+    font-size: 14px;
+    color: #333;
+}
+
+main {
+    background: #CBD0D9;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+h2 {
+    position: relative;
+    z-index: 10;
+    color: #121f25;
+    font-size: 54px;
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h5 {
+    position: relative;
+    text-transform: uppercase;
+    z-index: 3;
+    top: -100px;
+    left: 80px;
+    color: #6dffb8;
+    font-size: 120px;
+    margin: 0;
+    text-align: center;
+}
+
+nav {
+    background: #eff4f7;
+    margin: 40px;
+    position: relative;
+    z-index: 5;
+    height: 80px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #a4a8a9;
+    padding-bottom: 23px;
+}
+
+nav ul {
+    padding: 20px 20px 0 20px;
+    float: right;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 20px;
+    padding-bottom: 23px;
+    box-sizing: border-box;
+}
+
+nav ul li:hover {
+    cursor: pointer;
+    border-bottom: 3px solid #70e9ff;
+}
+
+nav ul li a:hover {
+    cursor: pointer;
+    color: #333;
+}
+
+nav:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+section.Logo {
+    position: absolute;
+    index: 0;
+    top: -5px;
+    left: 550px;
+    background: #ea3d51;
+    width: 140px;
+    height: 140px;
+    margin: 20px;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+h1.Brand {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    letter-spacing: 10px;
+    color: #ffffff;
+    margin-top: 120px;
+}
+
+section.img {
+    position: relative;
+    z-index: 8;
+    margin: 0 auto;
+    color: #fff;
+    width: 300px;
+    padding: 40px;
+    text-align: center;
+    background: linear-gradient(to bottom, #eb3c53 0%, #e6135c 100%) no-repeat center center;
+}
+
+section.img img {
+    display: block;
+    width: 100%;
+    max-width: 80%;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+section.img p.stars {
+    font-size: 25px;
+    margin: 10px;
+}
+
+section.img p.text {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 800px;
+}
+
+section.img p.text:after {
+    color: #AA2554;
+    content: ' " ';
+}
+
+section.img p.text:before {
+    color: #AA2554;
+    content: ' " ';
+}
+
+section.img button {
+    background: none;
+    border: 3px solid #70ecff;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #fff;
+    padding: 20px 25px;
+}
+
+section.img button:hover {
+    background: #70ecff;
+    border-color: #70ecff;
+    color: #348098;
+}
+
+section.second {
+    position: relative;
+    z-index: 4;
+    top: -250px;
+    background: #fff;
+    margin: 50px;
+    padding: 250px 35px 35px 35px;
+}
+
+section.second h1 {
+    color: #6dffb8;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+
+section.second button {
+    background: none;
+    border: 3px solid #628291;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #333;
+    padding: 10px 25px;
+}
+
+section.second button:hover {
+    background: #628291;
+    cursor: pointer;
+    color: #6dffb8;
+}
