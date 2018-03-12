@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function insideVolume(input) {
     function isInside(x, y, z) {
         let x1 = 10,
@@ -31,4 +32,39 @@ function insideVolume(input) {
 
 //insideVolume([13.1, 50, 31.5,
 //    50, 80, 50, -5, 18, 43
+=======
+function insideVolume(input) {
+    function isInside(x, y, z) {
+        let x1 = 10,
+            x2 = 50,
+            y1 = 20,
+            y2 = 80,
+            z1 = 15,
+            z2 = 50;
+
+        if (x >= x1 && x <= x2 && y >= y1 && y <= y2 && z >= z1 && z <= z2) {
+            return true;
+        }
+
+        return false;
+    }
+
+    input = input.map(Number);
+
+    for (let i = 0; i < input.length; i += 3) {
+        let x = input[i];
+        let y = input[i + 1];
+        let z = input[i + 2];
+
+        if (isInside(x, y, z)) {
+            console.log("inside");
+        } else {
+            console.log("outside");
+        }
+    }
+}
+
+//insideVolume([13.1, 50, 31.5,
+//    50, 80, 50, -5, 18, 43
+>>>>>>> 081ab26d4119c9c4893599e2ed698c0a482c6fae
 //]);
