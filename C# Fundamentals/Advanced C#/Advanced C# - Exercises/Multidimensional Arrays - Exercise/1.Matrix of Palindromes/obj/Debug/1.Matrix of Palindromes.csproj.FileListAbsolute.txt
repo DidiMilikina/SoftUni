@@ -1,0 +1,7 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\1.Matrix of Palindromes\bin\Debug\1.Matrix of Palindromes.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\1.Matrix of Palindromes\bin\Debug\1.Matrix of Palindromes.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\1.Matrix of Palindromes\bin\Debug\1.Matrix of Palindromes.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\1.Matrix of Palindromes\obj\Debug\1.Matrix of Palindromes.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\1.Matrix of Palindromes\obj\Debug\1.Matrix of Palindromes.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\1.Matrix of Palindromes\obj\Debug\1.Matrix of Palindromes.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\1.Matrix of Palindromes\obj\Debug\1.Matrix of Palindromes.pdb

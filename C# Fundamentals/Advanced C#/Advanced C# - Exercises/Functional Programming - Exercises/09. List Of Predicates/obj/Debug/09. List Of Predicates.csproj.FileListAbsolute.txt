@@ -1,0 +1,6 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\09. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\_09.List_Of_Predicates.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\_09.List_Of_Predicates.pdb

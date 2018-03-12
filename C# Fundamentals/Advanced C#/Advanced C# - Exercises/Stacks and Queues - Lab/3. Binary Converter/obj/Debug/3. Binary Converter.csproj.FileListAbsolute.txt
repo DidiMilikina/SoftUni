@@ -1,0 +1,6 @@
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Binary Converter\bin\Debug\_3.Binary_Converter.exe.config
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Binary Converter\bin\Debug\_3.Binary_Converter.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Binary Converter\bin\Debug\_3.Binary_Converter.pdb
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Binary Converter\obj\Debug\3. Binary Converter.csproj.CoreCompileInputs.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Binary Converter\obj\Debug\_3.Binary_Converter.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Binary Converter\obj\Debug\_3.Binary_Converter.pdb

@@ -1,0 +1,6 @@
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe.config
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.pdb
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\4. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.pdb

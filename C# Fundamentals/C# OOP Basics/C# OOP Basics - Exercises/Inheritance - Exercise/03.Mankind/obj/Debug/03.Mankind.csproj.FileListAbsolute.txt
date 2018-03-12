@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\bin\Debug\03.Mankind.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\bin\Debug\03.Mankind.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\bin\Debug\03.Mankind.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\obj\Debug\03.Mankind.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\obj\Debug\03.Mankind.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\obj\Debug\03.Mankind.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\03.Mankind\obj\Debug\03.Mankind.pdb

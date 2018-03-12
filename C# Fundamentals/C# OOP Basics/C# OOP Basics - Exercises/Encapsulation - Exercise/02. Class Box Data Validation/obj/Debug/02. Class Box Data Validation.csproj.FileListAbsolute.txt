@@ -1,0 +1,6 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\_02.Class_Box_Data_Validation.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\_02.Class_Box_Data_Validation.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\_02.Class_Box_Data_Validation.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\02. Class Box Data Validation.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\_02.Class_Box_Data_Validation.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\_02.Class_Box_Data_Validation.pdb

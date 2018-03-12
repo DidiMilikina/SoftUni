@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\01. Class Box\bin\Debug\_01.Class_Box.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\01. Class Box\bin\Debug\_01.Class_Box.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\01. Class Box\bin\Debug\_01.Class_Box.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\01. Class Box\obj\Debug\01. Class Box.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\01. Class Box\obj\Debug\01. Class Box.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\01. Class Box\obj\Debug\_01.Class_Box.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\01. Class Box\obj\Debug\_01.Class_Box.pdb

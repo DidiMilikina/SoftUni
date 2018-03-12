@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Lab\Polymorphism - Lab\01.Math Operations\bin\Debug\01.Math Operations.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Lab\Polymorphism - Lab\01.Math Operations\bin\Debug\01.Math Operations.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Lab\Polymorphism - Lab\01.Math Operations\bin\Debug\01.Math Operations.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Lab\Polymorphism - Lab\01.Math Operations\obj\Debug\01.Math Operations.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Lab\Polymorphism - Lab\01.Math Operations\obj\Debug\01.Math Operations.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Lab\Polymorphism - Lab\01.Math Operations\obj\Debug\01.Math Operations.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Lab\Polymorphism - Lab\01.Math Operations\obj\Debug\01.Math Operations.pdb

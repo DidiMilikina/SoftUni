@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\04. Shopping Spree\bin\Debug\_04.Shopping_Spree.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\04. Shopping Spree\bin\Debug\_04.Shopping_Spree.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\04. Shopping Spree\bin\Debug\_04.Shopping_Spree.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\04. Shopping Spree.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\04. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\_04.Shopping_Spree.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\_04.Shopping_Spree.pdb

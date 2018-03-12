@@ -1,0 +1,7 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\11.The Party\bin\Debug\11.The Party.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\11.The Party\bin\Debug\11.The Party.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\11.The Party\bin\Debug\11.The Party.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\11.The Party\obj\Debug\11.The Party.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\11.The Party\obj\Debug\11.The Party.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\11.The Party\obj\Debug\11.The Party.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\11.The Party\obj\Debug\11.The Party.pdb

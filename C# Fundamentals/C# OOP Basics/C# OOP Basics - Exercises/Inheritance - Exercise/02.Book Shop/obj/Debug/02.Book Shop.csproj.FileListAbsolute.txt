@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\02.Book Shop\bin\Debug\02.Book Shop.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\02.Book Shop\bin\Debug\02.Book Shop.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\02.Book Shop\bin\Debug\02.Book Shop.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\02.Book Shop\obj\Debug\02.Book Shop.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\02.Book Shop\obj\Debug\02.Book Shop.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\02.Book Shop\obj\Debug\02.Book Shop.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\02.Book Shop\obj\Debug\02.Book Shop.pdb

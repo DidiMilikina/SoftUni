@@ -1,0 +1,6 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\4. Add VAT\bin\Debug\_4.Add_VAT.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\4. Add VAT\bin\Debug\_4.Add_VAT.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\4. Add VAT\bin\Debug\_4.Add_VAT.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\4. Add VAT\obj\Debug\4. Add VAT.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\4. Add VAT\obj\Debug\_4.Add_VAT.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\4. Add VAT\obj\Debug\_4.Add_VAT.pdb

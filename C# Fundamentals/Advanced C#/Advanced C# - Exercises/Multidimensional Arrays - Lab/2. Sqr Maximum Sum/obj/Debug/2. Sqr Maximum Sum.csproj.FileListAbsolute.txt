@@ -1,0 +1,7 @@
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\2. Sqr Maximum Sum\bin\Debug\_2.Sqr_Maximum_Sum.exe.config
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\2. Sqr Maximum Sum\bin\Debug\_2.Sqr_Maximum_Sum.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\2. Sqr Maximum Sum\bin\Debug\_2.Sqr_Maximum_Sum.pdb
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\2. Sqr Maximum Sum\obj\Debug\2. Sqr Maximum Sum.csprojResolveAssemblyReference.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\2. Sqr Maximum Sum\obj\Debug\2. Sqr Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\2. Sqr Maximum Sum\obj\Debug\_2.Sqr_Maximum_Sum.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\2. Sqr Maximum Sum\obj\Debug\_2.Sqr_Maximum_Sum.pdb

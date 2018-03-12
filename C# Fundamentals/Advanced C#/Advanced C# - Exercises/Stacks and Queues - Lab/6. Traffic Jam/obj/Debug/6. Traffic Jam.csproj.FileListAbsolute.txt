@@ -1,0 +1,7 @@
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.exe.config
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.pdb
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Traffic Jam\obj\Debug\6. Traffic Jam.csprojResolveAssemblyReference.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Traffic Jam\obj\Debug\6. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Traffic Jam\obj\Debug\_6.Traffic_Jam.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Traffic Jam\obj\Debug\_6.Traffic_Jam.pdb

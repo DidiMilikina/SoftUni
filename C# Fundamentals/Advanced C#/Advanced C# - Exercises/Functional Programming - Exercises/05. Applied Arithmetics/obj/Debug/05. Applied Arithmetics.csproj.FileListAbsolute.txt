@@ -1,0 +1,6 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\05. Applied Arithmetics\obj\Debug\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\05. Applied Arithmetics\obj\Debug\_05.Applied_Arithmetics.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\05. Applied Arithmetics\obj\Debug\_05.Applied_Arithmetics.pdb

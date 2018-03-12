@@ -1,0 +1,7 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\08. Custom Comparator\obj\Debug\08. Custom Comparator.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\08. Custom Comparator\obj\Debug\08. Custom Comparator.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.pdb

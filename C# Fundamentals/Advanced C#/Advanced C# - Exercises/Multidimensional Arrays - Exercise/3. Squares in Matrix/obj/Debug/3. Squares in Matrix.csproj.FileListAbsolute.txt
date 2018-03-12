@@ -1,0 +1,6 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\3. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\_3.Squares_in_Matrix.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\_3.Squares_in_Matrix.pdb

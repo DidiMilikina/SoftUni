@@ -1,0 +1,6 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\03. Custom Min Function\obj\Debug\03. Custom Min Function.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.pdb

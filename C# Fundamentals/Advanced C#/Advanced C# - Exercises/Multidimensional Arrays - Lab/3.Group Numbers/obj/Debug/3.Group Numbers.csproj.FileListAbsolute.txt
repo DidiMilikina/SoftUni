@@ -1,0 +1,7 @@
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\3.Group Numbers\bin\Debug\3.Group Numbers.exe.config
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\3.Group Numbers\bin\Debug\3.Group Numbers.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\3.Group Numbers\bin\Debug\3.Group Numbers.pdb
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\3.Group Numbers\obj\Debug\3.Group Numbers.csprojResolveAssemblyReference.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\3.Group Numbers\obj\Debug\3.Group Numbers.csproj.CoreCompileInputs.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\3.Group Numbers\obj\Debug\3.Group Numbers.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\3.Group Numbers\obj\Debug\3.Group Numbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\11.Poisonous Plants\bin\Debug\11.Poisonous Plants.exe.config
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\11.Poisonous Plants\bin\Debug\11.Poisonous Plants.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\11.Poisonous Plants\bin\Debug\11.Poisonous Plants.pdb
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\11.Poisonous Plants\obj\Debug\11.Poisonous Plants.csprojResolveAssemblyReference.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\11.Poisonous Plants\obj\Debug\11.Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\11.Poisonous Plants\obj\Debug\11.Poisonous Plants.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\11.Poisonous Plants\obj\Debug\11.Poisonous Plants.pdb

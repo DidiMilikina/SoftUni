@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.pdb

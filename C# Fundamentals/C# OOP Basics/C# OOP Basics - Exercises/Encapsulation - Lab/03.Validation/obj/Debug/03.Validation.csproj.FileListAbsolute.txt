@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\03.Validation\bin\Debug\03.Validation.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\03.Validation\bin\Debug\03.Validation.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\03.Validation\bin\Debug\03.Validation.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\03.Validation\obj\Debug\03.Validation.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\03.Validation\obj\Debug\03.Validation.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\03.Validation\obj\Debug\03.Validation.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\03.Validation\obj\Debug\03.Validation.pdb

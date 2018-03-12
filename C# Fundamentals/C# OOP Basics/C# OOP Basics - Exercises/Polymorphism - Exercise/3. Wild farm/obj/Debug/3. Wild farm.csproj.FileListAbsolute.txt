@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Exercise\3. Wild farm\obj\Debug\3. Wild farm.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Exercise\3. Wild farm\obj\Debug\3. Wild farm.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Exercise\3. Wild farm\bin\Debug\_3.Wild_farm.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Exercise\3. Wild farm\bin\Debug\_3.Wild_farm.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Exercise\3. Wild farm\bin\Debug\_3.Wild_farm.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Exercise\3. Wild farm\obj\Debug\_3.Wild_farm.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Polymorphism - Exercise\3. Wild farm\obj\Debug\_3.Wild_farm.pdb

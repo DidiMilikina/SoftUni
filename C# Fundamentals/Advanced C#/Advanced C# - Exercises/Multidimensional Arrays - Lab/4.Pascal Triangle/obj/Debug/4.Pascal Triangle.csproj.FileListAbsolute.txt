@@ -1,0 +1,7 @@
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\4.Pascal Triangle\bin\Debug\4.Pascal Triangle.exe.config
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\4.Pascal Triangle\bin\Debug\4.Pascal Triangle.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\4.Pascal Triangle\bin\Debug\4.Pascal Triangle.pdb
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\4.Pascal Triangle\obj\Debug\4.Pascal Triangle.csprojResolveAssemblyReference.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\4.Pascal Triangle\obj\Debug\4.Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\4.Pascal Triangle\obj\Debug\4.Pascal Triangle.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\4.Pascal Triangle\obj\Debug\4.Pascal Triangle.pdb

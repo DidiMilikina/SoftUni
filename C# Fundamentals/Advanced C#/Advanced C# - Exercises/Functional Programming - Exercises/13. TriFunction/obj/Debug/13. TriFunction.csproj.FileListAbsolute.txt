@@ -1,0 +1,7 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\13. TriFunction\bin\Debug\_13.TriFunction.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\13. TriFunction\bin\Debug\_13.TriFunction.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\13. TriFunction\bin\Debug\_13.TriFunction.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\13. TriFunction\obj\Debug\13. TriFunction.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\13. TriFunction\obj\Debug\13. TriFunction.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\13. TriFunction\obj\Debug\_13.TriFunction.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\13. TriFunction\obj\Debug\_13.TriFunction.pdb

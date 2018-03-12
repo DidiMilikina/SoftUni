@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\05. Pizza Calories.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\05. Pizza Calories.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\05. Pizza Calories\bin\Debug\_05.Pizza_Calories.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\05. Pizza Calories\bin\Debug\_05.Pizza_Calories.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\05. Pizza Calories\bin\Debug\_05.Pizza_Calories.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\_05.Pizza_Calories.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Exercise\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\_05.Pizza_Calories.pdb

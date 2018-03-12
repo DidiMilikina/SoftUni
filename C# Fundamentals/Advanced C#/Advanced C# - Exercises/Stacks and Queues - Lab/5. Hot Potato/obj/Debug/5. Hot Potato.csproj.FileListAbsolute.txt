@@ -1,0 +1,7 @@
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Hot Potato\bin\Debug\_5.Hot_Potato.exe.config
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Hot Potato\bin\Debug\_5.Hot_Potato.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Hot Potato\bin\Debug\_5.Hot_Potato.pdb
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Hot Potato\obj\Debug\5. Hot Potato.csprojResolveAssemblyReference.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Hot Potato\obj\Debug\5. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Hot Potato\obj\Debug\_5.Hot_Potato.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Hot Potato\obj\Debug\_5.Hot_Potato.pdb

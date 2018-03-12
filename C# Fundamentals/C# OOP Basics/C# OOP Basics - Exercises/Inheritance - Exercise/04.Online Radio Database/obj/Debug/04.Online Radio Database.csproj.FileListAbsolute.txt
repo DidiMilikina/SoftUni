@@ -1,0 +1,6 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\04.Online Radio Database\bin\Debug\04.Online Radio Database.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\04.Online Radio Database\bin\Debug\04.Online Radio Database.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\04.Online Radio Database\bin\Debug\04.Online Radio Database.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\04.Online Radio Database\obj\Debug\04.Online Radio Database.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\04.Online Radio Database\obj\Debug\04.Online Radio Database.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\04.Online Radio Database\obj\Debug\04.Online Radio Database.pdb

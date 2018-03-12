@@ -1,0 +1,7 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\10. Predicate Party!.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\10. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.pdb

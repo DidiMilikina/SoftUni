@@ -1,0 +1,6 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\_04.Find_Evens_or_Odds.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\_04.Find_Evens_or_Odds.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\_04.Find_Evens_or_Odds.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\_04.Find_Evens_or_Odds.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\_04.Find_Evens_or_Odds.pdb

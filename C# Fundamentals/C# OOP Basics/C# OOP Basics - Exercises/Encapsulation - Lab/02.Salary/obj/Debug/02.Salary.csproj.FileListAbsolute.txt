@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\02.Salary\bin\Debug\02.Salary.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\02.Salary\bin\Debug\02.Salary.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\02.Salary\bin\Debug\02.Salary.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\02.Salary\obj\Debug\02.Salary.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\02.Salary\obj\Debug\02.Salary.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\02.Salary\obj\Debug\02.Salary.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Encapsulation - Lab\02.Salary\obj\Debug\02.Salary.csprojResolveAssemblyReference.cache

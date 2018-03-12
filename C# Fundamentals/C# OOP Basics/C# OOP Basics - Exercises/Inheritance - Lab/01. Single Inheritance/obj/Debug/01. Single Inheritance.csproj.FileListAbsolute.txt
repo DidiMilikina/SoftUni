@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Lab\Inheritance - Lab\01. Single Inheritance\bin\Debug\_01.Single_Inheritance.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Lab\Inheritance - Lab\01. Single Inheritance\bin\Debug\_01.Single_Inheritance.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Lab\Inheritance - Lab\01. Single Inheritance\bin\Debug\_01.Single_Inheritance.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Lab\Inheritance - Lab\01. Single Inheritance\obj\Debug\01. Single Inheritance.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Lab\Inheritance - Lab\01. Single Inheritance\obj\Debug\01. Single Inheritance.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Lab\Inheritance - Lab\01. Single Inheritance\obj\Debug\_01.Single_Inheritance.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Lab\Inheritance - Lab\01. Single Inheritance\obj\Debug\_01.Single_Inheritance.pdb

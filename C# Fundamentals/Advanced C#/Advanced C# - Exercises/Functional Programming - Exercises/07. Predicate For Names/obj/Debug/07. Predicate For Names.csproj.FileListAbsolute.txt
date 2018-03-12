@@ -1,0 +1,6 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\07. Predicate For Names\obj\Debug\07. Predicate For Names.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\07. Predicate For Names\obj\Debug\_07.Predicate_For_Names.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\07. Predicate For Names\obj\Debug\_07.Predicate_For_Names.pdb

@@ -1,0 +1,6 @@
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09.Stack Fibonacci\bin\Debug\09.Stack Fibonacci.exe.config
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09.Stack Fibonacci\bin\Debug\09.Stack Fibonacci.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09.Stack Fibonacci\bin\Debug\09.Stack Fibonacci.pdb
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09.Stack Fibonacci\obj\Debug\09.Stack Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09.Stack Fibonacci\obj\Debug\09.Stack Fibonacci.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Exercise\Stacks and Queues - Exercise\09.Stack Fibonacci\obj\Debug\09.Stack Fibonacci.pdb

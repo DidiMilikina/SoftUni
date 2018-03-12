@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Lab\Defining Classes - Lab\01.BankAccount\bin\Debug\01.BankAccount.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Lab\Defining Classes - Lab\01.BankAccount\bin\Debug\01.BankAccount.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Lab\Defining Classes - Lab\01.BankAccount\bin\Debug\01.BankAccount.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Lab\Defining Classes - Lab\01.BankAccount\obj\Debug\01.BankAccount.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Lab\Defining Classes - Lab\01.BankAccount\obj\Debug\01.BankAccount.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Lab\Defining Classes - Lab\01.BankAccount\obj\Debug\01.BankAccount.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Lab\Defining Classes - Lab\01.BankAccount\obj\Debug\01.BankAccount.pdb

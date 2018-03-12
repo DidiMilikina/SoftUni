@@ -1,0 +1,7 @@
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.exe.config
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.pdb
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\1. Reverse Strings.csprojResolveAssemblyReference.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\1. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\_1.Reverse_Strings.exe
+C:\Users\didim\Desktop\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\_1.Reverse_Strings.pdb

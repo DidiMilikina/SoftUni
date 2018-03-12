@@ -1,0 +1,7 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\01.Person\bin\Debug\01.Person.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\01.Person\bin\Debug\01.Person.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\01.Person\bin\Debug\01.Person.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\01.Person\obj\Debug\01.Person.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\01.Person\obj\Debug\01.Person.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\01.Person\obj\Debug\01.Person.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Inheritance - Exercise\Inheritance - Exercise\01.Person\obj\Debug\01.Person.pdb

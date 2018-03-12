@@ -1,0 +1,7 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\1.Sort Even Nums\bin\Debug\1.Sort Even Nums.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\1.Sort Even Nums\bin\Debug\1.Sort Even Nums.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\1.Sort Even Nums\bin\Debug\1.Sort Even Nums.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\1.Sort Even Nums\obj\Debug\1.Sort Even Nums.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\1.Sort Even Nums\obj\Debug\1.Sort Even Nums.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\1.Sort Even Nums\obj\Debug\1.Sort Even Nums.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming\Functional Programming - Lab\1.Sort Even Nums\obj\Debug\1.Sort Even Nums.pdb

@@ -1,0 +1,7 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\5.Rubiks Matrix\bin\Debug\5.Rubiks Matrix.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\5.Rubiks Matrix\bin\Debug\5.Rubiks Matrix.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\5.Rubiks Matrix\bin\Debug\5.Rubiks Matrix.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\5.Rubiks Matrix\obj\Debug\5.Rubiks Matrix.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\5.Rubiks Matrix\obj\Debug\5.Rubiks Matrix.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\5.Rubiks Matrix\obj\Debug\5.Rubiks Matrix.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\5.Rubiks Matrix\obj\Debug\5.Rubiks Matrix.pdb

@@ -1,0 +1,7 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\02. Knights of Honor\obj\Debug\02. Knights of Honor.csprojResolveAssemblyReference.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\02. Knights of Honor\obj\Debug\02. Knights of Honor.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\02. Knights of Honor\obj\Debug\_02.Knights_of_Honor.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Functional Programming - Exercises\Functional Programming - Exercises\02. Knights of Honor\obj\Debug\_02.Knights_of_Honor.pdb

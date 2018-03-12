@@ -1,0 +1,6 @@
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Exercise\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\_02.Creating_Constructors.exe.config
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Exercise\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\_02.Creating_Constructors.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Exercise\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\_02.Creating_Constructors.pdb
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Exercise\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\02. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Exercise\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\_02.Creating_Constructors.exe
+C:\C# Fundamentals\C# OOP Basics\C# OOP Basics - Exercises\Defining Classes - Exercise\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\_02.Creating_Constructors.pdb

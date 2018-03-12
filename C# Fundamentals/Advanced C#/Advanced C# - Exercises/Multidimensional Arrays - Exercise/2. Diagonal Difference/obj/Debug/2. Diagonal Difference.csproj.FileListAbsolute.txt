@@ -1,0 +1,7 @@
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.exe.config
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\2. Diagonal Difference\obj\Debug\2. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\2. Diagonal Difference\obj\Debug\_2.Diagonal_Difference.exe
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\2. Diagonal Difference\obj\Debug\_2.Diagonal_Difference.pdb
+C:\C# Fundamentals\Advanced C#\Advanced C# - Exercises\Multidimensional Arrays - Exercise\2. Diagonal Difference\obj\Debug\2. Diagonal Difference.csprojResolveAssemblyReference.cache
